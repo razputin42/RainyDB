@@ -9,6 +9,7 @@
 		<text>An opaque mottled deep blue gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Banded Agate</name>
@@ -19,6 +20,7 @@
 		<text>A translucent striped brown, blue, white, or red gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Blue Quartz</name>
@@ -29,6 +31,7 @@
 		<text>A transparent pale blue gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Eye Agate</name>
@@ -39,6 +42,7 @@
 		<text>A translucent circles of gray, white, brown, blue, or green gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Hematite</name>
@@ -49,6 +53,7 @@
 		<text>An opaque gray-black gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Lapis Lazuli</name>
@@ -59,6 +64,7 @@
 		<text>An opaque light and dark blue with yellow flecks gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Malachite</name>
@@ -69,6 +75,7 @@
 		<text>An opaque striated light and dark green gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Moss Agate</name>
@@ -79,6 +86,7 @@
 		<text>A translucent pink or yellow-white with mossy gray or green markings gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Obsidian</name>
@@ -89,6 +97,7 @@
 		<text>An opaque black gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Rhodochrosite</name>
@@ -99,6 +108,7 @@
 		<text>An opaque light pink gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Tiger Eye</name>
@@ -109,6 +119,7 @@
 		<text>A translucent brown with golden center gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>10 GP - Turquoise</name>
@@ -119,6 +130,7 @@
 		<text>An opaque light blue-green gemstone worth 10 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Bloodstone</name>
@@ -129,6 +141,7 @@
 		<text>An opaque dark gray with red flecks gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Carnelian</name>
@@ -139,6 +152,7 @@
 		<text>An opaque orange to red-brown gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Chalcedony</name>
@@ -149,6 +163,7 @@
 		<text>An opaque white gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Chrysoprase</name>
@@ -159,6 +174,7 @@
 		<text>A translucent green gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Citrine</name>
@@ -169,6 +185,7 @@
 		<text>A transparent pale yellow-brown gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Jasper</name>
@@ -179,6 +196,7 @@
 		<text>An opaque blue, black, or brown gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Moonstone</name>
@@ -189,6 +207,7 @@
 		<text>A translucent white with pale blue glow gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Onyx</name>
@@ -199,6 +218,7 @@
 		<text>An opaque bands of black and white, or pure black or white gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Quartz</name>
@@ -209,6 +229,7 @@
 		<text>A transparent white, smoky gray, or yellow gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Sardonyx</name>
@@ -219,6 +240,7 @@
 		<text>An opaque bands of red and white gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Star rose quartz</name>
@@ -229,6 +251,7 @@
 		<text>A translucent rosy stone with white star-shaped center gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>50 GP - Zircon</name>
@@ -239,6 +262,7 @@
 		<text>A transparent pale blue-green gemstone worth 50 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Amber</name>
@@ -249,6 +273,7 @@
 		<text>A transparent watery gold to rich gold gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Amethyst</name>
@@ -259,6 +284,7 @@
 		<text>A transparent deep purple gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Chrysoberyl</name>
@@ -269,6 +295,7 @@
 		<text>A transparent yellow-green to pale green gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Coral</name>
@@ -279,6 +306,7 @@
 		<text>An opaque crimson gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Garnet</name>
@@ -289,6 +317,7 @@
 		<text>A transparent red, brown-green, or violet gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Jade</name>
@@ -299,6 +328,7 @@
 		<text>A translucent light green, deep green, or white gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Jet</name>
@@ -309,6 +339,7 @@
 		<text>An opaque deep black gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Pearl</name>
@@ -319,6 +350,7 @@
 		<text>An opaque lustrous white, yellow, or pink gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Spinel</name>
@@ -329,6 +361,7 @@
 		<text>A transparent red, red-brown, or deep green gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>100 GP - Tourmaline</name>
@@ -339,6 +372,7 @@
 		<text>A transparent pale green, blue, brown, or red gemstone worth 100 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Alexandrite</name>
@@ -349,6 +383,7 @@
 		<text>A transparent dark green gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Aquamarine</name>
@@ -359,6 +394,7 @@
 		<text>A transparent pale blue-green gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Black Pearl</name>
@@ -369,6 +405,7 @@
 		<text>An opaque pure black gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Blue Spinel</name>
@@ -379,6 +416,7 @@
 		<text>A transparent deep blue gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Peridot</name>
@@ -389,6 +427,7 @@
 		<text>A transparent rich olive green gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>500 GP - Topaz</name>
@@ -399,6 +438,7 @@
 		<text>A transparent golden yellow gemstone worth 500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Black Opal</name>
@@ -409,6 +449,7 @@
 		<text>A translucent dark green with black mottling and golden flecks gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Blue Sapphire</name>
@@ -419,6 +460,7 @@
 		<text>A transparent blue-white to medium blue gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Emerald</name>
@@ -429,6 +471,7 @@
 		<text>A transparent deep bright green gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Fire Opal</name>
@@ -439,6 +482,7 @@
 		<text>A translucent fiery red gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Opal</name>
@@ -449,6 +493,7 @@
 		<text>A translucent pale blue with green and golden mottling gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Star Ruby</name>
@@ -459,6 +504,7 @@
 		<text>A translucent ruby with white star-shaped center gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Star Sapphire</name>
@@ -469,6 +515,7 @@
 		<text>A translucent blue sapphire with white star-shaped center gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>1000 GP - Yellow Sapphire</name>
@@ -479,6 +526,7 @@
 		<text>A transparent fiery yellow or yellow-green gemstone worth 1000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>5000 GP - Black Sapphire</name>
@@ -489,6 +537,7 @@
 		<text>A translucent lustrous black with glowing highlights gemstone worth 5000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>5000 GP - Diamond</name>
@@ -499,6 +548,7 @@
 		<text>A transparent blue-white, canary, pink, brown, or blue gemstone worth 5000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>5000 GP - Jacinth</name>
@@ -509,6 +559,7 @@
 		<text>A transparent fiery orange gemstone worth 5000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>5000 GP - Ruby</name>
@@ -519,6 +570,7 @@
 		<text>A transparent clear red to deep crimson gemstone worth 5000 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Silver ewer</name>
@@ -529,6 +581,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Carved bone statuette</name>
@@ -539,6 +592,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Small gold bracelet</name>
@@ -549,6 +603,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Cloth-of-gold vestments</name>
@@ -559,6 +614,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Black velvet mask stitched with silver thread</name>
@@ -569,6 +625,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Copper chalice with silver filigree</name>
@@ -579,6 +636,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Pair of engraved bone dice</name>
@@ -589,6 +647,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Small mirror set in a painted wooden frame</name>
@@ -599,6 +658,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Embroidered silk handkerchief</name>
@@ -609,6 +669,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>25 GP - Gold locket with a painted portrait inside</name>
@@ -619,6 +680,7 @@
 		<text>This art object is worth 25 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 134</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Gold ring set with bloodstones</name>
@@ -629,6 +691,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Carved ivory statuette</name>
@@ -639,6 +702,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Large gold bracelet</name>
@@ -649,6 +713,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Silver necklace with a gemstone pendant</name>
@@ -659,6 +724,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Bronze crown</name>
@@ -669,6 +735,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Silk robe with gold embroidery</name>
@@ -679,6 +746,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Large well-made tapestry</name>
@@ -689,6 +757,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Brass mug with jade inlay</name>
@@ -699,6 +768,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Box of turquoise animal figurines</name>
@@ -709,6 +779,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>250 GP - Gold bird cage with electrum filigree</name>
@@ -719,6 +790,7 @@
 		<text>This art object is worth 250 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Silver chalice set with moonstones</name>
@@ -729,6 +801,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Silver-plated steel longsword with jet set in hilt</name>
@@ -739,6 +812,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Carved harp of exotic wood with ivory inlay and zircon gems</name>
@@ -749,6 +823,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Small gold idol</name>
@@ -759,6 +834,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Gold dragon comb set with red garnets as eyes</name>
@@ -769,6 +845,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Bottle stopper cork embossed with gold leaf and set with amethysts</name>
@@ -779,6 +856,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Ceremonial electrum dagger with a black pearl in the pommel</name>
@@ -789,6 +867,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Silver and gold brooch</name>
@@ -799,6 +878,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Obsidian statuette with gold fittings and inlay</name>
@@ -809,6 +889,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>750 GP - Painted gold war mask</name>
@@ -819,6 +900,7 @@
 		<text>This art object is worth 750 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Fine gold chain set with a fire opal</name>
@@ -829,6 +911,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Old masterpiece painting</name>
@@ -839,6 +922,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Embroidered silk and velvet mantle set with numerous moonstones</name>
@@ -849,6 +933,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Platinum bracelet set with a sapphire</name>
@@ -859,6 +944,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Embroidered glove set with jewel chips</name>
@@ -869,6 +955,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Jeweled anklet</name>
@@ -879,6 +966,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Gold music box</name>
@@ -889,6 +977,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Gold circlet set with four aquamarines</name>
@@ -899,6 +988,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - Eye patch with a mock eye set in blue sapphire and moonstone</name>
@@ -909,6 +999,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>2500 GP - A necklace string of small pink pearls</name>
@@ -919,6 +1010,7 @@
 		<text>This art object is worth 2500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Jeweled gold crown</name>
@@ -929,6 +1021,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Jeweled platinum ring</name>
@@ -939,6 +1032,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Small gold statuette set with rubies</name>
@@ -949,6 +1043,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Gold cup set with emeralds</name>
@@ -959,6 +1054,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Gold jewelry box with platinum filigree</name>
@@ -969,6 +1065,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Painted gold child's sarcophagus</name>
@@ -979,6 +1076,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Jade game board with solid gold playing pieces</name>
@@ -989,6 +1087,7 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 	<item>
 		<name>7500 GP - Bejeweled ivory drinking horn with gold filigree</name>
@@ -999,5 +1098,6 @@
 		<text>This art object is worth 7500 gp.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 135</text>
+		<source>Valuable Items</source>
 	</item>
 </compendium>

@@ -19,6 +19,7 @@
 		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
 		<text />
 		<text>Source: Player's Handbook, page 143</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Electrum (ep)</name>
@@ -39,6 +40,7 @@
 		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
 		<text />
 		<text>Source: Player's Handbook, page 143</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Gold (gp)</name>
@@ -59,6 +61,7 @@
 		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
 		<text />
 		<text>Source: Player's Handbook, page 143</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Platinum (pp)</name>
@@ -79,6 +82,7 @@
 		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
 		<text />
 		<text>Source: Player's Handbook, page 143</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Silver (sp)</name>
@@ -99,6 +103,7 @@
 		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
 		<text />
 		<text>Source: Player's Handbook, page 143</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Arrows</name>
@@ -109,6 +114,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Arrows (20)</name>
@@ -119,6 +125,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Blowgun Needles</name>
@@ -129,6 +136,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Blowgun Needles (50)</name>
@@ -139,6 +147,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Crossbow Bolts</name>
@@ -149,6 +158,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Crossbow Bolts (20)</name>
@@ -159,6 +169,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sling Bullets</name>
@@ -169,6 +180,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sling Bullets (20)</name>
@@ -179,6 +191,7 @@
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Abacus</name>
@@ -187,6 +200,7 @@
 		<value>2gp</value>
 		<weight>2</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Acid (vial)</name>
@@ -197,6 +211,7 @@
 		<text>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</text>
 		<text />
 		<text>Source: Player's Handbook, page 148</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Alchemist's Fire (flask)</name>
@@ -207,6 +222,7 @@
 		<text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</text>
 		<text />
 		<text>Source: Player's Handbook, page 148</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Alchemist's Supplies</name>
@@ -217,6 +233,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Antitoxin</name>
@@ -226,6 +243,7 @@
 		<text>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Backpack</name>
@@ -236,6 +254,7 @@
 		<text>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Bagpipes</name>
@@ -250,6 +269,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Ball Bearings</name>
@@ -260,6 +280,7 @@
 		<text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Barrel</name>
@@ -270,6 +291,7 @@
 		<text>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Basic Poison (vial)</name>
@@ -279,6 +301,7 @@
 		<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Basket</name>
@@ -289,6 +312,7 @@
 		<text>A basket holds 2 cubic feet or 40 pounds of gear.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Bedroll</name>
@@ -297,6 +321,7 @@
 		<value>1gp</value>
 		<weight>7</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Bell</name>
@@ -304,6 +329,7 @@
         <magic></magic>
 		<value>1gp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Blanket</name>
@@ -312,6 +338,7 @@
 		<value>5sp</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Block and Tackle</name>
@@ -322,6 +349,7 @@
 		<text>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Book</name>
@@ -332,6 +360,7 @@
 		<text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Brewer's Supplies</name>
@@ -342,6 +371,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Bucket</name>
@@ -352,6 +382,7 @@
 		<text>A bucket holds 3 gallons of liquid or 1/2 cubic foot of solids.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Bullseye Lantern</name>
@@ -362,6 +393,7 @@
 		<text>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Burglar's Pack</name>
@@ -400,6 +432,7 @@
 		<text>• 50 feet of hempen rope</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Calligrapher's Supplies</name>
@@ -410,6 +443,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Caltrops</name>
@@ -420,6 +454,7 @@
 		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Caltrops (20)</name>
@@ -430,6 +465,7 @@
 		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Candle</name>
@@ -439,6 +475,7 @@
 		<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Carpenter's Tools</name>
@@ -449,6 +486,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Cartographer's Tools</name>
@@ -459,6 +497,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Chain (10 feet)</name>
@@ -469,6 +508,7 @@
 		<text>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Chalk (1 piece)</name>
@@ -476,6 +516,7 @@
         <magic></magic>
 		<value>1cp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Chest</name>
@@ -486,6 +527,7 @@
 		<text>A chest holds 12 cubic feet or 300 pounds of gear.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Climber's Kit</name>
@@ -496,6 +538,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Cobbler's Tools</name>
@@ -506,6 +549,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Common Clothes</name>
@@ -514,6 +558,7 @@
 		<value>5sp</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Component Pouch</name>
@@ -524,6 +569,7 @@
 		<text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Cook's Utensils</name>
@@ -534,6 +580,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Costume Clothes</name>
@@ -542,6 +589,7 @@
 		<value>5gp</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Crossbow Bolt Case</name>
@@ -552,6 +600,7 @@
 		<text>This wooden case can hold up to twenty crossbow bolts.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Crowbar</name>
@@ -562,6 +611,7 @@
 		<text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Crystal</name>
@@ -572,6 +622,7 @@
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dice Set</name>
@@ -581,6 +632,7 @@
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Diplomat's Pack</name>
@@ -613,6 +665,7 @@
 		<text>• soap.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Disguise Kit</name>
@@ -623,6 +676,7 @@
 		<text>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dragonchess Set</name>
@@ -633,6 +687,7 @@
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Drum</name>
@@ -647,6 +702,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dulcimer</name>
@@ -661,6 +717,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dungeoneer's Pack</name>
@@ -689,6 +746,7 @@
 		<text>• 50 feet of hempen rope</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Entertainer's Pack</name>
@@ -713,6 +771,7 @@
 		<text>• a disguise kit.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Explorer's Pack</name>
@@ -739,6 +798,7 @@
 		<text>• 50 feet of hempen rope</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Fine Clothes</name>
@@ -747,6 +807,7 @@
 		<value>15gp</value>
 		<weight>6</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Fishing Tackle</name>
@@ -757,6 +818,7 @@
 		<text>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Flask</name>
@@ -767,6 +829,7 @@
 		<text>A flask holds 1 pint of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Flute</name>
@@ -781,6 +844,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Forgery Kit</name>
@@ -791,6 +855,7 @@
 		<text>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Glass Bottle</name>
@@ -801,6 +866,7 @@
 		<text>A bottle holds 1 1/2 pints of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Glassblower's Tools</name>
@@ -811,6 +877,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Grappling Hook</name>
@@ -819,6 +886,7 @@
 		<value>2gp</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hammer</name>
@@ -827,6 +895,7 @@
 		<value>1gp</value>
 		<weight>3</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Healer's Kit</name>
@@ -837,6 +906,7 @@
 		<text>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hempen Rope (50 feet)</name>
@@ -847,6 +917,7 @@
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Herbalism Kit</name>
@@ -857,6 +928,7 @@
 		<text>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Holy Symbol (Amulet)</name>
@@ -869,6 +941,7 @@
 		<text>A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Holy Symbol (Emblem)</name>
@@ -880,6 +953,7 @@
 		<text>A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Holy Symbol (Reliquary)</name>
@@ -892,6 +966,7 @@
 		<text>A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Holy Water (flask)</name>
@@ -902,6 +977,7 @@
 		<text>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.\n\tA cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hooded Lantern</name>
@@ -912,6 +988,7 @@
 		<text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Horn</name>
@@ -926,6 +1003,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hourglass</name>
@@ -934,6 +1012,7 @@
 		<value>25gp</value>
 		<weight>1</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hunting Trap</name>
@@ -944,6 +1023,7 @@
 		<text>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Ink (1 ounce bottle)</name>
@@ -951,6 +1031,7 @@
 		<type>G</type>
         <magic></magic>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Ink Pen</name>
@@ -958,6 +1039,7 @@
 		<type>G</type>
         <magic></magic>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Iron Pot</name>
@@ -968,6 +1050,7 @@
 		<text>An iron pot holds 1 gallon of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Iron Spikes</name>
@@ -976,6 +1059,7 @@
 		<value>1sp</value>
 		<weight>0.5</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Iron Spikes (10)</name>
@@ -984,6 +1068,7 @@
 		<value>1gp</value>
 		<weight>5</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Jeweler's Tools</name>
@@ -994,6 +1079,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Jug</name>
@@ -1004,6 +1090,7 @@
 		<text>A jug holds 1 gallon of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Ladder (10-foot)</name>
@@ -1012,6 +1099,7 @@
 		<value>1sp</value>
 		<weight>25</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Lamp</name>
@@ -1022,6 +1110,7 @@
 		<text>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Leatherworker's Tools</name>
@@ -1032,6 +1121,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Lock</name>
@@ -1042,6 +1132,7 @@
 		<text>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Lute</name>
@@ -1056,6 +1147,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Lyre</name>
@@ -1070,6 +1162,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Magnifying Glass</name>
@@ -1079,6 +1172,7 @@
 		<text>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Manacles</name>
@@ -1089,6 +1183,7 @@
 		<text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Map or Scroll Case</name>
@@ -1099,6 +1194,7 @@
 		<text>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Mason's Tools</name>
@@ -1109,6 +1205,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Merchant's Scale</name>
@@ -1119,6 +1216,7 @@
 		<text>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Mess Kit</name>
@@ -1129,6 +1227,7 @@
 		<text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Miner's Pick</name>
@@ -1137,6 +1236,7 @@
 		<value>2gp</value>
 		<weight>10</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Navigator's Tools</name>
@@ -1147,6 +1247,7 @@
 		<text>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Oil (flask)</name>
@@ -1157,6 +1258,7 @@
 		<text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</text>
 		<text />
 		<text>Source: Player's Handbook, page 152</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Orb</name>
@@ -1167,6 +1269,7 @@
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Painter's Supplies</name>
@@ -1177,6 +1280,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pan Flute</name>
@@ -1191,6 +1295,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Paper (one sheet)</name>
@@ -1198,6 +1303,7 @@
         <magic></magic>
 		<value>2sp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Parchment (one sheet)</name>
@@ -1205,6 +1311,7 @@
         <magic></magic>
 		<value>1sp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Perfume (vial)</name>
@@ -1212,6 +1319,7 @@
         <magic></magic>
 		<value>5gp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pitcher</name>
@@ -1222,6 +1330,7 @@
 		<text>A pitcher holds 1 gallon of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Piton</name>
@@ -1230,6 +1339,7 @@
 		<value>5cp</value>
 		<weight>0.25</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Playing Card Set</name>
@@ -1239,6 +1349,7 @@
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Poisoner's Kit</name>
@@ -1249,6 +1360,7 @@
 		<text>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pole (10-foot)</name>
@@ -1257,6 +1369,7 @@
 		<value>5cp</value>
 		<weight>7</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Portable Ram</name>
@@ -1267,6 +1380,7 @@
 		<text>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Potter's Tools</name>
@@ -1277,6 +1391,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pouch</name>
@@ -1287,6 +1402,7 @@
 		<text>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to 1/5 cubic foot or 6 pounds of gear.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Priest's Pack</name>
@@ -1317,6 +1433,7 @@
 		<text>• a waterskin.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Quiver</name>
@@ -1327,6 +1444,7 @@
 		<text>A quiver can hold up to 20 arrows.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Rations (1 day)</name>
@@ -1337,6 +1455,7 @@
 		<text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Robes</name>
@@ -1345,6 +1464,7 @@
 		<value>1gp</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Rod</name>
@@ -1355,6 +1475,7 @@
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sack</name>
@@ -1365,6 +1486,7 @@
 		<text>A sack can hold up to 1 cubic foot or 30 pounds of gear.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Scholar's Pack</name>
@@ -1389,6 +1511,7 @@
 		<text>• a small knife.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sealing Wax</name>
@@ -1396,6 +1519,7 @@
 		<type>G</type>
         <magic></magic>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Shawm</name>
@@ -1410,6 +1534,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Shovel</name>
@@ -1418,6 +1543,7 @@
 		<value>2gp</value>
 		<weight>5</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Signal Whistle</name>
@@ -1425,6 +1551,7 @@
 		<type>G</type>
         <magic></magic>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Signet Ring</name>
@@ -1432,6 +1559,7 @@
 		<type>G</type>
         <magic></magic>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Silk Rope (50 feet)</name>
@@ -1442,6 +1570,7 @@
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sledge Hammer</name>
@@ -1450,6 +1579,7 @@
         <magic></magic>
 		<weight>10</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Smith's Tools</name>
@@ -1460,6 +1590,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Soap</name>
@@ -1467,6 +1598,7 @@
         <magic></magic>
 		<value>2cp</value>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Spellbook</name>
@@ -1477,6 +1609,7 @@
 		<text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sprig of Mistletoe</name>
@@ -1486,6 +1619,7 @@
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Spyglass</name>
@@ -1496,6 +1630,7 @@
 		<text>Objects viewed through a spyglass are magnified to twice their size.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Staff</name>
@@ -1506,6 +1641,7 @@
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Steel Mirror</name>
@@ -1514,6 +1650,7 @@
 		<value>5gp</value>
 		<weight>0.5</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Tankard</name>
@@ -1523,6 +1660,7 @@
 		<text>A tankard holds 1 pint of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Thieves' Tools</name>
@@ -1533,6 +1671,7 @@
 		<text>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Three-Dragon Ante Set</name>
@@ -1542,6 +1681,7 @@
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Tinderbox</name>
@@ -1552,6 +1692,7 @@
 		<text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Tinker's Tools</name>
@@ -1562,6 +1703,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Torch</name>
@@ -1572,6 +1714,7 @@
 		<text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Totem</name>
@@ -1581,6 +1724,7 @@
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Traveler's Clothes</name>
@@ -1589,6 +1733,7 @@
 		<value>2gp</value>
 		<weight>4</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Two-Person Tent</name>
@@ -1599,6 +1744,7 @@
 		<text>A simple and portable canvas shelter, a tent sleeps two.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Vial</name>
@@ -1608,6 +1754,7 @@
 		<text>A vial can hold up to 4 ounces of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Viol</name>
@@ -1622,6 +1769,7 @@
 		<text>Each type of musical instrument requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Wand</name>
@@ -1632,6 +1780,7 @@
 		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Waterskin</name>
@@ -1642,6 +1791,7 @@
 		<text>A waterskin can hold up to 4 pints of liquid.</text>
 		<text />
 		<text>Source: Player's Handbook, page 153</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Weaver's Tools</name>
@@ -1652,6 +1802,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Whetstone</name>
@@ -1660,6 +1811,7 @@
 		<value>1cp</value>
 		<weight>1</weight>
 		<text>Source: Player's Handbook, page 150</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Woodcarver's Tools</name>
@@ -1670,6 +1822,7 @@
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
 		<text>Source: Player's Handbook, page 154</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Wooden Staff</name>
@@ -1680,6 +1833,7 @@
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Yew Wand</name>
@@ -1690,6 +1844,7 @@
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Source: Player's Handbook, page 151</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Chain Mail</name>
@@ -1703,6 +1858,7 @@
 		<text>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Plate Armor</name>
@@ -1716,6 +1872,7 @@
 		<text>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Ring Mail</name>
@@ -1728,6 +1885,7 @@
 		<text>This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Splint Armor</name>
@@ -1741,6 +1899,7 @@
 		<text>This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Leather Armor</name>
@@ -1752,6 +1911,7 @@
 		<text>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Padded Armor</name>
@@ -1764,6 +1924,7 @@
 		<text>Padded armor consists of quilted layers of cloth and batting.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Studded Leather Armor</name>
@@ -1775,6 +1936,7 @@
 		<text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Battleaxe</name>
@@ -1789,6 +1951,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Club</name>
@@ -1802,6 +1965,7 @@
 		<text>Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dagger</name>
@@ -1822,6 +1986,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Flail</name>
@@ -1832,6 +1997,7 @@
 		<dmg1>1d8</dmg1>
 		<dmgType>B</dmgType>
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Glaive</name>
@@ -1849,6 +2015,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Greataxe</name>
@@ -1864,6 +2031,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Greatclub</name>
@@ -1877,6 +2045,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Greatsword</name>
@@ -1892,6 +2061,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Halberd</name>
@@ -1907,6 +2077,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Handaxe</name>
@@ -1925,6 +2096,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Javelin</name>
@@ -1941,6 +2113,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Lance</name>
@@ -1956,6 +2129,7 @@
 		<text>Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Light Hammer</name>
@@ -1974,6 +2148,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Longsword</name>
@@ -1988,6 +2163,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Mace</name>
@@ -1998,6 +2174,7 @@
 		<dmg1>1d6</dmg1>
 		<dmgType>B</dmgType>
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Maul</name>
@@ -2013,6 +2190,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Morningstar</name>
@@ -2023,6 +2201,7 @@
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pike</name>
@@ -2040,6 +2219,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Quarterstaff</name>
@@ -2054,6 +2234,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Rapier</name>
@@ -2067,6 +2248,7 @@
 		<text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Scimitar</name>
@@ -2082,6 +2264,7 @@
 		<text>Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Shortsword</name>
@@ -2097,6 +2280,7 @@
 		<text>Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sickle</name>
@@ -2110,6 +2294,7 @@
 		<text>Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Spear</name>
@@ -2129,6 +2314,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Trident</name>
@@ -2148,6 +2334,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>War Pick</name>
@@ -2158,6 +2345,7 @@
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Warhammer</name>
@@ -2172,6 +2360,7 @@
 		<text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property &#8212; the damage when the weapon is used with two hands to make a melee attack.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Whip</name>
@@ -2187,6 +2376,7 @@
 		<text>Reach: This weapon adds 5 feet to your reach when you attack with it.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Breastplate</name>
@@ -2198,6 +2388,7 @@
 		<text>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Chain Shirt</name>
@@ -2209,6 +2400,7 @@
 		<text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Half Plate</name>
@@ -2221,6 +2413,7 @@
 		<text>Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.</text>
 		<text />
 		<text>Source: Player's Handbook, page 145</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hide Armor</name>
@@ -2232,6 +2425,7 @@
 		<text>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Scale Mail</name>
@@ -2244,6 +2438,7 @@
 		<text>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Blowgun</name>
@@ -2264,6 +2459,7 @@
 		<text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Dart</name>
@@ -2282,6 +2478,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Hand Crossbow</name>
@@ -2304,6 +2501,7 @@
 		<text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Heavy Crossbow</name>
@@ -2328,6 +2526,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Light Crossbow</name>
@@ -2350,6 +2549,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Longbow</name>
@@ -2372,6 +2572,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Net</name>
@@ -2388,6 +2589,7 @@
 		<text>Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Shortbow</name>
@@ -2408,6 +2610,7 @@
 		<text>Two-Handed: This weapon requires two hands to use.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Sling</name>
@@ -2425,6 +2628,7 @@
 		<text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.</text>
 		<text />
 		<text>Source: Player's Handbook, page 149</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Shield</name>
@@ -2436,6 +2640,7 @@
 		<text>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</text>
 		<text />
 		<text>Source: Player's Handbook, page 144</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Assassin's Blood (Ingested)</name>
@@ -2447,6 +2652,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>1d12</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Burnt Othur Fumes (Inhaled)</name>
@@ -2459,6 +2665,7 @@
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>3d6</roll>
 		<roll>1d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Carrion Crawler Mucus (Contact)</name>
@@ -2469,6 +2676,7 @@
 		<text>This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Drow Poison (Injury)</name>
@@ -2479,6 +2687,7 @@
 		<text>This poison is typically made only by the draw, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Essence of Ether (Inhaled)</name>
@@ -2489,6 +2698,7 @@
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Malice (Inhaled)</name>
@@ -2499,6 +2709,7 @@
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Midnight Tears (Ingested)</name>
@@ -2510,6 +2721,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>9d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Oil of Taggit (Contact)</name>
@@ -2520,6 +2732,7 @@
 		<text>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Pale Tincture (Ingested)</name>
@@ -2531,6 +2744,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>1d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Purple Worm Poison (Injury)</name>
@@ -2542,6 +2756,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>12d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Serpent Venom (Injury)</name>
@@ -2553,6 +2768,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>3d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Torpor (Ingested)</name>
@@ -2564,6 +2780,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>4d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Truth Serum (Ingested)</name>
@@ -2574,6 +2791,7 @@
 		<text>A creature subjected to thi poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.</text>
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Wyvern Poison (Injury)</name>
@@ -2585,6 +2803,7 @@
 		<text />
 		<text>Source: Dungeon Master's Guide, page 258</text>
 		<roll>7d6</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Trinket</name>
@@ -2805,6 +3024,7 @@
 		<text />
 		<text>Source: Elemental Evil PDF supplement</text>
 		<roll>1d100</roll>
+		<source>Mundane Items</source>
 	</item>
 	<item>
 		<name>Spiked Armor</name>
@@ -2819,6 +3039,7 @@
 		<text>Cost: 75 gp</text>
 		<text />
 		<text>Source: Sword Coast Adventurer's Guide, page 121</text>
+		<source>Mundane Items</source>
 	</item>
     <item>
         <name>Monster Hunter's Pack</name>
@@ -2842,6 +3063,7 @@
         <text>Cost: 33 gp</text>
         <text />
         <text>Source: Curse of Strahd, page 209</text>
-    </item>
+    	<source>Mundane Items</source>
+	</item>
 
 </compendium>
