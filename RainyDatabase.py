@@ -125,6 +125,11 @@ class RainyDatabase:
                     print(entry.name)
                     return False
 
+    def __getitem__(self, key):
+        if key in [Item, Spell, Monster]:
+            return self.entries[str(key)]
+        else:
+            return self.entries[key]
 
 
 if __name__ == "__main__":
