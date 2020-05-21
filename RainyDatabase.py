@@ -92,7 +92,7 @@ class RainyDatabase:
             dictionary[entry.name] = entry
         else:
             if type(entry) is Spell:
-                dictionary[entry.name].append_classes(entry)
+                dictionary[entry.name].append_spell(entry)
             else:
                 dictionary[entry.name].append_source(resource)
 
