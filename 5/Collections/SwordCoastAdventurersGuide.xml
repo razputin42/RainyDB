@@ -429,7 +429,7 @@
             <feature optional="YES">
                 <name>Restriction: Dwarves Only (Path of the Battlerager)</name>
                 <text>Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.</text>
-                <text>    Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM&#8217;s setting or your DM&#8217;s version of the Realms.</text>
+                <text>    Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
             </feature>
@@ -458,7 +458,7 @@
         <autolevel level="3">
             <feature optional="YES">
                 <name>Totem Spirit: Elk</name>
-                <text>While you&#8217;re raging and aren&#8217;t wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.</text>
+                <text>While you're raging and aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 141</text>
             </feature>
@@ -485,7 +485,7 @@
         <autolevel level="6">
             <feature optional="YES">
                 <name>Aspect of the Beast: Elk</name>
-                <text>Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they&#8217;re within 60 feet of you and you&#8217;re not incapacitated (see chapter 8 in the Player&#8217;s Handbook for more information about travel pace). The elk spirit helps you roam far and fast.</text>
+                <text>Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated (see chapter 8 in the Player's Handbook for more information about travel pace). The elk spirit helps you roam far and fast.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
             </feature>
@@ -513,7 +513,7 @@
         <autolevel level="14">
             <feature optional="YES">
                 <name>Spiked Retribution (Path of the Battlerager)</name>
-                <text>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren&#8217;t incapacitated, and are wearing spiked armor.</text>
+                <text>Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
             </feature>
@@ -531,7 +531,7 @@
         <autolevel level="14">
             <feature optional="YES">
                 <name>Totemic Attunement: Tiger</name>
-                <text>While you&#8217;re raging, if you move at least 20 feet in a straight line toward a Large or smaller creature right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</text>
+                <text>While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller creature right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 122</text>
             </feature>
@@ -550,9 +550,9 @@
                 <text>    At each indicated cleric level, add the listed spells to your spells prepared</text>
                 <text>     </text>
                 <text>1st &#8212; detect magic, magic missile</text>
-                <text>3rd &#8212; magic weapon, Nystul&#8217;s magic aura</text>
+                <text>3rd &#8212; magic weapon, Nystul's magic aura</text>
                 <text>5th &#8212; dispel magic, magic circle</text>
-                <text>7th &#8212; arcane eye, Leomund&#8217;s secret chest</text>
+                <text>7th &#8212; arcane eye, Leomund's secret chest</text>
                 <text>9th &#8212; planar binding, teleportation circle</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 125</text>
@@ -572,8 +572,8 @@
                 <name>Channel Divinity: Arcane Abjuration (Arcana Domain)</name>
                 <text>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.</text>
                 <text>    As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
-                <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can&#8217;t willingly end its move in a space within 30 feet of you. It also can&#8217;t take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there&#8217;s nowhere to move, the creature can use the Dodge action.</text>
-                <text>    After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn&#8217;t on its plane of origin and its challenge rating is at or below a certain threshold:</text>
+                <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+                <text>    After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold:</text>
                 <text>     </text>
                 <text>Cleric level &#8212; Banishes Creature of CR:</text>
                 <text>5th &#8212; 1/2 or lower</text>
@@ -616,9 +616,9 @@
         <autolevel level="3">
             <feature optional="YES">
                 <name>Martial Archetype: Purple Dragon Knight</name>
-                <text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom&#8217;s borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.</text>
+                <text>Purple Dragon Knights are warriors who hail from the kingdom of Cormyr. Pledged to protect the crown, they take the fight against evil beyond the kingdom's borders. They are tasked with wandering the land as knights errant, relying on their judgment, bravery, and fidelity to guide them in defeating evildoers.</text>
                 <text>    A Purple Dragon Knight inspires greatness in others by committing brave deeds in battle. The mere presence of a knight in a hamlet is enough to cause some orcs and bandits to seek easier prey. A lone knight is a skilled warrior, but a knight leading a band of allies can transform even the most poorly equipped militia into a ferocious war band.</text>
-                <text>    A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight&#8217;s actions can awaken reserves of courage and conviction in allies that they never suspected they had.</text>
+                <text>    A knight prefers to lead through deeds, not words. As a knight spearheads an attack, the knight's actions can awaken reserves of courage and conviction in allies that they never suspected they had.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 128</text>
             </feature>
@@ -665,7 +665,7 @@
         <autolevel level="15">
             <feature optional="YES">
                 <name>Bulwark (Purple Dragon Knight)</name>
-                <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren&#8217;t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.</text>
+                <text>Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 128</text>
             </feature>
@@ -726,7 +726,7 @@
         <autolevel level="3">
             <feature optional="YES">
                 <name>Sacred Oath: Oath of the Crown</name>
-                <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order&#8217;s ranks.</text>
+                <text>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</text>
                 <text>     </text>
                 <text>Tenets of the Crown:</text>
                 <text>    The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</text>
@@ -735,7 +735,7 @@
                 <text>     </text>
                 <text>Loyalty: Your word is your bond. Without loyalty, oaths and laws are meaningless.</text>
                 <text>     </text>
-                <text>Courage: You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don&#8217;t act, then who will?</text>
+                <text>Courage: You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</text>
                 <text>     </text>
                 <text>Responsibility: You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations. </text>
                 <text>     </text>
@@ -755,7 +755,7 @@
         <autolevel level="3">
             <feature optional="YES">
                 <name>Channel Divinity: Champion Challenge (Oath of the Crown)</name>
-                <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can&#8217;t willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.</text>
+                <text>As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
             </feature>
@@ -773,7 +773,7 @@
         <autolevel level="7">
             <feature optional="YES">
                 <name>Divine Allegiance (Oath of the Crown)</name>
-                <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can&#8217;t be reduced or prevented in any way.</text>
+                <text>Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
             </feature>
@@ -799,7 +799,7 @@
                 <text>     </text>
                 <text>&#8226; You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.</text>
                 <text>     </text>
-                <text>    This effect ends early if you are incapacitated or die. Once you use this feature, you can&#8217;t use it again until you finish a long rest.</text>
+                <text>    This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 133</text>
             </feature>
@@ -813,7 +813,7 @@
             <feature optional="YES">
                 <name>Otherworldly Patron: The Undying</name>
                 <text>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize&#8212;like all power&#8212;comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.</text>
-                <text>    In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock&#8217;s Crypt, and Gilgeam, the God-King of Unther.</text>
+                <text>    In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.</text>
                 <text>     </text>
                 <text>Expanded Spell List:</text>
                 <text>    The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</text>
@@ -832,7 +832,7 @@
             <feature optional="YES">
                 <name>Among the Dead (The Undying)</name>
                 <text>Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</text>
-                <text>    Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn&#8217;t make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</text>
+                <text>    Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 139</text>
             </feature>
@@ -842,7 +842,7 @@
             <feature optional="YES">
                 <name>Defy Death (The Undying)</name>
                 <text>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.</text>
-                <text>    Once you use this feature, you can&#8217;t use it again until you finish a long rest.</text>
+                <text>    Once you use this feature, you can't use it again until you finish a long rest.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 140</text>
             </feature>
@@ -852,7 +852,7 @@
         <autolevel level="10">
             <feature optional="YES">
                 <name>Undying Nature (The Undying)</name>
-                <text>Beginning at 10th level, you can hold your breath indefinitely, and you don&#8217;t require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.</text>
+                <text>Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.</text>
                 <text>    In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 140</text>
@@ -863,7 +863,7 @@
             <feature optional="YES">
                 <name>Indestructible Life (The Undying)</name>
                 <text>When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.</text>
-                <text>    Once you use this feature, you can&#8217;t use it again until you finish a short or long rest.</text>
+                <text>    Once you use this feature, you can't use it again until you finish a short or long rest.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 140</text>
             </feature>
@@ -886,7 +886,7 @@
             <feature optional="YES">
                 <name>Restriction: Elves Only (Bladesinging)</name>
                 <text>Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faer&#251;n, elves closely guard the secrets of bladesinging.</text>
-                <text>    Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM&#8217;s setting or your DM&#8217;s version of the Realms.</text>
+                <text>    Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM's setting or your DM's version of the Realms.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 121</text>
             </feature>
@@ -896,7 +896,7 @@
             <feature optional="YES">
                 <name>Training in War and Song (Bladesinging)</name>
                 <text>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</text>
-                <text>    You also gain proficiency in the Performance skill if you don&#8217;t already have it.</text>
+                <text>    You also gain proficiency in the Performance skill if you don't already have it.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 142</text>
                 <proficiency>Performance</proficiency>
@@ -906,7 +906,7 @@
         <autolevel level="2">
             <feature optional="YES">
                 <name>Bladesong (Bladesinging)</name>
-                <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren&#8217;t wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</text>
+                <text>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</text>
                 <text>    You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</text>
                 <text>    While your bladesong is active, you gain the following benefits:</text>
                 <text>     </text>
@@ -927,8 +927,8 @@
                 <name>Channel Arcana: Arcane Abjuration (Arcana Domain) (Theurgy)</name>
                 <text>Starting at 2nd level, you can use your Channel Arcana to abjure otherworldly creatures.</text>
                 <text>    As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</text>
-                <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can&#8217;t willingly end its move in a space within 30 feet of you. It also can&#8217;t take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there&#8217;s nowhere to move, the creature can use the Dodge action.</text>
-                <text>    After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn&#8217;t on its plane of origin and its challenge rating is at or below a certain threshold:</text>
+                <text>    A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</text>
+                <text>    After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold:</text>
                 <text>     </text>
                 <text>Wizard level &#8212; Banishes Creature of CR:</text>
                 <text>5th &#8212; 1/2 or lower</text>
@@ -963,7 +963,7 @@
         <autolevel level="10">
             <feature optional="YES">
                 <name>Song of Defense (Bladesinging)</name>
-                <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell&#8217;s slot level.</text>
+                <text>Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell's slot level.</text>
                 <text>    </text>
                 <text>Source: Sword Coast Adventurer's Guide, p. 142</text>
             </feature>
@@ -2189,7 +2189,7 @@
             <text> </text>
             <text>Languages: none</text>
             <text> </text>
-            <text>Tools: Choose two from among one type of gaming set, one musical instrument, and thieves&#8217; tools</text>
+            <text>Tools: Choose two from among one type of gaming set, one musical instrument, and thieves' tools</text>
         </trait>
         <trait>
             <name>Ear to the Ground</name>

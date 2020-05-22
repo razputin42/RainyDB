@@ -7,7 +7,7 @@
         <magic>1</magic>
         <detail>legendary (requires attunement by a creature that has psionic ability)</detail>
         <weight>6</weight>
-        <text>This magic weapon grants a +3 bonus to attack and damage rolls made with it. While you hold the sword, you have advantage on Intelligence, Wisdom, and Charisma saving throws, you are immune to being charmed, and you have resistance to psychic damage. In addition, if you score a critical hit with it against a creature&#8217;s astral body, you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.</text>
+        <text>This magic weapon grants a +3 bonus to attack and damage rolls made with it. While you hold the sword, you have advantage on Intelligence, Wisdom, and Charisma saving throws, you are immune to being charmed, and you have resistance to psychic damage. In addition, if you score a critical hit with it against a creature's astral body, you can cut the silvery cord that tethers the target to its material body, instead of dealing damage.</text>
         <text>    </text>
         <text>Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.</text>
         <text>    </text>
@@ -30,7 +30,7 @@
         <magic>1</magic>
         <detail>legendary (requires attunement by a creature of evil alignment)</detail>
         <weight></weight>
-        <text>A narzugon binds a nightmare to its service with infernal tack, which consists of a bridle, bit, reins, saddle, stirrups, and spurs. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed. You can use an action to call a nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet of you. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again. The tack doesn&#8217;t conjure a nightmare from thin air; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become true partners in evil.</text>
+        <text>A narzugon binds a nightmare to its service with infernal tack, which consists of a bridle, bit, reins, saddle, stirrups, and spurs. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed. You can use an action to call a nightmare equipped with infernal tack by clashing the spurs together or scraping them through blood. The nightmare appears at the start of your next turn, within 20 feet of you. It acts as your ally and takes its turn on your initiative count. It remains for 1 day, until you or it dies, or until you dismiss it as an action. If the nightmare dies, it reforms in the Nine Hells within 24 hours, after which you can summon it again. The tack doesn't conjure a nightmare from thin air; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become true partners in evil.</text>
         <text />
         <text>Source: Mordenkainen's Tome of Foes, p. 167</text>
     	<source>Mordenkainens Tome of Foes</source>
@@ -144,7 +144,7 @@
         </trait>
         <trait>
             <name>Fey Step</name>
-            <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#8217;t do so again until you finish a short or long rest.</text>
+            <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.</text>
             <text>    When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:</text>
             <text>     </text>
             <text>Autumn: Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.</text>
@@ -159,14 +159,14 @@
         </trait>
         <trait>
             <name>Shifting Seasons</name>
-            <text>Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin&#8217;s mood:</text>
+            <text>Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin's mood:</text>
             <text>     </text>
-            <text>Autumn is the season of peace and goodwill, when summer&#8217;s harvest is shared with all.</text>
+            <text>Autumn is the season of peace and goodwill, when summer's harvest is shared with all.</text>
             <text>Winter is the season of contemplation and dolor, when the vibrant energy of the world slumbers.</text>
-            <text>Spring is the season of cheerfulness and celebration, marked by merriment as winter&#8217;s sorrow passes.</text>
+            <text>Spring is the season of cheerfulness and celebration, marked by merriment as winter's sorrow passes.</text>
             <text>Summer is the season of boldness and aggression, a time of unfettered energy.</text>
             <text>     </text>
-            <text>    Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin&#8217;s current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
+            <text>    Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season. When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin's current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 61</text>
         </trait>
@@ -272,7 +272,7 @@
         </trait>
         <trait>
             <name>Blessing of the Raven Queen</name>
-            <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can&#8217;t do so again until you finish a long rest.</text>
+            <text>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest.</text>
             <text>    Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 62</text>
@@ -293,7 +293,7 @@
         </trait>
         <trait>
             <name>Decadent Mastery</name>
-            <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu&#8217;narath, githyanki have bountiful time to master odd bits of knowledge.</text>
+            <text>You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
@@ -307,7 +307,7 @@
             <name>Githyanki Psionics</name>
             <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
             <text>    When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
-            <text>    Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don&#8217;t require components.</text>
+            <text>    Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
@@ -335,7 +335,7 @@
             <name>Githzerai Psionics</name>
             <text>You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.</text>
             <text>    When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.</text>
-            <text>    Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don&#8217;t require components.</text>
+            <text>    Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 96</text>
         </trait>
@@ -561,7 +561,7 @@
         </trait>
         <trait>
             <name>Legacy of Minauros</name>
-            <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser&#8217;s floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
+            <text>You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser's floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</text>
             <text> </text>
             <text>Source: Mordenkainen's Tome of Foes, p. 22</text>
         </trait>
@@ -667,7 +667,7 @@
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
         <passive>9</passive>
-        <languages>understands Abyssal but can&#8217;t speak</languages>
+        <languages>understands Abyssal but can't speak</languages>
         <cr>1/4</cr>
         <trait>
             <name>Source</name>
@@ -880,7 +880,7 @@
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
         <passive>10</passive>
-        <languages>understands Abyssal but can&#8217;t speak</languages>
+        <languages>understands Abyssal but can't speak</languages>
         <cr>11</cr>
         <trait>
             <name>Source</name>
@@ -1142,7 +1142,7 @@
         </trait>
         <trait>
             <name>Titanic Nature</name>
-            <text>Although it eats and sleeps if it so desires, an astral dreadnought doesn&#8217;t require air, food, drink, or sleep.</text>
+            <text>Although it eats and sleeps if it so desires, an astral dreadnought doesn't require air, food, drink, or sleep.</text>
         </trait>
         <trait>
             <name>Antimagic Cone</name>
@@ -1609,7 +1609,7 @@
         </trait>
         <trait>
             <name>Undead Nature</name>
-            <text>A boneclaw doesn&#8217;t require air, food, drink, or sleep.</text>
+            <text>A boneclaw doesn't require air, food, drink, or sleep.</text>
         </trait>
         <trait>
             <name>Rejuvenation</name>
@@ -1662,11 +1662,11 @@
         <skill>Perception +6, Stealth +7</skill>
         <resist></resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t adamantine</immune>
+        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>16</passive>
-        <languages>understands one language of its creator but can&#8217;t speak</languages>
+        <languages>understands one language of its creator but can't speak</languages>
         <cr>1</cr>
         <trait>
             <name>Source</name>
@@ -2121,7 +2121,7 @@
         <str>11</str><dex>15</dex><con>10</con><int>14</int><wis>12</wis><cha>16</cha>
         <save>Int +4, Cha +5</save>
         <skill>Arcana +4, History +4</skill>
-        <resist>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>poison</immune>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -2185,7 +2185,7 @@
         <str>11</str><dex>16</dex><con>12</con><int>15</int><wis>12</wis><cha>17</cha>
         <save>Int +5, Cha +6</save>
         <skill>Arcana +5, History +5, Perception +4</skill>
-        <resist>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>poison</immune>
         <conditionImmune>exhaustion, poisoned</conditionImmune>
@@ -2388,11 +2388,11 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Demogorgon can take a lair action to cause one of the following effects; he can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Demogorgon can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row: </text>
             <text>     </text>
             <text>&#8226; Demogorgon creates an illusory duplicate of himself, which appears in his own space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or object interacts physically with Demogorgon (for example, by hitting him with an attack), there is a 50 percent chance that the illusory duplicate is being affected, not Demogorgon himself, in which case the illusion disappears. </text>
             <text>     </text>
-            <text>&#8226; Demogorgon casts the darkness spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn&#8217;t need to concentrate on the spells, which end on initiative count 20 of the next round.</text>
+            <text>&#8226; Demogorgon casts the darkness spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.</text>
         </action>
         <legendary>
             <name>Legendary Actions (2/Turn)</name>
@@ -3278,7 +3278,7 @@
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>7</passive>
-        <languages>understands Dwarvish but can&#8217;t speak</languages>
+        <languages>understands Dwarvish but can't speak</languages>
         <cr>2</cr>
         <trait>
             <name>Source</name>
@@ -3462,7 +3462,7 @@
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>7</passive>
-        <languages>understands Dwarvish but can&#8217;t speak</languages>
+        <languages>understands Dwarvish but can't speak</languages>
         <cr>3</cr>
         <trait>
             <name>Source</name>
@@ -4212,13 +4212,13 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Fraz-Urb&#8217;luu can take a lair action to cause one of the following effects; he can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row: </text>
             <text>     </text>
-            <text>&#8226; Fraz-Urb&#8217;luu causes up to five doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none. </text>
+            <text>&#8226; Fraz-Urb'luu causes up to five doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none. </text>
             <text>     </text>
-            <text>&#8226; Fraz-Urb&#8217;luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb&#8217;luu&#8217;s commands and is destroyed on the next initiative count 20. </text>
+            <text>&#8226; Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20. </text>
             <text>     </text>
-            <text>&#8226; Fraz-Urb&#8217;luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.</text>
+            <text>&#8226; Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.</text>
         </action>
         <legendary>
             <name>Legendary Actions (3/Turn)</name>
@@ -4297,7 +4297,7 @@
         <str>29</str><dex>17</dex><con>22</con><int>19</int><wis>16</wis><cha>23</cha>
         <save>Dex +10, Con +13, Wis +10, Cha +13</save>
         <skill>Deception +13, Intimidation +13, Perception +10</skill>
-        <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>cold, fire, poison</immune>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -4977,9 +4977,9 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Graz&#8217;zt can take a lair action to cause one of the following effects; he can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Graz'zt can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row: </text>
             <text>     </text>
-            <text>&#8226; Graz&#8217;zt casts the command spell on every creature of his choice in the lair. He needn&#8217;t see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets. </text>
+            <text>&#8226; Graz'zt casts the command spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets. </text>
             <text>     </text>
             <text>&#8226; Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide.</text>
         </action>
@@ -5163,7 +5163,7 @@
         <conditionImmune>frightened</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>15</passive>
-        <languages>understands Abyssal but can&#8217;t speak</languages>
+        <languages>understands Abyssal but can't speak</languages>
         <cr>8</cr>
         <trait>
             <name>Source</name>
@@ -5201,7 +5201,7 @@
         <str>27</str><dex>15</dex><con>25</con><int>23</int><wis>19</wis><cha>25</cha>
         <save>Dex +9, Con +14, Wis +11</save>
         <skill>Intimidation +14, Perception +11</skill>
-        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -5389,11 +5389,11 @@
         <skill>Stealth +7</skill>
         <resist></resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t adamantine</immune>
+        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>10</passive>
-        <languages>understands one language of its creator but can&#8217;t speak</languages>
+        <languages>understands one language of its creator but can't speak</languages>
         <cr>4</cr>
         <trait>
             <name>Source</name>
@@ -5553,7 +5553,7 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; it can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row: </text>
             <text>     </text>
             <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become restrained. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
             <text>    A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.</text>
@@ -5562,7 +5562,7 @@
             <text>&#8226; Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall prone and slide 10 feet in a random direction determined by a d8 roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.</text>
             <text>    If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage. </text>
             <text>     </text>
-            <text>&#8226; A green slime (see the Dungeon Master&#8217;s Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.</text>
+            <text>&#8226; A green slime (see the Dungeon Master's Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.</text>
             <text>    </text>
             <text>Prone:</text>
             <text>&#8226; A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.</text>
@@ -5926,13 +5926,13 @@
         <str>18</str><dex>14</dex><con>17</con><int>6</int><wis>12</wis><cha>8</cha>
         <save></save>
         <skill></skill>
-        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>frightened, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>11</passive>
-        <languages>understands Infernal but can&#8217;t speak, telepathy 120 ft.</languages>
+        <languages>understands Infernal but can't speak, telepathy 120 ft.</languages>
         <cr>4</cr>
         <trait>
             <name>Source</name>
@@ -6064,7 +6064,7 @@
         <str>26</str><dex>19</dex><con>22</con><int>21</int><wis>18</wis><cha>23</cha>
         <save>Dex +11, Con +13, Wis +11, Cha +13</save>
         <skill>Deception +13, Intimidation +13, Perception +11</skill>
-        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -6388,7 +6388,7 @@
         <str>20</str><dex>10</dex><con>17</con><int>16</int><wis>14</wis><cha>19</cha>
         <save>Dex +5, Con +8, Cha +9</save>
         <skill>Perception +7</skill>
-        <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
@@ -6519,13 +6519,13 @@
         <str>16</str><dex>11</dex><con>13</con><int>3</int><wis>8</wis><cha>1</cha>
         <save></save>
         <skill>Perception +1</skill>
-        <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>blinded, charmed, frightened, poisoned</conditionImmune>
         <senses>blindsight 10 ft. (blind beyond this radius)</senses>
         <passive>11</passive>
-        <languages>understands Infernal but can&#8217;t speak</languages>
+        <languages>understands Infernal but can't speak</languages>
         <cr>1/2</cr>
         <trait>
             <name>Source</name>
@@ -6561,11 +6561,11 @@
         <skill></skill>
         <resist></resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t adamantine</immune>
+        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>10</passive>
-        <languages>understands one language of its creator but can&#8217;t speak</languages>
+        <languages>understands one language of its creator but can't speak</languages>
         <cr>5</cr>
         <trait>
             <name>Source</name>
@@ -7045,9 +7045,9 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row: </text>
             <text>     </text>
-            <text>&#8226; Orcus&#8217;s voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to power word kill (save DC 23). Orcus needn&#8217;t see the creature, but he must be aware that the individual is in the lair. </text>
+            <text>&#8226; Orcus's voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to power word kill (save DC 23). Orcus needn't see the creature, but he must be aware that the individual is in the lair. </text>
             <text>     </text>
             <text>&#8226; Orcus causes up to six corpses within the lair to rise as skeletons, zombies, or ghouls. These undead obey his telepathic commands, which can reach anywhere in the lair. </text>
             <text>     </text>
@@ -7092,7 +7092,7 @@
         <str>22</str><dex>16</dex><con>21</con><int>15</int><wis>15</wis><cha>16</cha>
         <save>Dex +7, Con +9, Wis +6</save>
         <skill>Perception +10, Stealth +11, Survival +10</skill>
-        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>charmed, exhaustion, poisoned</conditionImmune>
@@ -7460,7 +7460,7 @@
         <conditionImmune>charmed, frightened, poisoned</conditionImmune>
         <senses>darkvision 120 ft.</senses>
         <passive>11</passive>
-        <languages>understands Abyssal but can&#8217;t speak</languages>
+        <languages>understands Abyssal but can't speak</languages>
         <cr>2</cr>
         <trait>
             <name>Source</name>
@@ -7498,7 +7498,7 @@
         <name>Sacred Statue</name>
         <size>L</size>
         <type>construct</type>
-        <alignment>as the eidolon&#8217;s alignment</alignment>
+        <alignment>as the eidolon's alignment</alignment>
         <ac>19 (natural armor)</ac>
         <hp>95 (10d10+40)</hp>
         <speed>25 ft.</speed>
@@ -7773,7 +7773,7 @@
         <conditionImmune>blinded</conditionImmune>
         <senses>darkvision 120 ft.</senses>
         <passive>8</passive>
-        <languages>understands Common but can&#8217;t speak</languages>
+        <languages>understands Common but can't speak</languages>
         <cr>1/2</cr>
         <trait>
             <name>Source</name>
@@ -8514,7 +8514,7 @@
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned</conditionImmune>
         <senses>blindsight 30 ft., darkvision 60 ft.</senses>
         <passive>17</passive>
-        <languages>understands Modron and the language of its owner but can&#8217;t speak</languages>
+        <languages>understands Modron and the language of its owner but can't speak</languages>
         <cr>16</cr>
         <trait>
             <name>Source</name>
@@ -8522,7 +8522,7 @@
         </trait>
         <trait>
             <name>Constructed Nature</name>
-            <text>A steel predator doesn&#8217;t require air, food, drink, or sleep.</text>
+            <text>A steel predator doesn't require air, food, drink, or sleep.</text>
         </trait>
         <trait>
             <name>Innate Spellcasting</name>
@@ -8644,11 +8644,11 @@
         <skill></skill>
         <resist></resist>
         <vulnerable></vulnerable>
-        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t adamantine</immune>
+        <immune>poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</immune>
         <conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
         <senses>darkvision 60 ft.</senses>
         <passive>10</passive>
-        <languages>understands one language of its creator but can&#8217;t speak</languages>
+        <languages>understands one language of its creator but can't speak</languages>
         <cr>4</cr>
         <trait>
             <name>Source</name>
@@ -9166,7 +9166,7 @@
         <str>19</str><dex>22</dex><con>17</con><int>24</int><wis>22</wis><cha>26</cha>
         <save>Dex +11, Con +8, Wis +11, Cha +13</save>
         <skill>Deception +13, Insight +11, Intimidation +13, Persuasion +13</skill>
-        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>fire, poison</immune>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -9619,7 +9619,7 @@
         <str>16</str><dex>11</dex><con>18</con><int>11</int><wis>12</wis><cha>13</cha>
         <save>Str +6, Con +7</save>
         <skill></skill>
-        <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>cold, fire, poison</immune>
         <conditionImmune>poisoned</conditionImmune>
@@ -9896,7 +9896,7 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row: </text>
             <text>     </text>
             <text>&#8226; Yeenoghu causes an iron spike &#8212; 5 feet tall and 1 inch in diameter &#8212; to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (6d8) piercing damage and is restrained by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition. </text>
             <text>     </text>
@@ -10092,7 +10092,7 @@
         <str>27</str><dex>24</dex><con>28</con><int>26</int><wis>27</wis><cha>30</cha>
         <save>Int +16, Wis +16, Cha +18</save>
         <skill>Intimidation +18, Perception +16</skill>
-        <resist>cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren&#8217;t silvered</resist>
+        <resist>cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</resist>
         <vulnerable></vulnerable>
         <immune>necrotic, poison</immune>
         <conditionImmune>charmed, exhaustion, frightened, poisoned</conditionImmune>
@@ -10263,7 +10263,7 @@
         </action>
         <action>
             <name>Lair Actions</name>
-            <text>On initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can&#8217;t use the same effect two rounds in a row: </text>
+            <text>On initiative count 20 (losing initiative ties), Zuggtmoy can take a lair action to cause one of the following effects; she can't use the same effect two rounds in a row: </text>
             <text>     </text>
             <text>&#8226; Zuggtmoy causes four gas spores or violet fungi (see the Monster Manual) to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour. </text>
             <text>     </text>

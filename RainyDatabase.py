@@ -50,7 +50,7 @@ class RainyDatabase:
     def load_collections(self, path):
         path = os.path.join(path, "5", "Collections")
         for resource in os.listdir(path):
-            # print("Before", resource, self.length(Item), self.length(Monster), self.length(Spell))
+            print("Before", resource, self.length(Item), self.length(Monster), self.length(Spell))
             self.load_collection(path, resource)
 
     def load_collection(self, path, resource):
@@ -83,12 +83,17 @@ class RainyDatabase:
         xml = ElementTree.parse(dir + resource)
         root = xml.getroot()
         entry_dict = self.entries[str(Class)]
+        print(resource)
         for itt, entry in enumerate(root.findall(s)):
             entry_class = Class(entry, itt)
             self.insert_individual(entry_class, entry_dict, resource)
 
     def insert_individual(self, entry, dictionary, resource):
+        print(entry.name)
         if entry.name not in dictionary.keys():
+            if type(entry) is Spell and "Invocation: " in entry.name:
+                return
+            print(entry.name)
             dictionary[entry.name] = entry
         else:
             if type(entry) is Spell:
@@ -114,16 +119,31 @@ class RainyDatabase:
     def validate(self):
         self.validate_individual(Spell)
         self.validate_individual(Monster)
-        self.validate_individual(Item)
+        # self.validate_individual(Item)
+        self.validate_item()
+
+    def validate_item(self):
+        entries = self.entries[str(Item)]
+        sources = []
+        for name, entry in entries.items():
+            if not hasattr(entry, "rarity"):
+                print("No Rarity:", entry.name)
+                for source in entry.source:
+                    if source not in sources:
+                        sources.append(source)
+                continue
+            elif entry.rarity == "N/A":
+                print("Unrealised entry:", entry.name)
+            elif entry.rarity.lower() not in ["common", "uncommon", "rare", "very rare", "legendary", "artifact"]:
+                print("Rarity:", entry.name, entry.rarity)
+        print("Invalid items from following sources:", sources)
 
     def validate_individual(self, entry_class):
-        print(str(entry_class))
         entries = self.entries[str(entry_class)]
         for name, entry in entries.items():
             for req in entry.required_database_fields:
                 if not hasattr(entry, req) or getattr(entry, req) is None:
-                    print(entry.name)
-                    return False
+                    print(req, ":", entry.name)
 
     def __getitem__(self, key):
         if key in [Item, Spell, Monster]:

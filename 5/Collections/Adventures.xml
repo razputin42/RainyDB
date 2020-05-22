@@ -39,14 +39,14 @@
 		<weight>65</weight>
 		<text>This suit of plate armor is fashioned from giant scorpion chitin. While wearing this armor, you gain the following benefits: </text>
 		<text>	 </text>
-		<text>&#8226; The armor improves your combat readiness, granting you a +5 bonus to initiative as long as you aren&#8217;t incapacitated. </text>
+		<text>&#8226; The armor improves your combat readiness, granting you a +5 bonus to initiative as long as you aren't incapacitated. </text>
 		<text>	 </text>
-		<text>&#8226; The armor doesn&#8217;t impose disadvantage on your Dexterity (Stealth) checks. </text>
+		<text>&#8226; The armor doesn't impose disadvantage on your Dexterity (Stealth) checks. </text>
 		<text>	 </text>
-		<text>&#8226; The armor doesn&#8217;t impose disadvantage on saving throws made to resist the effects of extreme heat (see chapter 5 of the Dungeon Master&#8217;s Guide). </text>
+		<text>&#8226; The armor doesn't impose disadvantage on saving throws made to resist the effects of extreme heat (see chapter 5 of the Dungeon Master's Guide). </text>
 		<text>	 </text>
 		<text>Curse: </text>
-		<text>	This armor is cursed. Whenever you don or doff it, you must make a DC 15 Constitution saving throw, taking 100 (10d10+45) poison damage on a failed save, or half as much damage on a successful one. Only a wish spell can remove the armor&#8217;s curse.</text>
+		<text>	This armor is cursed. Whenever you don or doff it, you must make a DC 15 Constitution saving throw, taking 100 (10d10+45) poison damage on a failed save, or half as much damage on a successful one. Only a wish spell can remove the armor's curse.</text>
 		<text />
 		<text>Proficiency: heavy, plate</text>
 		<text>Source: Tomb of Annihilation, p. 208</text>
@@ -156,13 +156,13 @@
 		<weight>1</weight>
 		<text>This +3 dagger belongs to Artus Cimber (see appendix D). While you have the dagger drawn, you can use a bonus action to activate one of the following properties: </text>
 		<text>	 </text>
-		<text>&#8226; Cause a blue gem set into the dagger&#8217;s pommel to shed bright light in a 20-foot radius and dim light for an additional 20 feet, or make the gem go dark. </text>
+		<text>&#8226; Cause a blue gem set into the dagger's pommel to shed bright light in a 20-foot radius and dim light for an additional 20 feet, or make the gem go dark. </text>
 		<text>	 </text>
 		<text>&#8226; Turn the dagger into a compass that, while resting on your palm, points north. </text>
 		<text>	 </text>
-		<text>&#8226; Cast dimension door from the dagger. Once this property is used, it can&#8217;t be used again until the next dawn. </text>
+		<text>&#8226; Cast dimension door from the dagger. Once this property is used, it can't be used again until the next dawn. </text>
 		<text>	 </text>
-		<text>&#8226; Cast compulsion (save DC 15) from the dagger. The range of the spell increases to 90 feet, but it targets only spiders that are beasts. Once this property is used, it can&#8217;t be used again until the next dawn.</text>
+		<text>&#8226; Cast compulsion (save DC 15) from the dagger. The range of the spell increases to 90 feet, but it targets only spiders that are beasts. Once this property is used, it can't be used again until the next dawn.</text>
 		<text>	</text>
 		<text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</text>
 		<text>	</text>
@@ -871,8 +871,8 @@
 		<magic>1</magic>
 		<detail>artifact (requires attunement)</detail>
 		<weight></weight>
-		<text>Artus Cimber (see appendix D) has kept this item in his possession for over a century. The Ring of Winter is a golden band that resizes to fit snugly on the finger of its wearer. A thin layer of frost coats the outside of the ring, which normal heat can&#8217;t melt. The ring feels ice cold to the touch and initially numbs the hand that wears it, but this cold ceases to be felt by one who is attuned to the ring. </text>
-		<text>	The Ring of Winter is sentient and tries to take control of any creature that wears it (see &#8220;Sentient Magic Items&#8221; in chapter 7 of the Dungeon Master&#8217;s Guide). If it succeeds, the ring compels its wearer to cause undue harm to everyone and everything around it, in a cold-hearted attempt to incur the wrath of enemies and bring about the wearer&#8217;s doom. </text>
+		<text>Artus Cimber (see appendix D) has kept this item in his possession for over a century. The Ring of Winter is a golden band that resizes to fit snugly on the finger of its wearer. A thin layer of frost coats the outside of the ring, which normal heat can't melt. The ring feels ice cold to the touch and initially numbs the hand that wears it, but this cold ceases to be felt by one who is attuned to the ring. </text>
+		<text>	The Ring of Winter is sentient and tries to take control of any creature that wears it (see &#8220;Sentient Magic Items&#8221; in chapter 7 of the Dungeon Master's Guide). If it succeeds, the ring compels its wearer to cause undue harm to everyone and everything around it, in a cold-hearted attempt to incur the wrath of enemies and bring about the wearer's doom. </text>
 		<text>	 </text>
 		<text>Sentience: </text>
 		<text>	The Ring of Winter is a sentient chaotic evil item with an Intelligence of 14, a Wisdom of 14, and a Charisma of 17. The ring communicates by transmitting emotion to the creature carrying or wielding it, and it has hearing and normal vision out to a range of 60 feet. The ring craves destruction, and it likes inflicting indiscriminate harm on others. </text>
@@ -881,22 +881,22 @@
 		<text>	The Ring of Winter defies attempts to magically locate it. Neither the ring nor its wearer can be targeted by any divination magic or perceived through magical scrying sensors. </text>
 		<text>	 </text>
 		<text>Frozen Time: </text>
-		<text>	As long as you wear the ring, you don&#8217;t age naturally. This effect is similar to suspended animation, in that your age doesn&#8217;t catch up to you once the ring is removed. The ring doesn&#8217;t protect its wearer from magical or supernatural aging effects, such as the Horrifying Visage of a ghost. </text>
+		<text>	As long as you wear the ring, you don't age naturally. This effect is similar to suspended animation, in that your age doesn't catch up to you once the ring is removed. The ring doesn't protect its wearer from magical or supernatural aging effects, such as the Horrifying Visage of a ghost. </text>
 		<text>	 </text>
 		<text>Cold Immunity: </text>
-		<text>	While attuned to and wearing the ring, you have immunity to cold damage and don&#8217;t suffer any ill effects from extreme cold (see chapter 5 of the Dungeon Master&#8217;s Guide). </text>
+		<text>	While attuned to and wearing the ring, you have immunity to cold damage and don't suffer any ill effects from extreme cold (see chapter 5 of the Dungeon Master's Guide). </text>
 		<text>	 </text>
 		<text>Magic: </text>
 		<text>	The Ring of Winter has 12 charges and regains all its expended charges daily at dawn. While wearing the ring, you can expend the necessary number of charges to activate one of the following properties: </text>
 		<text>	 </text>
 		<text>&#8226; You can expend 1 charge as an action and use the ring to lower the temperature in a 120-foot-radius sphere centered on a point you can see within 300 feet of you. The temperature in that area drops 20 degrees per minute, to a minimum of &#8211;30 degrees Fahrenheit. Frost and ice begin to form on surfaces once the temperature drops below 32 degrees. This effect is permanent unless you use the ring to end it as an action, at which point the temperature in the area returns to normal at a rate of 10 degrees per minute. </text>
 		<text>	 </text>
-		<text>&#8226; You can cast one of the following spells from the ring (spell save DC 17) by expending the necessary number of charges: Bigby&#8217;s hand (2 charges; the hand is made of ice, is immune to cold damage, and deals bludgeoning damage instead of force damage as a clenched fist), cone of cold (2 charges), flesh to ice (3 charges; as flesh to stone except that the target turns to solid ice with the density and durability of stone), ice storm (2 charges), Otiluke&#8217;s freezing sphere (3 charges), sleet storm (1 charge), spike growth (1 charge; the spikes are made of ice), or wall of ice (2charges). </text>
+		<text>&#8226; You can cast one of the following spells from the ring (spell save DC 17) by expending the necessary number of charges: Bigby's hand (2 charges; the hand is made of ice, is immune to cold damage, and deals bludgeoning damage instead of force damage as a clenched fist), cone of cold (2 charges), flesh to ice (3 charges; as flesh to stone except that the target turns to solid ice with the density and durability of stone), ice storm (2 charges), Otiluke's freezing sphere (3 charges), sleet storm (1 charge), spike growth (1 charge; the spikes are made of ice), or wall of ice (2charges). </text>
 		<text>	 </text>
-		<text>&#8226; You can expend the necessary number of charges as an action and use the ring to create either an inanimate ice object (2 charges) or an animated ice creature (4 charges). The ice object can&#8217;t have any moving parts, must be able to fit inside a 10-foot cube, and has the density and durability of metal or stone (your choice). The ice creature must be modeled after a beast with a challenge rating of 2 or less. The ice creature has the same statistics as the beast it models, with the following changes: the creature is a construct with vulnerability to fire damage, immunity to cold and poison damage, and immunity to the following conditions: charmed, exhaustion, frightened, paralyzed, petrified, and poisoned. The ice creature obeys only its creator&#8217;s commands. The ice object or creature appears in an unoccupied space within 60 feet of you. It melts into a pool of normal water after 24 hours or when it drops to 0 hit points. In extreme heat, it loses 5 (1d10) hit points per minute as it melts. Use the guidelines in chapter 8 of the Dungeon Master&#8217;s Guide to determine the hit points of an inanimate object if they become necessary. </text>
+		<text>&#8226; You can expend the necessary number of charges as an action and use the ring to create either an inanimate ice object (2 charges) or an animated ice creature (4 charges). The ice object can't have any moving parts, must be able to fit inside a 10-foot cube, and has the density and durability of metal or stone (your choice). The ice creature must be modeled after a beast with a challenge rating of 2 or less. The ice creature has the same statistics as the beast it models, with the following changes: the creature is a construct with vulnerability to fire damage, immunity to cold and poison damage, and immunity to the following conditions: charmed, exhaustion, frightened, paralyzed, petrified, and poisoned. The ice creature obeys only its creator's commands. The ice object or creature appears in an unoccupied space within 60 feet of you. It melts into a pool of normal water after 24 hours or when it drops to 0 hit points. In extreme heat, it loses 5 (1d10) hit points per minute as it melts. Use the guidelines in chapter 8 of the Dungeon Master's Guide to determine the hit points of an inanimate object if they become necessary. </text>
 		<text>	 </text>
 		<text>Other Properties: </text>
-		<text>	The Ring of Winter is rumored to possess other properties that can be activated only by an evil being whose will the ring can&#8217;t break. Frost giants have long believed that the ring can be used to freeze entire worlds, while a djinni in the service of a Calishite pasha once claimed that the ring could be used to summon and control white dragons, as well as a mighty ice primordial named Cryonax. </text>
+		<text>	The Ring of Winter is rumored to possess other properties that can be activated only by an evil being whose will the ring can't break. Frost giants have long believed that the ring can be used to freeze entire worlds, while a djinni in the service of a Calishite pasha once claimed that the ring could be used to summon and control white dragons, as well as a mighty ice primordial named Cryonax. </text>
 		<text>	 </text>
 		<text>Destroying the Ring: </text>
 		<text>	The ring is nigh indestructible, resisting even the most intense magical heat. If it is placed on the finger of the powerful archfey known as the Summer Queen, the ring melts away and is destroyed forever.</text>
@@ -962,27 +962,27 @@
 		<magic>1</magic>
 		<detail>artifact (requires attunement by a sorcerer, warlock, or wizard)</detail>
 		<weight>4</weight>
-		<text>This crooked staff is carved from bone and topped with the skull of a forgotten archmage whom Acererak destroyed long ago. Etched into the skull&#8217;s forehead is Acererak&#8217;s rune, which is known on many worlds as a sign of death. </text>
+		<text>This crooked staff is carved from bone and topped with the skull of a forgotten archmage whom Acererak destroyed long ago. Etched into the skull's forehead is Acererak's rune, which is known on many worlds as a sign of death. </text>
 		<text>	 </text>
 		<text>Beneficial Properties: </text>
 		<text>	While the staff is on your person, you gain the following benefits: </text>
 		<text>	 </text>
 		<text>&#8226; Your proficiency bonus to Intelligence (Arcana) and Intelligence (History) checks is doubled. </text>
 		<text>	 </text>
-		<text>&#8226; You can&#8217;t be blinded, charmed, deafened, frightened, petrified, or stunned. </text>
+		<text>&#8226; You can't be blinded, charmed, deafened, frightened, petrified, or stunned. </text>
 		<text>	 </text>
 		<text>&#8226; Undead with a challenge rating of 2 or lower will neither threaten nor attack you unless you harm them. </text>
 		<text>	 </text>
 		<text>&#8226; You can wield the staff as a +3 quarterstaff that deals an extra 10 (3d6) necrotic damage on a hit. </text>
 		<text>	 </text>
 		<text>Invoke Curse: </text>
-		<text>	The Staff of the Forgotten One has 7 charges and regains 1d4 + 3 expended charges daily at dawn. While holding the staff, you can use an action to expend 1 charge and target one creature you can see within 60 feet of you. The target must succeed on a Constitution saving throw (using your spell save DC) or be cursed. While cursed in this way, the target can&#8217;t regain hit points and has vulnerability to necrotic damage. A greater restoration, remove curse, or similar spell ends the curse on the target. </text>
+		<text>	The Staff of the Forgotten One has 7 charges and regains 1d4 + 3 expended charges daily at dawn. While holding the staff, you can use an action to expend 1 charge and target one creature you can see within 60 feet of you. The target must succeed on a Constitution saving throw (using your spell save DC) or be cursed. While cursed in this way, the target can't regain hit points and has vulnerability to necrotic damage. A greater restoration, remove curse, or similar spell ends the curse on the target. </text>
 		<text>	 </text>
 		<text>The Forgotten One: </text>
-		<text>	The bodiless life force of a dead archmage empowers the staff and is imprisoned within it. The rune carved into the staff&#8217;s skull protects Acererak from this spirit&#8217;s vengeance. Each time a creature other than Acererak expends any of the staff&#8217;s charges, there is a 50 percent chance that the life force tries to possess the staff wielder. The wielder must succeed on a DC 20 Charisma saving throw or be possessed, becoming an NPC under the DM&#8217;s control. If the intruding life force is targeted by magic such as a dispel evil and good spell, it becomes trapped in the staff once more. Once it takes control of another creature, the insane spirit of the dead archmage attempts to destroy the staff. </text>
+		<text>	The bodiless life force of a dead archmage empowers the staff and is imprisoned within it. The rune carved into the staff's skull protects Acererak from this spirit's vengeance. Each time a creature other than Acererak expends any of the staff's charges, there is a 50 percent chance that the life force tries to possess the staff wielder. The wielder must succeed on a DC 20 Charisma saving throw or be possessed, becoming an NPC under the DM's control. If the intruding life force is targeted by magic such as a dispel evil and good spell, it becomes trapped in the staff once more. Once it takes control of another creature, the insane spirit of the dead archmage attempts to destroy the staff. </text>
 		<text>	 </text>
-		<text>Destroying the Staff:. A creature in possession of the staff can use an action to break it over one knee or a solid surface. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it. Each creature in the area must make a DC 18 Dexterity saving throw, taking 132 (24d10) force damage on a failed save, or half as much damage on a successful one. When the staff is destroyed, the life force of the Forgotten One is released to the afterlife. Where it goes is anyone&#8217;s guess. </text>
-		<text>	Casting the staff into a sphere of annihilation destroys both the staff and the life force trapped within it. The staff doesn&#8217;t explode if destroyed in this manner, but its destruction causes the sphere to be destroyed as well.</text>
+		<text>Destroying the Staff:. A creature in possession of the staff can use an action to break it over one knee or a solid surface. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it. Each creature in the area must make a DC 18 Dexterity saving throw, taking 132 (24d10) force damage on a failed save, or half as much damage on a successful one. When the staff is destroyed, the life force of the Forgotten One is released to the afterlife. Where it goes is anyone's guess. </text>
+		<text>	Casting the staff into a sphere of annihilation destroys both the staff and the life force trapped within it. The staff doesn't explode if destroyed in this manner, but its destruction causes the sphere to be destroyed as well.</text>
 		<text />
 		<text>Proficiency: simple, quarterstaff</text>
 		<text>Source: Tomb of Annihilation, p. 208</text>
@@ -1012,11 +1012,11 @@
 		<detail>very rare (requires attunement)</detail>
 		<weight></weight>
 		<text>This amulet is carved from obsidian and shaped like a screaming humanoid skull, with ruby eyes and emeralds for teeth. It hangs from an iron chain necklace. </text>
-		<text>	The amulet has 6 charges and regains 1d6 charges daily at dawn. While wearing the amulet, you can use an action to expend 1 of its charges to transport yourself and anything you are wearing or carrying to a location within 100 feet of you. The destination you choose doesn&#8217;t need to be in your line of sight, but it must be familiar to you (in other words, a place you have seen or visited), and it must be on the same plane of existence as you. This effect isn&#8217;t subject to the magic restrictions placed on the Tomb of the Nine Gods; thus, the amulet can be used to enter and exit the tomb. </text>
-		<text>	If you aren&#8217;t undead, you must make a DC 16 Constitution saving throw each time you use the amulet to teleport. On a failed saving throw, the black skull cackles as you are transformed in transit. The transformation takes effect as soon as you arrive at the destination, and is determined randomly by rolling percentile dice and consulting the Black Skull Transformation table. </text>
+		<text>	The amulet has 6 charges and regains 1d6 charges daily at dawn. While wearing the amulet, you can use an action to expend 1 of its charges to transport yourself and anything you are wearing or carrying to a location within 100 feet of you. The destination you choose doesn't need to be in your line of sight, but it must be familiar to you (in other words, a place you have seen or visited), and it must be on the same plane of existence as you. This effect isn't subject to the magic restrictions placed on the Tomb of the Nine Gods; thus, the amulet can be used to enter and exit the tomb. </text>
+		<text>	If you aren't undead, you must make a DC 16 Constitution saving throw each time you use the amulet to teleport. On a failed saving throw, the black skull cackles as you are transformed in transit. The transformation takes effect as soon as you arrive at the destination, and is determined randomly by rolling percentile dice and consulting the Black Skull Transformation table. </text>
 		<text>	 </text>
 		<text>d100 &#8212; Transformation </text>
-		<text>01&#8211;20 &#8212; The symbol of Acererak is burned into your flesh, a curse that can only be removed with a remove curse spell or similar magic. Until the curse ends, your hit points can&#8217;t be restored by magic. </text>
+		<text>01&#8211;20 &#8212; The symbol of Acererak is burned into your flesh, a curse that can only be removed with a remove curse spell or similar magic. Until the curse ends, your hit points can't be restored by magic. </text>
 		<text>21&#8211;35 &#8212; You grow larger as if affected by an enlarge/reduce spell, except the effect lasts for 1 hour. </text>
 		<text>36&#8211;50 &#8212; You grow smaller as if affected by an enlarge/reduce spell, except the effect lasts for 1 hour. </text>
 		<text>51&#8211;70 &#8212; You arrive at the destination wearing nothing but the amulet of the black skull. Everything else that you were wearing or carrying appears in a random unoccupied space within 100 feet of you. </text>
@@ -1368,7 +1368,7 @@
 		<text>A restless spirit is trapped inside this lantern. While holding the lantern, you can command the spirit as a bonus action to shed bright light in a 30-foot radius and dim light for an additional 30 feet. </text>
 		<text>	While holding the lantern, you can use an action to order the spirit to leave the lantern and duplicate the effect of the mage hand spell. The spirit returns to the lantern when the spell ends. </text>
 		<text>	If you fall unconscious within 10 feet of the lantern, the spirit emerges from it, magically stabilizes you with a touch, and then quickly returns to the lantern. </text>
-		<text>	The spirit is bound to the lantern and can&#8217;t be harmed, turned, or raised from the dead. Casting a dispel evil and good spell on the lantern releases the spirit to the afterlife and renders the lantern nonmagical.</text>
+		<text>	The spirit is bound to the lantern and can't be harmed, turned, or raised from the dead. Casting a dispel evil and good spell on the lantern releases the spirit to the afterlife and renders the lantern nonmagical.</text>
 		<text />
 		<text>Source: Tomb of Annihilation, p. 206</text>
 		<source>Adventures</source>
@@ -1560,7 +1560,7 @@
 		<magic>1</magic>
 		<detail>uncommon</detail>
 		<weight></weight>
-		<text>This wooden mask is shaped in the likeness of a beast&#8217;s visage and has 3 charges. While wearing the mask, you can expend 1 charge and use the mask to cast the animal friendship spell as an action. The mask regains all expended charges at dawn.</text>
+		<text>This wooden mask is shaped in the likeness of a beast's visage and has 3 charges. While wearing the mask, you can expend 1 charge and use the mask to cast the animal friendship spell as an action. The mask regains all expended charges at dawn.</text>
 		<text />
 		<text>Source: Tomb of Annihilation, p. 207</text>
 		<source>Adventures</source>
@@ -1743,7 +1743,7 @@
 		<name>Pixie Dust</name>
 		<type>W</type>
 		<magic>1</magic>
-		<detail></detail>
+		<detail>Uncommon</detail>
 		<weight></weight>
 		<text>One pinch of the pixie dust can substitute for the material components of any enchantment spell of 3rd level or lower. The pixie dust has other magical effects as well. If a pinch of pixie dust is sprinkled on a creature, roll percentile dice and consult the Pixie Dust table to determine the effect.</text>
 		<text>     </text>
@@ -2373,11 +2373,11 @@
 	<proficiency>Insight, Religion</proficiency>
 	<trait>
 		<name>Description</name>
-		<text>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures&#8217; customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through first-hand observation &#8212; by visiting far-flung settlements and exploring local histories and customs.</text>
+		<text>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures' customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through first-hand observation &#8212; by visiting far-flung settlements and exploring local histories and customs.</text>
 	</trait>
 	<trait>
 		<name>Cultural Chameleon</name>
-		<text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs. Choose a race whose culture you&#8217;ve adopted, or roll on the Adopted Culture table.</text>
+		<text>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs. Choose a race whose culture you've adopted, or roll on the Adopted Culture table.</text>
 		<text> </text>
 		<text>d8 &#8212; Culture </text>
 		<text>1 &#8212; Aarakocra </text>
@@ -2401,22 +2401,22 @@
 	</trait>
 	<trait>
 		<name>Adept Linguist</name>
-		<text>You can communicate with humanoids who don&#8217;t speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures &#8212; enough to communicate on a rudimentary level.</text>
+		<text>You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures &#8212; enough to communicate on a rudimentary level.</text>
 		<text> </text>
 		<text>Source: Tomb of Annihilation, p. 191</text>
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>A leather-bound diary, a bottle of ink, an ink pen, a set of traveler&#8217;s clothes, one trinket of special significance, and a pouch containing 10 gp</text>
+		<text>A leather-bound diary, a bottle of ink, an ink pen, a set of traveler's clothes, one trinket of special significance, and a pouch containing 10 gp</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
 		<text></text>
 		<text> </text>
-		<text>1. I prefer the company of those who aren&#8217;t like me, including people of other races. </text>
+		<text>1. I prefer the company of those who aren't like me, including people of other races. </text>
 		<text> </text>
-		<text>2. I&#8217;m a stickler when it comes to observing proper etiquette and local customs. </text>
+		<text>2. I'm a stickler when it comes to observing proper etiquette and local customs. </text>
 		<text> </text>
 		<text>3. I would rather observe than meddle. </text>
 		<text> </text>
@@ -2441,7 +2441,7 @@
 		<text> </text>
 		<text>5. Protection. I must do everything possible to save a society facing extinction. (Good) </text>
 		<text> </text>
-		<text>6. Indifferent. Life is cruel. What&#8217;s the point in saving people if they&#8217;re going to die anyway? (Chaotic)</text>
+		<text>6. Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway? (Chaotic)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
@@ -2467,11 +2467,11 @@
 		<text> </text>
 		<text>1. Boats make me seasick. </text>
 		<text> </text>
-		<text>2. I talk to myself, and I don&#8217;t make friends easily. </text>
+		<text>2. I talk to myself, and I don't make friends easily. </text>
 		<text> </text>
-		<text>3. I believe that I&#8217;m intellectually superior to people from other cultures and have much to teach them. </text>
+		<text>3. I believe that I'm intellectually superior to people from other cultures and have much to teach them. </text>
 		<text> </text>
-		<text>4. I&#8217;ve picked up some unpleasant habits living among goblins, lizardfolk, or orcs. </text>
+		<text>4. I've picked up some unpleasant habits living among goblins, lizardfolk, or orcs. </text>
 		<text> </text>
 		<text>5. I complain about everything. </text>
 		<text> </text>
@@ -2517,7 +2517,7 @@
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner&#8217;s pick, a set of traveler&#8217;s clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp</text>
+		<text>A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
@@ -2526,17 +2526,17 @@
 		<text> </text>
 		<text>1. I love a good puzzle or mystery. </text>
 		<text> </text>
-		<text>2. I&#8217;m a pack rat who never throws anything away. </text>
+		<text>2. I'm a pack rat who never throws anything away. </text>
 		<text> </text>
 		<text>3. Fame is more important to me than money. </text>
 		<text> </text>
 		<text>4. I have no qualms about stealing from the dead. </text>
 		<text> </text>
-		<text>5. I&#8217;m happier in a dusty old tomb than I am in the centers of civilization. </text>
+		<text>5. I'm happier in a dusty old tomb than I am in the centers of civilization. </text>
 		<text> </text>
-		<text>6. Traps don&#8217;t make me nervous. Idiots who trigger traps make me nervous. </text>
+		<text>6. Traps don't make me nervous. Idiots who trigger traps make me nervous. </text>
 		<text> </text>
-		<text>8. I might fail, but I will never give up. 8 You might think I&#8217;m a scholar, but I love a good brawl. These fists were made for punching.</text>
+		<text>8. I might fail, but I will never give up. 8 You might think I'm a scholar, but I love a good brawl. These fists were made for punching.</text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
@@ -2545,7 +2545,7 @@
 		<text> </text>
 		<text>1. Preservation. That artifact belongs in a museum. (Good) </text>
 		<text> </text>
-		<text>2. Greed. I won&#8217;t risk my life for nothing. I expect some kind of payment. (Any) </text>
+		<text>2. Greed. I won't risk my life for nothing. I expect some kind of payment. (Any) </text>
 		<text> </text>
 		<text>3. Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic) </text>
 		<text> </text>
@@ -2560,15 +2560,15 @@
 		<text>Choose or randomly determine</text>
 		<text></text>
 		<text> </text>
-		<text>1. Ever since I was a child, I&#8217;ve heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books. </text>
+		<text>1. Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books. </text>
 		<text> </text>
 		<text>2. I want to find my mentor, who disappeared on an expedition some time ago. </text>
 		<text> </text>
-		<text>3. I have a friendly rival. Only one of us can be the best, and I aim to prove it&#8217;s me. </text>
+		<text>3. I have a friendly rival. Only one of us can be the best, and I aim to prove it's me. </text>
 		<text> </text>
-		<text>4. I won&#8217;t sell an art object or other treasure that has historical significance or is one of a kind. </text>
+		<text>4. I won't sell an art object or other treasure that has historical significance or is one of a kind. </text>
 		<text> </text>
-		<text>5. I&#8217;m secretly in love with the wealthy patron who sponsors my archaeological exploits. </text>
+		<text>5. I'm secretly in love with the wealthy patron who sponsors my archaeological exploits. </text>
 		<text> </text>
 		<text>6. I hope to bring prestige to a library, a museum, or a university.</text>
 	</trait>
@@ -2579,15 +2579,15 @@
 		<text> </text>
 		<text>1. I have a secret fear of some common wild animal &#8212; and in my work, I see them everywhere. </text>
 		<text> </text>
-		<text>2. I can&#8217;t leave a room without searching it for secret doors. </text>
+		<text>2. I can't leave a room without searching it for secret doors. </text>
 		<text> </text>
-		<text>3. When I&#8217;m not exploring dungeons or ruins, I get jittery and impatient. </text>
+		<text>3. When I'm not exploring dungeons or ruins, I get jittery and impatient. </text>
 		<text> </text>
 		<text>4. I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition. </text>
 		<text> </text>
 		<text>5. When given the choice of going left or right, I always go left. </text>
 		<text> </text>
-		<text>6. I can&#8217;t sleep except in total darkness.</text>
+		<text>6. I can't sleep except in total darkness.</text>
 	</trait>
 </background>
 <background>
@@ -2595,7 +2595,7 @@
 	<proficiency>Deception, Insight</proficiency>
 	<trait>
 		<name>Description</name>
-		<text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you&#8217;ve been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.</text>
+		<text>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you've been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.</text>
 		<text>	In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other phlan insurgents.</text>
 		<text>	Since the evacuation of Phlan, you are even busier today than you ever were previously, as the number of dissenters among the refugees grows daily, while you are afforded many opportunities to spy on the peoples of Mulmaster and Elventree, to the pleasure of your contact(s) within the Tears of Virulence.</text>
 	</trait>
@@ -2617,7 +2617,7 @@
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>Disguise kit, common clothes, a Tears of Virulence emblem, a writ of free agency signed by the Lord Regent, a set of artisan&#8217;s tools or gaming set you are proficient with, and a pouch with 15 gp (payment for services rendered).</text>
+		<text>Disguise kit, common clothes, a Tears of Virulence emblem, a writ of free agency signed by the Lord Regent, a set of artisan's tools or gaming set you are proficient with, and a pouch with 15 gp (payment for services rendered).</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
@@ -2977,7 +2977,7 @@
 		<text> </text>
 		<text>6. I am haunted my tortured past, and wake at night screaming at half-remembered horrors.</text>
 		<text> </text>
-		<text>7. I sleep with my back to a wall or tree, and a weapon within arm&#8217;s reach.</text>
+		<text>7. I sleep with my back to a wall or tree, and a weapon within arm's reach.</text>
 		<text> </text>
 		<text>8. I am slow to trust, but incredibly loyal to those who have earned it.</text>
 	</trait>
@@ -3461,17 +3461,17 @@
 	<proficiency></proficiency>
 	<trait>
 		<name>Description</name>
-		<text>You are haunted by something so terrible that you dare not speak of it. You&#8217;ve tried to bury it and flee from it, to no avail. This thing that haunts you can&#8217;t be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from others and making you question your sanity. You must find a way to overcome it before it destroys you.</text>
+		<text>You are haunted by something so terrible that you dare not speak of it. You've tried to bury it and flee from it, to no avail. This thing that haunts you can't be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from others and making you question your sanity. You must find a way to overcome it before it destroys you.</text>
 	</trait>
 	<trait>
 		<name>Harrowing Event</name>
 		<text>Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll 1d10.</text>
 		<text></text>
-		<text>1. A monster that slaughtered dozens of innocent people spared your life, and you don&#8217;t know why. </text>
+		<text>1. A monster that slaughtered dozens of innocent people spared your life, and you don't know why. </text>
 		<text></text>
 		<text>2. You were born under a dark star. You can feel it watching you, coldly and distantly. Sometimes it beckons you in the dead of night. </text>
 		<text></text>
-		<text>3. An apparition that has haunted your family for generations now haunts you. You don&#8217;t know what it wants, and it won&#8217;t leave you alone. </text>
+		<text>3. An apparition that has haunted your family for generations now haunts you. You don't know what it wants, and it won't leave you alone. </text>
 		<text></text>
 		<text>4. Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you  ed in terror. </text>
 		<text></text>
@@ -3505,14 +3505,14 @@
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>Monster hunter&#8217;s pack, one trinket of special significance (choose one or roll on the Gothic Trinkets table)</text>
+		<text>Monster hunter's pack, one trinket of special significance (choose one or roll on the Gothic Trinkets table)</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
 		<text>Choose or randomly determine</text>
 		<text></text>
 		<text> </text>
-		<text>1. I don&#8217;t run from evil. Evil runs from me. </text>
+		<text>1. I don't run from evil. Evil runs from me. </text>
 		<text> </text>
 		<text>2. I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness. </text>
 		<text> </text>
@@ -3520,7 +3520,7 @@
 		<text> </text>
 		<text>4. I live for the thrill of the hunt. </text>
 		<text> </text>
-		<text>5. I don&#8217;t talk about the thing that torments me. I&#8217;d rather not burden others with my curse. </text>
+		<text>5. I don't talk about the thing that torments me. I'd rather not burden others with my curse. </text>
 		<text> </text>
 		<text>6. I expect danger around every corner. </text>
 		<text> </text>
@@ -3535,15 +3535,15 @@
 		<text> </text>
 		<text>1. I try to help those in need, no matter what the personal cost. (Good) </text>
 		<text> </text>
-		<text>2. I&#8217;ll stop the spirits that haunt me or die trying. (Any) </text>
+		<text>2. I'll stop the spirits that haunt me or die trying. (Any) </text>
 		<text> </text>
 		<text>3. I kill monsters to make the world a safer place, and to exorcise my own demons. (Good) </text>
 		<text> </text>
 		<text>4. I have a dark calling that puts me above the law. (Chaotic) </text>
 		<text> </text>
-		<text>5. I like to know my enemy&#8217;s capabilities and weaknesses before rushing into battle. (Lawful) </text>
+		<text>5. I like to know my enemy's capabilities and weaknesses before rushing into battle. (Lawful) </text>
 		<text> </text>
-		<text>6. I&#8217;m a monster that destroys other monsters, and anything else that gets in my way. (Evil)</text>
+		<text>6. I'm a monster that destroys other monsters, and anything else that gets in my way. (Evil)</text>
 	</trait>
 	<trait>
 		<name>Bond</name>
@@ -3554,11 +3554,11 @@
 		<text> </text>
 		<text>2. I would sacrifice my life and my soul to protect the innocent. </text>
 		<text> </text>
-		<text>3. My torment drove away the person I love. I strive to win back the love I&#8217;ve lost. </text>
+		<text>3. My torment drove away the person I love. I strive to win back the love I've lost. </text>
 		<text> </text>
 		<text>4. A terrible guilt consumes me. I hope that I can find redemption through my actions. </text>
 		<text> </text>
-		<text>5. There&#8217;s evil in me, I can feel it. It must never be set free. </text>
+		<text>5. There's evil in me, I can feel it. It must never be set free. </text>
 		<text> </text>
 		<text>6. I have a child to protect. I must make the world a safer place for him (or her).  </text>
 	</trait>
@@ -3603,7 +3603,7 @@
 	</trait>
 	<trait>
 		<name>Factor</name>
-		<text>Although you&#8217;ve left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days.</text>
+		<text>Although you've left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days.</text>
 		<text> </text>
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 6</text>
 	</trait>
@@ -3704,7 +3704,7 @@
 	</trait>
 	<trait>
 		<name>Secret Passage</name>
-		<text>You can call on your contacts within the smuggling community to secure secret passage into or out of Hillsfar for yourself and your adventuring companions, no questions asked, and no Red Plume entanglements. Because you&#8217;re calling in a favor, you can&#8217;t be certain they will be able to help on your timetable or at all. Your Dungeon Master will determine whether you can be smuggled into or out of the city. In return for your passage, you and your companions may owe the Rouges Guild a favor and/or may have to pay bribes.</text>
+		<text>You can call on your contacts within the smuggling community to secure secret passage into or out of Hillsfar for yourself and your adventuring companions, no questions asked, and no Red Plume entanglements. Because you're calling in a favor, you can't be certain they will be able to help on your timetable or at all. Your Dungeon Master will determine whether you can be smuggled into or out of the city. In return for your passage, you and your companions may owe the Rouges Guild a favor and/or may have to pay bribes.</text>
 		<text> </text>
 		<text>Source: Hillsfar Character Backgrounds and Bonds, p. 7</text>
 	</trait>
@@ -3790,7 +3790,7 @@
 	<proficiency>Stealth, Animal Handling</proficiency>
 	<trait>
 		<name>Description</name>
-		<text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan&#8217;s recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people&#8217;s mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.</text>
+		<text>The Iron Route, once the primary trade route between Phlan and Zhentil Keep, used to be a site of extensive banditry until the Phlan's recent occupation. Your time as an erstwhile bandit has given you plenty of experience in the saddle and a knack for acquiring and appraising other people's mounts, pets, and vehicles among other things. This particular set of skills has become very lucrative for you by working for the underground as a horse thief for a local guild of thieves and other shadowy organizations.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
@@ -3810,7 +3810,7 @@
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>A set of dark common clothes, pack saddle, burglar&#8217;s pack and a belt pouch containing 5 gp.</text>
+		<text>A set of dark common clothes, pack saddle, burglar's pack and a belt pouch containing 5 gp.</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
@@ -3829,7 +3829,7 @@
 		<text> </text>
 		<text>6. I always form a powerful, emotional bond with my mount.</text>
 		<text> </text>
-		<text>7. I recoil at the thought of killing someone else&#8217;s pet or mount.</text>
+		<text>7. I recoil at the thought of killing someone else's pet or mount.</text>
 		<text> </text>
 		<text>8. I prefer to hang to the back of a scuffle or discussion. Better to have my enemies in front of me.</text>
 	</trait>
@@ -3844,7 +3844,7 @@
 		<text> </text>
 		<text>3. Power: I strive to become leader of the pack at all costs. (Lawful)</text>
 		<text> </text>
-		<text>4. Freedom: I bow to no one I don&#8217;t respect. (Chaotic)</text>
+		<text>4. Freedom: I bow to no one I don't respect. (Chaotic)</text>
 		<text> </text>
 		<text>5. Resourcefulness: Our wits are our most valuable resource in troubled times. (Any)</text>
 		<text> </text>
@@ -3865,7 +3865,7 @@
 		<text> </text>
 		<text>5. If my pet does not like you, I do not like you!</text>
 		<text> </text>
-		<text>6. Once you&#8217;ve ridden with me and fought by my side, I&#8217;ll be there for you, odds be damned.</text>
+		<text>6. Once you've ridden with me and fought by my side, I'll be there for you, odds be damned.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
@@ -3880,7 +3880,7 @@
 		<text> </text>
 		<text>4. I robbed the wrong caravan once. The owner is a powerful merchant who holds a grudge.</text>
 		<text> </text>
-		<text>5. I&#8217;m an inveterate gambler.</text>
+		<text>5. I'm an inveterate gambler.</text>
 		<text> </text>
 		<text>6. I judge people based on how well they stand their ground in a fight. I got no time for cowards...</text>
 	</trait>
@@ -4117,7 +4117,7 @@
 	</trait>
 	<trait>
 		<name>Origin</name>
-		<text>Removed from your life as a townsperson, you&#8217;ve adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both). </text>
+		<text>Removed from your life as a townsperson, you've adapted to rough life in the wilds surrounding Phlan. The trade you practiced still influences your outlook, the manner in which you approach situations, and the way you contribute to the resistance movement against the Maimed Virulence. You can roll on the following table to determine what your occupation was before the fall, or choose one that best fits your character (select from either the general column or the specific column, but not both). </text>
 		<text> </text>
 		<text>General: </text>
 		<text>1. Fisher  </text>
@@ -4132,7 +4132,7 @@
 		<text>Specific: </text>
 		<text>1. Stojanow river worker </text>
 		<text>2. Twilight Marsh worker  </text>
-		<text>3. Mantor&#8217;s Library scribe </text>
+		<text>3. Mantor's Library scribe </text>
 		<text>4. Clergy of Ilmater </text>
 		<text>5. Laughing Goblin server </text>
 		<text>6. Black Fist guard </text>
@@ -4151,7 +4151,7 @@
 	</trait>
 	<trait>
 		<name>Guerilla</name>
-		<text>You&#8217;ve come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge&#8212;or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use.</text>
+		<text>You've come to know the surrounding forests, streams, caves, and other natural features in which you can take refuge&#8212;or set up ambushes. You can quickly survey your environment for advantageous features. Additionally, you can scavenge around your natural surroundings to cobble together simple supplies (such as improvised torches, rope, patches of fabric, etc.) that are consumed after use.</text>
 		<text> </text>
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 6</text>
 	</trait>
@@ -4168,7 +4168,7 @@
 		<text> </text>
 		<text>2. In life and in struggle, the ends justify my actions. </text>
 		<text> </text>
-		<text>3. If you aren&#8217;t helping me, you&#8217;d best at least stay out of my way.</text>
+		<text>3. If you aren't helping me, you'd best at least stay out of my way.</text>
 		<text> </text>
 		<text>4. I long for the life that was taken away from me. </text>
 		<text> </text>
@@ -4202,7 +4202,7 @@
 		<text>Choose or randomly determine</text>
 		<text></text>
 		<text> </text>
-		<text>1. I&#8217;ll never let my fellow insurgents down. They are my only remaining friends.</text>
+		<text>1. I'll never let my fellow insurgents down. They are my only remaining friends.</text>
 		<text> </text>
 		<text>2. I was separated from a loved one during my escape from town. I will find them. </text>
 		<text> </text>
@@ -4212,7 +4212,7 @@
 		<text> </text>
 		<text>5. The dragon who took my past life away from me will feel the full extent of my vengeance.</text>
 		<text> </text>
-		<text>6. The knowledge in Mantor&#8217;s Library is an irreplaceable treasure that must be protected.</text>
+		<text>6. The knowledge in Mantor's Library is an irreplaceable treasure that must be protected.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
@@ -4223,13 +4223,13 @@
 		<text> </text>
 		<text>2. Ale is the only way I can escape the desperation of my circumstances. </text>
 		<text> </text>
-		<text>3. It doesn&#8217;t take much to get me into a fight.</text>
+		<text>3. It doesn't take much to get me into a fight.</text>
 		<text> </text>
-		<text>4. Being an insurgent means doing things that aren&#8217;t always ethical. I&#8217;m still learning to live with that. </text>
+		<text>4. Being an insurgent means doing things that aren't always ethical. I'm still learning to live with that. </text>
 		<text> </text>
 		<text>5. My desire to liberate Phlan oftentimes clouds my judgement, despite my best efforts.</text>
 		<text> </text>
-		<text>6. I relentlessly despise the Maimed Virulence and his allies. I&#8217;d abandon other goals in order to strike out at them.</text>
+		<text>6. I relentlessly despise the Maimed Virulence and his allies. I'd abandon other goals in order to strike out at them.</text>
 	</trait>
 </background>
 <background>
@@ -4237,7 +4237,7 @@
 	<proficiency>Insight, Athletics</proficiency>
 	<trait>
 		<name>Description</name>
-		<text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day&#8217;s labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count 2 yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.</text>
+		<text>Gone are the happier days of walking into the Laughing Goblin Inn after a hard day's labor. Everything has changed, and you are lucky to be alive. Back in Phlan you could count 2 yourself among those street-wise folks who knew when to pay a bribe and who to work with to make a living. Your ability to listen to the winds of change have saved you before, and this time they allowed you to be one of the lucky few who escaped Phlan with something more than just the shirt on your back.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
@@ -4257,7 +4257,7 @@
 	</trait>
 	<trait>
 		<name>Equipment</name>
-		<text>A set of artisan&#8217;s tools (one of your choice), a token of the life you once knew, a set of traveler&#8217;s clothes, and a belt pouch containing 15 gp</text>
+		<text>A set of artisan's tools (one of your choice), a token of the life you once knew, a set of traveler's clothes, and a belt pouch containing 15 gp</text>
 	</trait>
 	<trait>
 		<name>Personality Trait</name>
@@ -4278,7 +4278,7 @@
 		<text> </text>
 		<text>7. I never cared for personal hygiene, and am amazed that It bothers others. </text>
 		<text> </text>
-		<text>8. I am always willing to volunteer my services, just as long as don&#8217;t have to do anything. </text>
+		<text>8. I am always willing to volunteer my services, just as long as don't have to do anything. </text>
 	</trait>
 	<trait>
 		<name>Ideal</name>
@@ -4329,7 +4329,7 @@
 		<text> </text>
 		<text>5. I am unable to keep secrets. A secret is just an untold story. </text>
 		<text> </text>
-		<text>6. When something goes wrong, it&#8217;s never my fault.</text>
+		<text>6. When something goes wrong, it's never my fault.</text>
 	</trait>
 </background>
 <background>
@@ -4811,7 +4811,7 @@
 		<text> </text>
 		<text>1. I am a bully; others will suffer as I have.</text>
 		<text> </text>
-		<text>2.I always say yes even when I mean no; it&#8217;s just easier. </text>
+		<text>2.I always say yes even when I mean no; it's just easier. </text>
 		<text> </text>
 		<text>3. I aim to misbehave.</text>
 		<text> </text>
@@ -4882,8 +4882,8 @@
 	<proficiency>Nature, Animal Handling</proficiency>
 	<trait>
 		<name>Description</name>
-		<text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant&#8217;s Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.</text>
-		<text>	In your migrations, your people have come to know the stone giant tribes that populate the Giant&#8217;s Cairn. The dragon cultists came to the hills one day&#8212;magic-users wearing purple and riding horrid beasts, black-clad warriors wearing wicked masks, and even soldiers from the nearby town of Phlan. Then the dragon called Vorgansharax arrived and laired in the hills, causing horrid thickets to grow and animals to act unusually. The cultists began raiding nomad camps for victims to offer to the wyrm. Eventually, the dragon moved on to attack Phlan, but life was never again the same for the nomads of the Ticklebelly Hills.</text>
+		<text>You were born into a nomadic tribe that called the Ticklebelly Hills home. You migrated from location to location, living off the land with your tribe. The tribe would seasonally travel south into the Grass Sea and the Giant's Cairn, north into the Dragonspine Mountains, and even occasionally east across the Stojanow River to the borders of the Quivering forest.</text>
+		<text>	In your migrations, your people have come to know the stone giant tribes that populate the Giant's Cairn. The dragon cultists came to the hills one day&#8212;magic-users wearing purple and riding horrid beasts, black-clad warriors wearing wicked masks, and even soldiers from the nearby town of Phlan. Then the dragon called Vorgansharax arrived and laired in the hills, causing horrid thickets to grow and animals to act unusually. The cultists began raiding nomad camps for victims to offer to the wyrm. Eventually, the dragon moved on to attack Phlan, but life was never again the same for the nomads of the Ticklebelly Hills.</text>
 	</trait>
 	<trait>
 		<name>Starting Proficiencies</name>
@@ -4897,7 +4897,7 @@
 	</trait>
 	<trait>
 		<name>At Home in the Wild</name>
-		<text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn&#8217;t shield or conceal you from scrying, mental probing, nor from threats that don&#8217;t necessarily require the five senses to find you.</text>
+		<text>The wilderness is your home and you are comfortable dwelling in it. You can find a place to hide, rest, or recuperate when out in the wild. This place of rest is secure enough to conceal you from most natural threats. Threats that are supernatural, magical, or are actively seeking you out might do so with difficulty depending on the nature of the threat (as determined by the DM). However, this feature doesn't shield or conceal you from scrying, mental probing, nor from threats that don't necessarily require the five senses to find you.</text>
 		<text> </text>
 		<text>Source: Curse of Strahd: Optional Backgrounds, p. 9</text>
 	</trait>
@@ -4912,11 +4912,11 @@
 		<text> </text>
 		<text>1. I eagerly inject myself into the unknown.</text>
 		<text> </text>
-		<text>2.Villages, towns, and cities do not suit me. I&#8217;d rather be out in the wilderness any day. </text>
+		<text>2.Villages, towns, and cities do not suit me. I'd rather be out in the wilderness any day. </text>
 		<text> </text>
 		<text>3. I accomplish my tasks efficiently, using as few resources as possible.</text>
 		<text> </text>
-		<text>4.It&#8217;s difficult for me to remain in one place for long. </text>
+		<text>4.It's difficult for me to remain in one place for long. </text>
 		<text> </text>
 		<text>5. I loudly brag about my tribe every chance I get.</text>
 		<text> </text>
@@ -4931,7 +4931,7 @@
 		<text>Choose or randomly determine</text>
 		<text></text>
 		<text> </text>
-		<text>1. Kinship: Family is most important in life. Though I may be far from my own, the bonds of family must be protected in others&#8217; lives as well. (Good)</text>
+		<text>1. Kinship: Family is most important in life. Though I may be far from my own, the bonds of family must be protected in others' lives as well. (Good)</text>
 		<text> </text>
 		<text>2.Preservation: Nature must not be despoiled by encroaching civilization. (Any) </text>
 		<text> </text>
@@ -4950,15 +4950,15 @@
 		<text> </text>
 		<text>1. I ache to return to my tribe and the family I left, but cannot until my obligations are fulfilled.</text>
 		<text> </text>
-		<text>2.The dragon cultists that invaded my homeland stole away one of my tribe&#8217;s people. I will not know rest until I&#8217;ve found them. </text>
+		<text>2.The dragon cultists that invaded my homeland stole away one of my tribe's people. I will not know rest until I've found them. </text>
 		<text> </text>
-		<text>3. The dragon&#8217;s presence in the hills destroyed valuable territory and resulted in deaths within my tribe. The creature must pay for what it has done.</text>
+		<text>3. The dragon's presence in the hills destroyed valuable territory and resulted in deaths within my tribe. The creature must pay for what it has done.</text>
 		<text> </text>
 		<text>4.I carry a trinket that spiritually and emotionally ties me to my people and my home. </text>
 		<text> </text>
-		<text>5. I discovered a strange relic in the hills during my tribe&#8217;s wanderings. I must discover what it is.</text>
+		<text>5. I discovered a strange relic in the hills during my tribe's wanderings. I must discover what it is.</text>
 		<text> </text>
-		<text>6.One of the stone giant clans from the Giant&#8217;s Cairn has graced me with a mark of kinship.</text>
+		<text>6.One of the stone giant clans from the Giant's Cairn has graced me with a mark of kinship.</text>
 	</trait>
 	<trait>
 		<name>Flaw</name>
@@ -5301,7 +5301,7 @@
 			<text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) slashing damage.</text>
 			<attack>Handaxe|3|1d6+1</attack>
 		</action>
-		<spells>hunter&#8217;s mark, jump, pass without trace, speak with animals, speak with plants</spells>
+		<spells>hunter's mark, jump, pass without trace, speak with animals, speak with plants</spells>
 		<slots>0</slots>
 		<source>Adventures</source>
 	</monster>
@@ -7361,7 +7361,7 @@
 		<conditionImmune></conditionImmune>
 		<senses></senses>
 		<passive>13</passive>
-		<languages>understands Common but can&#8217;t speak</languages>
+		<languages>understands Common but can't speak</languages>
 		<cr>5</cr>
 		<trait>
 			<name>Source</name>
