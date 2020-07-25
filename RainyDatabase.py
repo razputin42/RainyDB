@@ -50,7 +50,6 @@ class RainyDatabase:
     def load_collections(self, path):
         path = os.path.join(path, "5", "Collections")
         for resource in os.listdir(path):
-            print("Before", resource, self.length(Item), self.length(Monster), self.length(Spell))
             self.load_collection(path, resource)
 
     def load_collection(self, path, resource):
@@ -69,12 +68,6 @@ class RainyDatabase:
             for itt, entry in enumerate(root.findall("./item")):
                 self.insert_individual(Item(entry, itt), self.entries[str(Item)], resource)
 
-    # entry_class = Class(entry, itt)
-            # if entry_class.name not in entry_dict.keys():
-            #     entry_dict[entry_class.name] = entry_class
-            # else:
-            #     entry_dict[entry_class.name].append_source(resource)
-
     def load_all(self, s, dir, Class):
         for resource in os.listdir(dir):
             self.load_specific(s, dir, resource, Class)
@@ -83,19 +76,18 @@ class RainyDatabase:
         xml = ElementTree.parse(dir + resource)
         root = xml.getroot()
         entry_dict = self.entries[str(Class)]
-        print(resource)
         for itt, entry in enumerate(root.findall(s)):
             entry_class = Class(entry, itt)
             self.insert_individual(entry_class, entry_dict, resource)
 
     def insert_individual(self, entry, dictionary, resource):
-        print(entry.name)
+        # print("insert_individual", entry.name)
         if entry.name not in dictionary.keys():
             if type(entry) is Spell and "Invocation: " in entry.name:
                 return
-            print(entry.name)
             dictionary[entry.name] = entry
         else:
+            # print("\t", entry.name, "not in dictionary keys")
             if type(entry) is Spell:
                 dictionary[entry.name].append_spell(entry)
             else:
@@ -116,26 +108,48 @@ class RainyDatabase:
         else:
             return entry_dict[name]
 
-    def validate(self):
-        self.validate_individual(Spell)
-        self.validate_individual(Monster)
-        # self.validate_individual(Item)
-        self.validate_item()
+    def validate(self, monster=True, spell=True, item=True):
+        if spell:
+            self.validate_individual(Spell)
+        if monster:
+            self.validate_monsters()
+        if item:
+            self.validate_item()
+
+    def validate_monsters(self):
+
+        print("Validating Monsters")
+        self.validate_individual(Monster)  # validate database fields
+        monsters = self.entries[str(Monster)]
+        print("Trialing Actions:")
+        for monster in monsters.values():
+            if not hasattr(monster, "action_list"):
+                continue
+            for action in monster.action_list:
+                if action is None:
+                    print("\t! Faulty Action -", monster.name, action.name)
+                elif not hasattr(action, "name"):
+                    print("\t! Action without name -", monster.name)
 
     def validate_item(self):
         entries = self.entries[str(Item)]
         sources = []
+        print("Validating Items")
         for name, entry in entries.items():
+            skip_append = False
             if not hasattr(entry, "rarity"):
-                print("No Rarity:", entry.name)
+                print("\tNo Rarity:", entry.name)
+            elif entry.rarity == "N/A":
+                print("\tUnrealised entry:", entry.name)
+            elif entry.rarity.lower() not in ["common", "uncommon", "rare", "very rare", "legendary", "artifact"]:
+                print("\tFalse Rarity:", entry.name, entry.rarity)
+            else:
+                skip_append = True
+            if not skip_append:
                 for source in entry.source:
                     if source not in sources:
                         sources.append(source)
                 continue
-            elif entry.rarity == "N/A":
-                print("Unrealised entry:", entry.name)
-            elif entry.rarity.lower() not in ["common", "uncommon", "rare", "very rare", "legendary", "artifact"]:
-                print("Rarity:", entry.name, entry.rarity)
         print("Invalid items from following sources:", sources)
 
     def validate_individual(self, entry_class):
@@ -156,4 +170,4 @@ if __name__ == "__main__":
     db = RainyDatabase(os.getcwd())
     # db.list(Item)
     print(db.length(Item), db.length(Monster), db.length(Spell))
-    db.validate()
+    db.validate(item=False, monster=True, spell=False)
