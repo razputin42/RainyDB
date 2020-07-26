@@ -2131,7 +2131,7 @@
         </trait>
         <trait>
             <name>Armblade Equipping</name>
-            <text>An armblade is a weapon designed to integrate with the forearm of a warforged. If you’re a warforged, you can attach an armblade by attuning to it. An attached armblade cannot be disarmed or removed from you against your will, but while the weapon is attached you cannot use that hand for other actions. You can spend one minute to end the attunement and remove the armblade. An armblade isn’t inherently considered to be a magic weapon for purposes of overcoming damage resistance. However, any sort of magical melee weapon could be created as an armblade, so you could acquire a vicious armblade or a vorpal armblade.</text>
+            <text>An armblade is a weapon designed to integrate with the forearm of a warforged. If you're a warforged, you can attach an armblade by attuning to it. An attached armblade cannot be disarmed or removed from you against your will, but while the weapon is attached you cannot use that hand for other actions. You can spend one minute to end the attunement and remove the armblade. An armblade isn't inherently considered to be a magic weapon for purposes of overcoming damage resistance. However, any sort of magical melee weapon could be created as an armblade, so you could acquire a vicious armblade or a vorpal armblade.</text>
         </trait>
         <trait>
             <name>Warforged Personality</name>
@@ -2286,7 +2286,7 @@
         <autolevel level="1">
             <feature optional="YES">
                 <name>Optional Rule: Firearm Proficiency</name>
-                <text>The secrets of creating and operating gunpowder weapons have been discovered in various corners of the Dungeons and Dragons multiverse. If your Dungeon Master uses the rules on firearms in chapter 9 of the Dungeon Master’s Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</text>
+                <text>The secrets of creating and operating gunpowder weapons have been discovered in various corners of the Dungeons and Dragons multiverse. If your Dungeon Master uses the rules on firearms in chapter 9 of the Dungeon Master's Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</text>
                 <text> </text>
                 <text>Source: Eberron Rising From the Last War, p. 54
                               Player's Handbook, p. 163
@@ -2297,11 +2297,11 @@
         <autolevel level="1">
             <feature>
                 <name>Magical Tinkering</name>
-                <text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have tinker’s tools or other artisan’s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
+                <text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have tinker's tools or other artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</text>
                 <text>• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
                 <text>• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</text>
                 <text>• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</text>
-                <text>• A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
+                <text>• A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</text>
                 <text> </text>
                 <text>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</text>
                 <text> </text>
@@ -2561,7 +2561,7 @@
             </feature>
             <feature optional="YES">
                 <name>Alchemical Savant (Alchemist)</name>
-                <text>At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist’s supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</text>
+                <text>At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).</text>
                 <text> </text>
                 <text>Source: Eberron Rising From the Last War, p. 58</text>
             </feature>
@@ -3506,7 +3506,7 @@
         <components>V,S,M</components>
         <duration></duration>
         <classes>Artificer Infusions</classes>
-        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack. The bonus increases to +2 when you reach 10th level in this class.</text>
+        <text>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack. The bonus increases to +2 when you reach 10th level in this class.</text>
         <text/>
         <text>Requirements: A simple or martial weapon with the thrown property</text>
         <text/>

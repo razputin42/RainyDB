@@ -98,7 +98,7 @@
 		<detail>legendary (requires attunement by the Blackstaff heir, who must be a wizard)</detail>
 		<weight>4</weight>
 		<text>The Blackstaff is a sentient, rune-carved staff set with thin silver veins. It is the symbol of office for the Blackstaff, the highest-ranking wizard in Waterdeep. As the rightful owner of the Blackstaff, Vajra Safahr is the only one who can become attuned to it. The staff can. however, choose a new owner (see " Personality" below).</text>
-		<text>	The Blackstaff has the magical properties of a Staff of Power (see the Dungeon Master’s Guide) in addition to the following properties.</text>
+		<text>	The Blackstaff has the magical properties of a Staff of Power (see the Dungeon Master's Guide) in addition to the following properties.</text>
 		<text>  </text>
 		<text>Animate Walking Statues: You can expend 1 or more of the staff's charges as an action to animate or deactivate one or more of the walking statues of Waterdeep. You must be in the city to use this property, and you can animate or deactivate one statue for each charge expended. An animated statue obeys the telepathic commands of Khelben Arunsun's spirit, which is trapped inside the staff (see "Personality" below). A walking statue becomes inanimate if deactivated or if the staff is broken.</text>
 		<text>  </text>
@@ -1498,7 +1498,7 @@
 		<source>Adventures</source>
 	</item>
 	<item>
-		<name>Knave’s Eye Patch</name>
+		<name>Knave's Eye Patch</name>
 		<type>W</type>
 		<magic>1</magic>
 		<detail>rare (requires attunement)</detail>
@@ -1513,13 +1513,13 @@
 		<source>Adventures</source>
 	</item>
 	<item>
-		<name>Lord’s Ensemble</name>
+		<name>Lord's Ensemble</name>
 		<type>W</type>
 		<magic>1</magic>
 		<detail>very rare (requires attunement by a creature with a humanoid build)</detail>
 		<weight></weight>
 		<text>The Masked Lords of Waterdeep don this ensemble when meeting with one another. This raiment renders each lord indistinguishable from the others. The ensemble consists of three pieces a helm, an amulet, and a robe- that function as a single magic item when worn together, but only within the city of Waterdeep and its sewers. You become attuned to the ensemble as a single item.</text>
-		<text>	Lord’s Helm: This bucket helm covers your head and conceals your face. Screens over the eyes help to shroud your identity without blinding you. While you wear the helm, your voice is magically altered to sound genderless, and you are immune to magic that allows other creatures to read your thoughts, to determine whether you are lying, to know your alignment, or to know your creature type. Creatures can communicate telepathically with you only if you allow it.</text>
+		<text>	Lord's Helm: This bucket helm covers your head and conceals your face. Screens over the eyes help to shroud your identity without blinding you. While you wear the helm, your voice is magically altered to sound genderless, and you are immune to magic that allows other creatures to read your thoughts, to determine whether you are lying, to know your alignment, or to know your creature type. Creatures can communicate telepathically with you only if you allow it.</text>
 		<text>	Lord's Amulet: This amulet bears the crest of Waterdeep. It functions as an amulet of proof against detection and location.</text>
 		<text>	Lord's Robe: This elegant robe functions as a ring of free action, and it creates the illusion that you have a nondescript, androgynous humanoid build and stand 6 feet tall.</text>
 		<text />
@@ -4543,7 +4543,7 @@
 		<text>You have sailed into war on the decks of great ships, patching their hulls with soup bowls and prayers. You once helped build a fishing vessel that single-handedly saved a town from starvation. You have seen a majestic prow in your dreams that you have not been able to replicate in wood. Since childhood, you have loved the water and have been captivated by the many vessels that travel on it.</text>
 	</trait>
 	<trait>
-		<name>Feature: I’ll Patch It!</name>
+		<name>Feature: I'll Patch It!</name>
 		<text>Provided you have carpenter's tools and wood. you can perform repairs on a water vehicle. When you use this ability, you restore a number of hit points co the hull of a water vehicle equal to 5 x your proficiency modifier. A vehicle cannot be patched by you in this way again until after it has been pulled ashore and fully repaired.</text>
 	</trait>
 	<trait>
@@ -7899,7 +7899,7 @@
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 60ft.</senses>
 		<passive>9</passive>
-		<languages>understands the languages it knew in life but can’t speak</languages>
+		<languages>understands the languages it knew in life but can't speak</languages>
 		<cr>3</cr>
 		<trait>
 			<name>Source</name>
@@ -7924,9 +7924,9 @@
 		<action>
 			<name>Unarmed Strike</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 12 Constitution saving throw or contract bluerot</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 				<attack>Unarmed Strike|5|1d8+3</attack>
 		</action>
 		<reaction>
@@ -7955,7 +7955,7 @@
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 60ft.</senses>
 		<passive>9</passive>
-		<languages>understands the languages it knew in life but can’t speak</languages>
+		<languages>understands the languages it knew in life but can't speak</languages>
 		<cr>4</cr>
 		<trait>
 			<name>Source</name>
@@ -7980,22 +7980,22 @@
 		<action>
 			<name>Hand Crossbow</name>
 			<text>Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 3 (1d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or contract bluerot.</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 				<attack>Hand Crossbow|5|1d8+3</attack>
 		</action>
 		<action>
 			<name>Dagger</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 9 (2d8) poison damage, and the target must succeed on a DC 12 Constitution saving throw or contract bluerot.</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 				<attack>Dagger|5|1d4+3</attack>
 		</action>
 		<action>
 			<name>Reveal (1/Day)</name>
-			<text>The drowned assassin removes its mask, revealing its rotting face. Each creature of the assassin’s choice within 30 feet of it that can see the assassin must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn.</text>
+			<text>The drowned assassin removes its mask, revealing its rotting face. Each creature of the assassin's choice within 30 feet of it that can see the assassin must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn.</text>
 		</action>
 		<reaction>
 			<name>Dexterous Target</name>
@@ -8023,7 +8023,7 @@
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 60ft.</senses>
 		<passive>9</passive>
-		<languages>understands the languages it knew in life but can’t speak</languages>
+		<languages>understands the languages it knew in life but can't speak</languages>
 		<cr>2</cr>
 		<trait>
 			<name>Source</name>
@@ -8048,9 +8048,9 @@
 		<action>
 			<name>Rusted Longsword</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing and the target must succeed on a DC 12 Constitution saving throw or contract bluerot.</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 				<attack>Rusted Longsword|7|1d8+3</attack>
 		</action>
 		<spells></spells>
@@ -8075,7 +8075,7 @@
 		<conditionImmune>poisoned</conditionImmune>
 		<senses>darkvision 60ft.</senses>
 		<passive>20</passive>
-		<languages>understands the languages it knew in life but can’t speak</languages>
+		<languages>understands the languages it knew in life but can't speak</languages>
 		<cr>9</cr>
 		<trait>
 			<name>Source</name>
@@ -8087,7 +8087,7 @@
 		</trait>
         <trait>
 			<name>Cold Aura</name>
-			<text>At the start of each of the drowned master’s turns, each creature within 5 feet of it takes 5 (1d10) cold damage.  A creature that touches the drowned master or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage</text>
+			<text>At the start of each of the drowned master's turns, each creature within 5 feet of it takes 5 (1d10) cold damage.  A creature that touches the drowned master or hits it with a melee attack while within 5 feet of it takes 5 (1d10) cold damage</text>
 		</trait>
         <trait>
 			<name>Undead Fortitude</name>
@@ -8100,24 +8100,24 @@
 		<action>
 			<name>Greatsword</name>
 			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing plus 14 (4d6) cold damage, and the target must succeed on a DC 12 Constitution saving throw or contract bluerot.</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 				<attack>Greatsword|7|1d8+3+4d6</attack>
 		</action>
 		<action>
 			<name>Life-Draining Tentacle</name>
 			<text>Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit 10 (2d6 + 3) necrotic damage.  The target must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken.  The target dies if this effect reduces its hit point maximum to a 0.  This reduction lasts until the target finishes a long rest.  On a failed saved, the target also contracts bluerot.</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 		</action>
 		<action>
 			<name>Necrotic Ink (Recharge 5-6)</name>
 			<text>The drowned master discharges foul ink in front of itself in a 3O-foot cone. Each creature caught in the ink must make a DC 15 Constitution saving throw, taking 27 (6d8) necrotic damage on a failed save or half as much damage on a successful one. A creature that fails this saving throw is blinded until the end of its next turn and contracts bluerot (see the "Bluerot" sidebar).</text>
-			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut’s Fate), and victims most often acquire it through wounds caused by infected creatures.
-		The disease’s boils manifests in 1d4 hours, causing the victim’s Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
-		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim’s ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
+			<text>Bluerot: This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back.  The disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures.
+		The disease's boils manifests in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities.  An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+		At the end of each long rest, an infected creature makes a DC12 Constitution saving throw.  On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease.  If the infected creature regains all the points lost to the disease, it is cured.  Other effects that raise the victim's ability scores do not cure the disease.  On a failed saving throw the victim takes 18 (4d8) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.</text>
 		</action>
 		<environment>underwater, swamp</environment>
 		<source>Adventures</source>
@@ -10007,7 +10007,7 @@
 		</trait>
 		<trait>
 			<name>Luring Maestro</name>
-			<text>While within 60 feet of matriach, creatures have disadvantage on saving throws against the matriach’s Luring Song</text>
+			<text>While within 60 feet of matriach, creatures have disadvantage on saving throws against the matriach's Luring Song</text>
 		</trait>
 		<trait>
 			<name>Magic Resistance</name>
@@ -10039,7 +10039,7 @@
 		</action>
 		<action>
 			<name>Visage of Desire (1/Day)</name>
-			<text>The matriarch projects a vision into the minds of creatures within 30 ft. of it that aren’t constructs or undead, showing each creature achieving whatever it most desires.  An affected creature must succeed on a DC 14 Wisdom saving throw or drop whatever it is holding and become paralyzed until the end of its next turn.</text>
+			<text>The matriarch projects a vision into the minds of creatures within 30 ft. of it that aren't constructs or undead, showing each creature achieving whatever it most desires.  An affected creature must succeed on a DC 14 Wisdom saving throw or drop whatever it is holding and become paralyzed until the end of its next turn.</text>
 		</action>	
 		<spells></spells>
 		<slots></slots>
@@ -11043,7 +11043,7 @@
 		<conditionImmune>frightened, paralyzed</conditionImmune>
 		<senses>truesight 120ft.</senses>
 		<passive>12</passive>
-		<languages>understands Abyssal, Celestial, Infernal and Primordial but can’t speak; telepathy 60ft.</languages>
+		<languages>understands Abyssal, Celestial, Infernal and Primordial but can't speak; telepathy 60ft.</languages>
 		<cr>14</cr>
 		<trait>
 			<name>Source</name>
@@ -11055,7 +11055,7 @@
 		</trait>
 		<trait>
 			<name>Freedom of Movement</name>
-			<text>The kraken ignores difficult terrain, and magical effects can’t reduce its speed or cause it to be restrained.  It can sped 5ft. of movement to escape from nonmagical restraints of being grappled.</text>
+			<text>The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained.  It can sped 5ft. of movement to escape from nonmagical restraints of being grappled.</text>
 		</trait>
 		<action>
 			<name>Multiattack</name>
@@ -11063,7 +11063,7 @@
 		</action>
 		<action>
 			<name>Bite</name>
-			<text>Melee Weapon Attack: +12 to hit, reach 5ft., one target.  Hit 20 (3d8+7) piercing damage.  If the target is a Medium of smaller creature grappled by the kraken, that creature is swallowed and the grapple ends.  While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken’s turns.  One Medium or two smaller creatures can be swallowed at the same time.</text>
+			<text>Melee Weapon Attack: +12 to hit, reach 5ft., one target.  Hit 20 (3d8+7) piercing damage.  If the target is a Medium of smaller creature grappled by the kraken, that creature is swallowed and the grapple ends.  While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 21 (6d6) acid damage at the start of each of the kraken's turns.  One Medium or two smaller creatures can be swallowed at the same time.</text>
 			<text>	If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 23 Constitution saving throw at the end of the turn or regurgitate all swallowed creatures, which fall prone in spaces within 10ft. of the kraken.  If the kraken dies, a swallowed creature is no longer restrained by it and can escape the corpse using 10ft. of movement, exiting prine.</text>
 			<attack>Bite|12|3d8+7</attack>
 		</action>
@@ -11082,7 +11082,7 @@
 		</action>
 		<legendary>
 			<name>Legendary Actions (3/Turn)</name>
-			<text>The kraken can take 3 legendary actions, choosing from the operations below.  Only one legendary action option can be used at a time and only a the end of another creature’s turn.  The kraken regains spent legendary actions at the start of its turn.</text>
+			<text>The kraken can take 3 legendary actions, choosing from the operations below.  Only one legendary action option can be used at a time and only a the end of another creature's turn.  The kraken regains spent legendary actions at the start of its turn.</text>
 		</legendary>
 		<legendary>
 			<name>Tentacle Attacks (Costs 2 Actions)</name>
@@ -11094,7 +11094,7 @@
 		</legendary>
 		<legendary>
 			<name>Ink Cloud (Costs 3 Actions</name>
-			<text>While underwater, the karekn expels an ink cloud in a 40-foot radius.  The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken.  Each creature other than the kraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 11 (2d10) poison damage on a failed save of half as much damage on a successful one.  A strong current disperses the cloud, which otherwise disappears at the end of the kraken’s next turn.</text>
+			<text>While underwater, the karekn expels an ink cloud in a 40-foot radius.  The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken.  Each creature other than the kraken that ends its turn there must succeed on a DC 18 Constitution saving throw, taking 11 (2d10) poison damage on a failed save of half as much damage on a successful one.  A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.</text>
 		</legendary>
 		<spells></spells>
 		<slots></slots>
@@ -11395,7 +11395,7 @@
 		</trait>
 		<trait>
 			<name>Martial Advantage</name>
-			<text>Once per turn, the koalinth can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5ft. of an ally of the koalinth that isn’t incapacitated.</text>
+			<text>Once per turn, the koalinth can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5ft. of an ally of the koalinth that isn't incapacitated.</text>
 		</trait>
 		<action>
 			<name>Trident</name>
@@ -11437,7 +11437,7 @@
 		</trait>
 		<trait>
 			<name>Martial Advantage</name>
-			<text>Once per turn, the sergeant can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5ft. of an ally of the sergeant that isn’t incapacitated.</text>
+			<text>Once per turn, the sergeant can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5ft. of an ally of the sergeant that isn't incapacitated.</text>
 		</trait>
 		<action>
 			<name>Multiattack</name>
@@ -11495,7 +11495,7 @@
 		</trait>
 		<trait>
 			<name>Innate Spellcasting</name>
-			<text>Kysh’s spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks).  He can cast the following spell, requiring only verbal components:
+			<text>Kysh's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks).  He can cast the following spell, requiring only verbal components:
 			1/Day: Fog Cloud</text>
 		</trait>
 		<action>
@@ -11789,7 +11789,7 @@
 		<conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>10</passive>
-		<languages>understands the languages of its creator but can’t speak</languages>
+		<languages>understands the languages of its creator but can't speak</languages>
 		<cr>5</cr>
 		<trait>
 			<name>Source</name>
@@ -11919,7 +11919,7 @@
 		</trait>	
 		<trait>
 			<name>Blood Frenzy</name>
-			<text>The render has advantage on melee attack rolls against any creatire that doesn’t have all its hit points.</text>
+			<text>The render has advantage on melee attack rolls against any creatire that doesn't have all its hit points.</text>
 		</trait>
 		<trait>
 			<name>Hold Breath</name>
@@ -12593,7 +12593,7 @@
 		</action>
 		<legendary>
 			<name>Legendary Actions</name>
-			<text>The maw of Sekolah can take 3. legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The maw regains spent legendary actions at the start of its turn.</text>
+			<text>The maw of Sekolah can take 3. legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The maw regains spent legendary actions at the start of its turn.</text>
 		</legendary>
 		<legendary>
 			<name>Detect</name>
@@ -12674,7 +12674,7 @@
 		<conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>10</passive>
-		<languages>understands the languages of its creator but can’t speak</languages>
+		<languages>understands the languages of its creator but can't speak</languages>
 		<cr>6</cr>
 		<trait>
 			<name>Source</name>
@@ -12906,7 +12906,7 @@
 		<conditionImmune></conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>16</passive>
-		<languages>understands Common and Elvish but can’t speak</languages>
+		<languages>understands Common and Elvish but can't speak</languages>
 		<cr>11</cr>
 		<trait>
 			<name>Source</name>
@@ -12914,7 +12914,7 @@
 		</trait>
 		<trait>
 			<name>Flyby</name>
-			<text>The peryton doesn’t provoke opportunity attacks when it flies out of an enemy’s reach</text>
+			<text>The peryton doesn't provoke opportunity attacks when it flies out of an enemy's reach</text>
 		</trait>
 		<trait>
 			<name>Keen Sight and Smell</name>
@@ -12944,7 +12944,7 @@
 		</action>
 		<legendary>
 			<name>Legendary Actions</name>
-			<text>The peryton can take 3 legendary actions, choose from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The peryton regains spent legendary actions at the start of its turn.</text>
+			<text>The peryton can take 3 legendary actions, choose from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The peryton regains spent legendary actions at the start of its turn.</text>
 		</legendary>
 		<legendary>	
 			<name>Detect</name>
@@ -13548,7 +13548,7 @@
 		<conditionImmune>exhaustion, frightened, petrified, poisoned</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>12</passive>
-		<languages>understands one language known by its creator but can’t speak</languages>
+		<languages>understands one language known by its creator but can't speak</languages>
 		<cr>4</cr>
 		<trait>
 			<name>Source</name>
@@ -13560,7 +13560,7 @@
 		</trait>
 		<trait>
 			<name>Magic Weapons</name>
-			<text>The nimblewright’s weapon attacks are magical.</text>
+			<text>The nimblewright's weapon attacks are magical.</text>
 		</trait>
 		<trait>
 			<name>Repairable</name>
@@ -14514,14 +14514,14 @@
 			<text>The deck wizard is a 4th-level spellcaster, its spellcasting ability is Intelligence (spell save DC 11, +5 to hit with spell attacks). It has the following wizard spells prepared:
 		Cantrips (at will): friends, mage hand, prestidigitation, ray of frost.
 		1st level (4 slots): disguise self, fog cloud, mage armor, witch bolt.
-		2nd level (3 slots): gust of wind, Melf’s acid arrow, misty step.</text>
+		2nd level (3 slots): gust of wind, Melf's acid arrow, misty step.</text>
 		</trait>	
 		<action>
 			<name>Quarterstaff</name>
 			<text>Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 3 (1d6) bludgeoning damage.</text>
 			<attack>Quarterstaff|2|1d6</attack>
 		</action>				
-		<spells>friends, mage hand, prestidigitation, ray of frost, disguise self, fog cloud, mage armor, witch bolt, gust of wind, Melf’s acid arrow, misty step</spells>
+		<spells>friends, mage hand, prestidigitation, ray of frost, disguise self, fog cloud, mage armor, witch bolt, gust of wind, Melf's acid arrow, misty step</spells>
 		<slots>4,3</slots>
 		<source>Adventures</source>
 	</monster>
@@ -15118,6 +15118,7 @@
 		<alignment>neutral evil</alignment>
 		<ac>13 (chain shirt)</ac>
 		<hp>52 (8d8+16)</hp>
+		<speed>30 ft.</speed>
 		<str>15</str><dex>11</dex><con>14</con><int>10</int><wis>11</wis><cha>16</cha>
 		<save></save>
 		<skill>Deception +5, Religion +2, Stealth +2</skill>
@@ -15485,7 +15486,7 @@
 		</trait>	
 		<trait>
 			<name>Swarm</name>
-			<text>The swarm can occupy another creatures space and vice versa, and it can move through any opening large enough for a Tiny creature. The swarm can’t regain hit points or gain temporary hit points.</text>
+			<text>The swarm can occupy another creatures space and vice versa, and it can move through any opening large enough for a Tiny creature. The swarm can't regain hit points or gain temporary hit points.</text>
 		</trait>
 		<trait>
 			<name>Water Breathing</name>
@@ -15493,7 +15494,7 @@
 		</trait>
 		<action>
 			<name>Bites</name>
-			<text>Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm’s space. Hit 14 (4d6) piercing or 7 (2d6) piercing if the swarm has half of its hit points or fewer.</text>
+			<text>Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit 14 (4d6) piercing or 7 (2d6) piercing if the swarm has half of its hit points or fewer.</text>
 			<attack>Bites|6|4d6</attack>
 			<attack>Bites|6|2d6</attack>
 		</action>
@@ -15612,7 +15613,7 @@
 		</trait>
 		<trait>
 			<name>Innate Spellcasting</name>
-			<text>The wave shaper’s spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It can cast the following spells, requiring only verbal components: </text>
+			<text>The wave shaper's spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It can cast the following spells, requiring only verbal components: </text>
 			<text>	</text>
 			<text>At will: message</text>
 			<text>	</text>
@@ -16124,7 +16125,7 @@
 		</trait>
         <trait>
 			<name>Blood Frenzy</name>
-			<text>The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.</text>
+			<text>The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.</text>
 		</trait>
         <trait>
 			<name>Magic Resistance</name>
@@ -16578,15 +16579,15 @@
 		</trait>
 		<trait>
 			<name>Defeaning Clatter</name>
-			<text>Creatures are defeaned while in the swarm’s space.</text>
+			<text>Creatures are defeaned while in the swarm's space.</text>
 		</trait>
 		<trait>
 			<name>Swarms</name>
-			<text>The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Small humanoid. The swarm can’t regain hit points or gain temporary hit points.</text>
+			<text>The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small humanoid. The swarm can't regain hit points or gain temporary hit points.</text>
 		</trait>	
 		<action>
 			<name>Slash</name>
-			<text>Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm’s space. Hit: 11 (2d8+2) slashing damage, or 6 (1d8+2) slashing damage if the swarm has half of its hit points or fewer.</text>
+			<text>Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's space. Hit: 11 (2d8+2) slashing damage, or 6 (1d8+2) slashing damage if the swarm has half of its hit points or fewer.</text>
 			<attack>Slash|4|2d8+2</attack>
 		</action>
 		<spells></spells>
@@ -16644,7 +16645,7 @@
 		</action>
 		<action>
 			<name>Mind-Breaking Touch</name>
-			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 18 (4d8) psychic damage and the target has disadvantage on Wisdom saving throws until the end of the skum’s next turn.</text>
+			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 18 (4d8) psychic damage and the target has disadvantage on Wisdom saving throws until the end of the skum's next turn.</text>
 			<attack>Mind-Breaking Touch|7|4d8</attack>
 		</action>			
 		<spells></spells>
@@ -18420,7 +18421,7 @@
 		<conditionImmune>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>10</passive>
-		<languages>understands the language of its creator but can’t speak</languages>
+		<languages>understands the language of its creator but can't speak</languages>
 		<cr>8</cr>
 		<trait>
 			<name>Source</name>
@@ -18449,7 +18450,7 @@
 		<attack>Claws|6|2d6+3</attack>
 		</action>
 		<legendary>
-			<text>The statue can take 3 legendary actions, choosing from the options nelpw. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The statue regains spent legendary actions at the start of its turn.</text>
+			<text>The statue can take 3 legendary actions, choosing from the options nelpw. Only one legendary action option can be used at a time and only at the end of another creature's turn. The statue regains spent legendary actions at the start of its turn.</text>
 		</legendary>
 		<legendary>
 			<name>Bite</name>
@@ -18657,7 +18658,7 @@
 		</trait>
 		<trait>
 			<name>Echolocation (Bat or Hybrid Form Only)</name>
-			<text>The werebat has blindsight out to a range of 60 feet as long as it’s not deafened.</text>
+			<text>The werebat has blindsight out to a range of 60 feet as long as it's not deafened.</text>
 		</trait>
         <trait>
 			<name>Keen Hearing</name>
