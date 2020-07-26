@@ -427,7 +427,7 @@
 		<action>
 			<name>Quarterstaff</name>
 			<text>Melee Weapon Attack: +3 to hit (+5 with shillelagh), reach 5 ft., one creature.Hit: 4 (1d6 + 1) bludgeoning damage or 5 (1d8 + 1) bludgeoning damage if used in two hands, or 7 (1d8 + 3) bludgeoning damage with shillelagh.</text>
-			<attack>Quarterstaff|3|+5 with shillelagh</attack>
+			<attack>Quarterstaff|3|1d6+1</attack>
 		</action>
 		<action>
 			<name>Shortbow</name>
@@ -1121,7 +1121,7 @@
 		<action>
 			<name>Lance</name>
 			<text>Melee Weapon Attack: +10 to hit, reach 10 ft. (disadvantage within 5 ft.), one target. Hit: 12 (1d12 + 6) piercing damage.</text>
-			<attack>Lance|10|disadvantage within 5 ft.</attack>
+			<attack>Lance|10|1d12+6</attack>
 		</action>
 		<action>
 			<name>Longsword</name>
@@ -1183,7 +1183,7 @@
 		<action>
 			<name>Lance</name>
 			<text>Melee Weapon Attack: +10 to hit, reach 10 ft. (disadvantage within 5 ft.), one target. Hit: 12 (1d12 + 6) piercing damage.</text>
-			<attack>Lance|10|disadvantage within 5 ft.</attack>
+			<attack>Lance|10|1d12+6</attack>
 		</action>
 		<action>
 			<name>Longsword</name>
@@ -1244,7 +1244,7 @@
 		<action>
 			<name>Lance</name>
 			<text>Melee Weapon Attack: +10 to hit, reach 10 ft. (disadvantage within 5 ft.), one target. Hit: 12 (1d12 + 6) piercing damage.</text>
-			<attack>Lance|10|disadvantage within 5 ft.</attack>
+			<attack>Lance|10|1d12+6</attack>
 		</action>
 		<action>
 			<name>Longsword</name>
@@ -2750,7 +2750,7 @@
 		<action>
 			<name>Net Cannon</name>
 			<text>Ranged Weapon Attack: +4 to hit, range 5/15 ft., one target, size Large or smaller. Hit: the target is restrained. A mechanism within the clockwork huntsman's chest can fire a net with a 20-foot trailing cable anchored within the huntsman's chest. A creature can free itself (or another creature) from the net by using its action to make a successful DC 10 Strength check or by dealing 5 slashing damage to the net. The huntsman can fire up to four nets before it must be reloaded.</text>
-			<attack>Net Cannon|4|or another creature</attack>
+			<attack>Net Cannon|4|</attack>
 		</action>
 		<action>
 			<name>Explosive Core</name>
@@ -2857,7 +2857,7 @@
 		<action>
 			<name>Net Cannon</name>
 			<text>Ranged Weapon Attack: +3 to hit, range 5/15 ft., one target, size Large or smaller. Hit: the target is restrained. A mechanism within the clockwork huntsman's chest can fire a net with a 20-foot trailing cable anchored within the watchman's chest. A creature can free itself (or another creature) from the net by using its action to make a successful DC 10 Strength check or by dealing 5 slashing damage to the net at AC 10. The watchman can fire up to four nets before it must be reloaded.</text>
-			<attack>Net Cannon|3|or another creature</attack>
+			<attack>Net Cannon|3|</attack>
 		</action>
 	</monster>
 	<monster>
@@ -8519,7 +8519,7 @@
 		<action>
 			<name>Reed Flower Net</name>
 			<text>Ranged Weapon Attack: +7 to hit, range 5/15 ft., one Large or smaller creature. Hit: The target has disadvantage on Wisdom saving throws for 1 minute, and is restrained. A creature can free itself or another creature within reach from restraint by using an action to make a successful DC 15 Strength check or by doing 5 slashing damage to the net (AC 10).</text>
-			<attack>Reed Flower Net|7|AC 10</attack>
+			<attack>Reed Flower Net|7|</attack>
 		</action>
 	</monster>
 	<monster>
@@ -12011,7 +12011,7 @@
 		<legendary>
 			<name>Grab</name>
 			<text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: the target is grappled (escape DC 17).</text>
-			<attack>Grab|11|escape DC 17</attack>
+			<attack>Grab|11|</attack>
 		</legendary>
 		<legendary>
 			<name>Swallow</name>
@@ -14943,7 +14943,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Dropped Boulder</name>
 			<text>Ranged Weapon Attack: +4 to hit, range 100 ft. (vertically), one target. Hit: 10 (3d6) bludgeoning damage.</text>
-			<attack>Dropped Boulder|4|vertically</attack>
+			<attack>Dropped Boulder|4|3d6</attack>
 		</action>
 	</monster>
 	<monster>
@@ -15115,12 +15115,12 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Bite (drake form only)</name>
 			<text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (3d12 + 5) piercing damage.</text>
-			<attack>Bite (drake form only)|9|drake form only</attack>
+			<attack>Bite (drake form only)|9|3d12+5</attack>
 		</action>
 		<action>
 			<name>Claw (drake form only)</name>
 			<text>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (3d12 + 5) slashing damage.</text>
-			<attack>Claw (drake form only)|9|drake form only</attack>
+			<attack>Claw (drake form only)|9|3d12+5</attack>
 		</action>
 		<action>
 			<name>Poison Breath (Recharge 5-6)</name>
@@ -15278,12 +15278,12 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Scimitar (Nkosi Form Only)</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.</text>
-			<attack>Scimitar (Nkosi Form Only)|5|Nkosi Form Only</attack>
+			<attack>Scimitar (Nkosi Form Only)|5|1d6+3</attack>
 		</action>
 		<action>
 			<name>Mambele Throwing Knife (Nkosi Form Only)</name>
 			<text>Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
-			<attack>Mambele Throwing Knife (Nkosi Form Only)|5|Nkosi Form Only</attack>
+			<attack>Mambele Throwing Knife (Nkosi Form Only)|5|1d6+3</attack>
 		</action>
 		<action>
 			<name>Bite</name>
@@ -15333,12 +15333,12 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Scimitar (Nkosi Form Only)</name>
 			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.</text>
-			<attack>Scimitar (Nkosi Form Only)|6|Nkosi Form Only</attack>
+			<attack>Scimitar (Nkosi Form Only)|6|2d6+4</attack>
 		</action>
 		<action>
 			<name>Mambele Throwing Knife (Nkosi Form Only)</name>
 			<text>Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage.</text>
-			<attack>Mambele Throwing Knife (Nkosi Form Only)|6|Nkosi Form Only</attack>
+			<attack>Mambele Throwing Knife (Nkosi Form Only)|6|1d6+4</attack>
 		</action>
 		<action>
 			<name>Bite</name>
@@ -16614,7 +16614,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Breathless Kiss</name>
 			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: the target is grappled (escape DC 13) and the rusalka draws all the air from the target's lungs with a kiss. If the rusalka has movement remaining, she drags the grappled creature into deep water, where it begins suffocating.</text>
-			<attack>Breathless Kiss|6|escape DC 13</attack>
+			<attack>Breathless Kiss|6|</attack>
 		</action>
 		<action>
 			<name>Drowning Hair (1/Day)</name>
@@ -18169,7 +18169,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Swingline</name>
 			<text>Ranged Weapon Attack: +5 to hit, range 60 ft., one target. Hit: the spider immediately moves the full length of the webbing (up to 60 feet) to the target and delivers a bite with advantage. This attack can be used only if the spider is higher than its target and at least 10 feet away.</text>
-			<attack>Swingline|5|up to 60 feet</attack>
+			<attack>Swingline|5|</attack>
 		</action>
 	</monster>
 	<monster>
@@ -18333,7 +18333,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Razor Line (Recharge 5-6)</name>
 			<text>Melee Weapon Attack: +3 to hit, reach 15 ft., one target. Hit: 3 (1d4 + 1) slashing damage, and the target is grappled (escape DC 10). Instead of moving, the spider thief can retract the razor line and pull itself onto the grappled creature (the spider thief enters and remains in the target's space). The spider thief's sickle claw attacks have advantage against a grappled creature in the same space. If the grappled creature escapes, the spider thief immediately displaces into an unoccupied space within 5 feet.</text>
-			<attack>Razor Line (Recharge 5-6)|3|Recharge 5-6</attack>
+			<attack>Razor Line (Recharge 5-6)|3|1d4+1</attack>
 		</action>
 	</monster>
 	<monster>
@@ -18424,7 +18424,7 @@ whirlwind by using its action to repeat the saving throw; on a success, it moves
 		<action>
 			<name>Disintegrating Gaze (Recharge 5-6)</name>
 			<text>Ranged Spell Attack: +15 to hit, range 60 ft., one target in line of sight. Hit: 32 (5d12) necrotic damage, and the target must make a successful DC 20 Constitution saving throw or dissipate into vapor as if affected by a gaseous form spell. An affected creature repeats the saving throw at the end of each of its turns; on a success, the effect ends on that creature, but on a failure, the creature takes another 32 (5d12) necrotic damage and remains gaseous. A creature reduced to 0 hit points by this necrotic damage is permanently disintegrated and can be restored only by a wish or comparable magic that doesn't require some portion of a corpse to work.</text>
-			<attack>Disintegrating Gaze (Recharge 5-6)|15|Recharge 5-6</attack>
+			<attack>Disintegrating Gaze (Recharge 5-6)|15|5d12</attack>
 		</action>
 		<action>
 			<name>Dimensional Stomp</name>

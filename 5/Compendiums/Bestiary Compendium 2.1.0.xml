@@ -21466,7 +21466,7 @@
 		<action>
 			<name>Bite</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 it, one target. Hit: 6 (1d6+3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-			<attack>Bite|5|1d6+3+$d6</attack>
+			<attack>Bite|5|1d6+3+4d6</attack>
 		</action>
 		<action>
 			<name>Claws</name>
@@ -21555,7 +21555,7 @@
 		<action>
 			<name>Bite</name>
 			<text>Melee Weapon Attack: +5 to hit, reach 5 it, one target. Hit: 6 (1d6+3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
-			<attack>Bite|5|1d6+3+$d6</attack>
+			<attack>Bite|5|1d6+3+4d6</attack>
 		</action>
 		<action>
 			<name>Claws</name>

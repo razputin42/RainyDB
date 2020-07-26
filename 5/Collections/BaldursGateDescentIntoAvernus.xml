@@ -2575,7 +2575,7 @@
         <action>
             <name>Crushing Wheels</name>
             <text>The Tormentor can move through the space of any Medium or smaller creature. When it does, the creature must succeed on a DC 13 Dexterity saving throw or take 11 (2d10) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 11 (2d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.</text>
-            <attack>2d10</attack>
+            <attack>Crushing Wheels||2d10</attack>
         </action>
         <action>
             <name>Raking Scythes</name>
