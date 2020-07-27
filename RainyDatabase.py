@@ -39,13 +39,13 @@ class RainyDatabase:
         # self.spell_table_widget.define_filters(self.version)
 
     def load_items(self, path):
-        self.load_all("./item", "{}/5/Items/".format(path), Item)
+        self.load_all("./item", os.path.join(path, "5", "Items", ""), Item)
 
     def load_monsters(self, path):
-        self.load_all("./monster", "{}/5/Bestiary/".format(path), Monster)
+        self.load_all("./monster", os.path.join(path, "5", "Bestiary", ""), Monster)
 
     def load_spells(self, path):
-        self.load_all("./spell", "{}/5/Spells/".format(path), Spell)
+        self.load_all("./spell", os.path.join(path, "5", "Spells", ""), Spell)
 
     def load_collections(self, path):
         path = os.path.join(path, "5", "Collections")
