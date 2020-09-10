@@ -3,9 +3,14 @@ from RainyCore.monster import Monster
 from RainyCore.spell import Spell
 import os
 import xml.etree.ElementTree as ElementTree
+import json
 
 
 class RainyDatabase:
+    valid_spells = None
+    valid_items = None
+    valid_monsters = None
+
     def __init__(self, path, include_spells=True, include_items=True, include_monsters=True):
         self.entries = dict({
             str(Item):      dict(),
@@ -16,8 +21,23 @@ class RainyDatabase:
         self.include_spells = include_spells
         self.include_items = include_items
         self.include_monsters = include_monsters
-
+        self.create_srd_list(path)
         self.load_resources(path)
+
+    def create_srd_list(self, path):
+        path = os.path.join(path, "5", "srd_valid_DO_NOT_DELETE.json")
+        if not os.path.exists(path):
+            return None
+        with open(path, "r") as f:
+            srd_valid = json.loads(f.read())
+        valid_spells = [i["name"] for i in srd_valid["spells"]["results"]]
+        valid_monsters = [i["name"] for i in srd_valid["monsters"]["results"]]
+        valid_items = [i["name"] for i in srd_valid["items"]["results"]]
+        self.srd_dict = dict({
+            str(Spell): valid_spells,
+            str(Monster): valid_monsters,
+            str(Item): valid_items
+        })
 
     def load_resources(self, path):
         if self.include_items:
@@ -58,15 +78,15 @@ class RainyDatabase:
         # entry_dict = self.entries[str(Class)]
         if self.include_spells:
             for itt, entry in enumerate(root.findall("./spell")):
-                self.insert_individual(Spell(entry, itt), self.entries[str(Spell)], resource)
+                self.insert_individual(Spell(entry, itt, self.srd_dict[str(Spell)]), self.entries[str(Spell)], resource)
 
         if self.include_monsters:
             for itt, entry in enumerate(root.findall("./monster")):
-                self.insert_individual(Monster(entry, itt), self.entries[str(Monster)], resource)
+                self.insert_individual(Monster(entry, itt, self.srd_dict[str(Monster)]), self.entries[str(Monster)], resource)
 
         if self.include_items:
             for itt, entry in enumerate(root.findall("./item")):
-                self.insert_individual(Item(entry, itt), self.entries[str(Item)], resource)
+                self.insert_individual(Item(entry, itt, self.srd_dict[str(Item)]), self.entries[str(Item)], resource)
 
     def load_all(self, s, dir, Class):
         for resource in os.listdir(dir):
@@ -77,7 +97,7 @@ class RainyDatabase:
         root = xml.getroot()
         entry_dict = self.entries[str(Class)]
         for itt, entry in enumerate(root.findall(s)):
-            entry_class = Class(entry, itt)
+            entry_class = Class(entry, itt, self.srd_dict[str(Class)])
             self.insert_individual(entry_class, entry_dict, resource)
 
     def insert_individual(self, entry, dictionary, resource):
@@ -117,7 +137,6 @@ class RainyDatabase:
             self.validate_item()
 
     def validate_monsters(self):
-
         print("Validating Monsters")
         self.validate_individual(Monster)  # validate database fields
         monsters = self.entries[str(Monster)]
