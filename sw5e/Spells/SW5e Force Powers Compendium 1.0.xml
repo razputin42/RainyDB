@@ -1,0 +1,3228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+    <spell>
+        <name>Mass Coerce Mind (Universal Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>24 hours</duration>
+        <text>Prerequisite: Coerce Mind
+
+            You suggest a course of activity (limited to a sentence or two) and influence with the Force up to twelve
+            creatures of your choice that you can see within range and that can hear and understand you. Creatures that
+            can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the
+            course of action sound reasonable. Asking the creature to harm itself automatically negates the effect of
+            the power.
+
+            Each target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described
+            to the best of its ability. The suggested course of action can continue for the entire duration. If the
+            suggested activity can be completed in a shorter time, the power ends when the subject finishes what it was
+            asked to do.
+
+            You can also specify conditions that will trigger a special activity during the duration. For example, you
+            might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition
+            isn’t met before the power ends, the activity isn’t performed. If you or any of your companions damage a
+            creature affected by this power, the power ends for that creature. This power has no effect on droids or
+            constructs.
+
+            Force Potency: When you cast this power using a 7th-level force slot, the duration is 10 days. When you use
+            an 8th-level force slot, the duration is 30 days. When you use a 9th-level force slot, the duration is a
+            year and a day.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Necrotic Charge (Dark Force)</name>
+        <time>1 action</time>
+        <range>Varies</range>
+        <duration>1 round</duration>
+        <text>As part of the action used to cast this power, you must make a melee attack with a weapon against one
+            creature within your weapon’s reach, otherwise the power fails. On a hit, the target suffers the attack’s
+            normal effects, and you can choose to deal up to 1d8 of necrotic damage, which you suffer as well. This
+            damage can’t be reduced or negated in any way.
+
+            This power’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra
+            1d8 necrotic damage to the target, and you can increase the secondary damage to 2d8. Both damage rolls
+            increase by 1d8 at 11th level and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Drain Vitality (Dark Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Sap Vitality
+
+            You draw the willpower from a creature you can see within range. Make a ranged force attack against the
+            target. On a hit, the target takes 2d6 necrotic damage and it deals only half damage with weapon attacks
+            that use Strength until the power ends.
+
+            At the end of each of the target’s turns, it can make a Constitution saving throw against the power. On a
+            success, the power ends.
+
+            Force Potency: When you cast this power using a force slot of 3rd level or higher, the damage increases by
+            1d6 for each slot level above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <roll>5d6</roll>
+        <roll>6d6</roll>
+        <roll>7d6</roll>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Greater Heal (Light Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Improved Heal
+
+            Choose a creature that you can see within range. A surge of positive energy washes through the creature,
+            causing it to regain 70 hit points. This power also ends blindness, deafness, and any diseases affecting the
+            target. This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, the healing increases by
+            10 for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Camouflage (Universal Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You become invisible until the power ends. Anything you are wearing or carrying is invisible as long as it
+            is on your person. The power ends if you attack or cast a power.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Project (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You lift three piles of debris or small objects from the ground and hurl them. Each pile hits a creature
+            of your choice that you can see within range. The pile deals 1d4+1 force damage to its target. The piles all
+            strike simultaneously and you can direct them to hit one creature or several.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you lift and throw an
+            additional pile of debris for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d4+1</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Slow Descent (Universal Force)</name>
+        <level>1</level>
+        <time>1 reaction*</time>
+        <range>60 feet</range>
+        <duration>1 minute</duration>
+        <text>* which you take when you or a creature within 60 feet of you falls.
+
+            Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per
+            round until the power ends. If the creature lands before the power ends, it takes no falling damage and can
+            land on its feet, and the power ends for that creature.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Stun Droid (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Choose a droid that you can see within range. The target must succeed on a Constitution saving throw or be
+            paralyzed for the duration. At the beginning of each of its turns, the droid takes energy damage equal to
+            your forcecasting ability modifier. At the end of each of its turns, the target can make another Wisdom
+            saving throw. On a success, the power ends on the target.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Cloud Mind (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <duration>1 minute</duration>
+        <text>Roll 5d8; the total is how many hit points of creatures this power can affect. Creatures within 20 feet of
+            a point you choose are affected in order of their current hit points.
+
+            Starting with the creature that has the lowest current hit points, each creature affected by this power
+            falls unconscious. If the power ends, the sleeper takes damage, or someone uses an action wake the sleeper,
+            they will be awoken.
+
+            Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit
+            points. A creature’s hit points must be equal to or less than the remaining total for that creature to be
+            affected.
+
+            This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you can roll an
+            additional 2d8 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>5d8</roll>
+        <roll>7d8</roll>
+        <roll>9d8</roll>
+        <roll>11d8</roll>
+        <roll>13d8</roll>
+        <roll>15d8</roll>
+        <roll>17d8</roll>
+        <roll>19d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>True Sight (Universal Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 hour</duration>
+        <text>Prerequisite: Force Sight
+
+            You shift your vision to see through use of the Force, giving you the ability to see things as they actually
+            are. For the duration, you have truesight and notice secret doors hidden by powers, all out to a range of
+            120 feet.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Valor (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Guidance
+
+            You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a
+            saving throw before the power ends, the target can roll a d4 and add the number rolled to the attack roll or
+            saving throw.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you can target one
+            additional creature for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Drain Life (Dark Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Drain Vitality
+
+            You draw the life force from a creature you can see within range. The target must make a Constitution saving
+            throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. If
+            you reduce a hostile creature to 0, you gain temporary hit points equal to half the damage dealt. This power
+            has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 5th level or higher, the damage increases by
+            1d8 for each slot level above 4th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <roll>10d8</roll>
+        <roll>11d8</roll>
+        <roll>12d8</roll>
+        <roll>13d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Maddening Darkness (Dark Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>150 feet</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>Prerequisite: Shroud of Darkness
+
+            Terrifying darkness spreads from a point you choose within range to fill a 60-foot-radius sphere until the
+            power ends. The darkness spreads around corners. A creature with darkvision can’t see through this darkness.
+            Unenhanced light, as well as light created by powers of 8th level or lower, can’t illuminate the area.
+
+            Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in
+            the sphere, it must make a Wisdom saving throw, taking 8d8 psychic damage on a failed save, or half as much
+            damage on a successful one.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Rescue (Universal Force)</name>
+        <level>2</level>
+        <time>1 bonus action</time>
+        <range>30 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You pull one willing ally you can see within 30 feet of you to an unoccupied space within 5 feet of you.
+            The target must use their reaction to accept the pull.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Master Force Immunity (Universal Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>Self (10-foot-radius sphere)</range>
+        <duration>Up to 1 hour, Concentration</duration>
+        <text>Prerequisite: Improved Force Immunity
+
+            A 10-foot-radius faintly shimmering barrier surrounds you. Within the sphere, powers can’t be cast and
+            enhanced items become mundane. Until the power ends, the sphere moves with you, centered on you.
+
+            Powers and other enhanced effects are suppressed in the sphere and can’t protrude into it. A slot expended
+            to cast a suppressed power is consumed. While an effect is suppressed, it doesn’t function, but the time it
+            spends suppressed counts against its duration.
+
+            Targeted Effects: Powers and other enhanced effects that target a creature or an object in the sphere have
+            no effect on that target.
+
+            Enhanced Areas: The area of another power or enhanced effect, such as force storm, can’t extend into the
+            sphere. If the sphere overlaps an enhanced area, the part of the area that is covered by the sphere is
+            suppressed.
+
+            Powers: Any active power or other enhanced effect on a creature or an object in the sphere is suppressed
+            while the creature or object is in it.
+
+            Enhanced Items: The properties and powers of enhanced items are suppressed in the sphere. For example, a +1
+            vibrosword in the sphere functions as an unenhanced vibrosword.
+
+            An enhanced weapon’s properties and powers are suppressed if it is used against a target in the sphere or
+            wielded by an attacker in the sphere. If an enhanced weapon or a piece of enhanced ammunition fully leaves
+            the sphere (for example, if you fire an enhanced shot or throw an enhanced saberspear at a target outside
+            the sphere), the enhancement of the item ceases to be suppressed as soon as it exits.
+
+            Enhanced Travel: Teleportation fails to work in the sphere, whether the sphere is the destination or the
+            departure point for such enhanced travel. A portal to another location temporarily closes while in the
+            sphere.
+
+            Creatures and Objects: A creature or object summoned or created by powers temporarily winks out of existence
+            in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within
+            the sphere.
+
+            Tech Override/Sever Force: Powers and enhanced effects such as sever force have no effect on the sphere.
+            Likewise, the spheres created by different scrambling field powers don’t nullify each other.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Insanity (Dark Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>Self (30-foot sphere)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Horror
+
+            This power assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled action. Each
+            creature in a 30-foot-radius sphere centered on you must succeed on a Wisdom saving throw when you cast this
+            power or be affected by it.
+
+            An affected target can’t take reactions and must roll a d8 at the start of each of its turns to determine
+            its behavior for that turn. This power has no effect on constructs or droids.
+
+            D8 | Behavior
+            1 | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8
+            and assign a direction to each die face. The creature doesn’t take an action this turn.
+            2-6 | The creature doesn’t move or take actions this turn.
+            7-8 | The creature uses its action to make a melee attack against a randomly determined creature within its
+            reach. If there is no creature within its reach, the creature does nothing this turn.
+
+            At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this
+            effect ends for that target.
+
+            Force Potency: When you cast this power using a power slot of 6th level or higher, the radius of the sphere
+            increases by 5 feet for each force slot level above 5th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Plague (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Affliction
+
+            Choose up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a
+            Constitution saving throw or be affected by this power for the duration.
+
+            An affected target’s speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can’t
+            use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the
+            creature’s abilities or items, it can’t make more than one melee or ranged attack during its turn.
+
+            If the creature attempts to cast a power with a casting time of 1 action, roll a d20. On an 11 or higher,
+            the power doesn’t take effect until the creature’s next turn, and the creature must use its action on that
+            turn to complete the power. If it can’t, the power is wasted.
+
+            A creature affected by this power makes another Wisdom saving throw at the end of its turn. On a successful
+            save, the effect ends for it.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Enfeeble (Dark Force)</name>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>minute</duration>
+        <text>Dark energy courses from your hand at a creature within range. The target must succeed on a Wisdom saving
+            throw. If it’s is missing any hit points, it takes 1d12 necrotic damage. Otherwise, it takes 1d8.
+
+            The power’s damage increases by one die when you reach 5th, 11th, and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d12</roll>
+        <roll>2d12</roll>
+        <roll>3d12</roll>
+        <roll>4d12</roll>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <classes>Sorcerer, Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Heroism (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Up to 1 minute, concentration</duration>
+        <text>A willing creature you touch is imbued with bravery. Until the power ends, the creature is immune to being
+            frightened and gains temporary hit points equal to your forcecasting ability modifier at the start of each
+            of its turns. When the power ends, the target loses any remaining temporary hit points from this power.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you can target one
+            additional creature for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Hallucination (Dark Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You craft a dangerous illusion in the mind of a creature that you can see within range. The target must
+            make a Wisdom saving throw. On a failed save, you create a phantasmal object, creature, or other visible
+            phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target
+            for the duration. This power has no effect on droids or constructs.
+
+            The hallucination includes sound, temperature, and other stimuli, also evident only to the creature.
+
+            The target can use its action to examine the hallucination with an Intelligence (Investigation) check
+            against your force power save DC. If the check succeeds, the target realizes that the hallucination is an
+            illusion, and the power ends.
+
+            While a target is affected by the power, the target treats the hallucination as if it were real. The target
+            rationalizes any illogical outcomes from interacting with the hallucination. For example, a target
+            attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the
+            target survives the fall, it still believes that the bridge exists and comes up with some other explanation
+            for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.
+
+            An affected target is so convinced of the hallucination’s reality that it can even take damage from the
+            illusion. A hallucination created to appear as a creature can attack the target. Similarly, a hallucination
+            created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the
+            hallucination can deal 1d6 psychic damage to the target if it is in the hallucination’s area or within 5
+            feet of the hallucination, provided that the illusion is of a creature or hazard that could logically deal
+            damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+
+            Force Potency: When you cast this power using a force power slot of 3rd level or higher, the range increases
+            by 20 feet, the image dimensions increase by 5 feet, and you can target one additional creature for every
+            two slot levels above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Tremor (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>10 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Burst
+
+            You cause a tremor in the ground within range. Each creature other than you in a 5-foot-radius sphere
+            centered on that point must make a Dexterity saving throw. On a failed save, a creature takes 1d6 kinetic
+            damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult
+            terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the damage increases by
+            1d6 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <roll>5d6</roll>
+        <roll>6d6</roll>
+        <roll>7d6</roll>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Scream (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (15-foot radius)u</range>
+        <duration>Instantaneous</duration>
+        <text>You emit a scream imbued with the power of the Force. Each creature you choose within 15 feet of you must
+            succeed on a Constitution saving throw. On a failed save, a creature take 4d6 psychic damage, 4d6 sonic
+            damage, and is deafened until the end of its next turn. On a successful save, it takes half as much damage
+            and isn’t deafened.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>4d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Knight Speed (Universal Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Burst of Speed
+
+            Choose a willing creature that you can see within range. Until the power ends, the target’s speed is
+            doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional
+            action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash,
+            Disengage, Hide, or Use an Object action.
+
+            When the power ends, the target can’t move or take actions until after its next turn, as a wave of lethargy
+            sweeps over it.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Mend (Light Force)</name>
+        <level>7</level>
+        <time>1 minute</time>
+        <range>Touch</range>
+        <duration>1 hour</duration>
+        <text>You touch a creature and stimulate its natural healing ability. The target regains 4d8+15 hit points. For
+            the duration of the power, the target regains 1 hit point at the start of each of its turns (10 hit points
+            each minute).
+
+            If the creature has a severed part you hold it to the stump, the power instantaneously causes the limb to
+            knit to the stump.
+
+            This power has no effect on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Jump (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Instantaneous</duration>
+        <text>Using the force to augment the strength in your legs, you leap up to 30 feet to an unoccupied space you
+            can see.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, your jump distance
+            increases by 5 feet for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Wrack (Dark Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You wrack the body of a creature that you can see with a virulent, disease-like condition. The target must
+            make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on
+            a successful save. The damage can’t reduce the target’s hit points below 1. If the target fails the saving
+            throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any
+            effect that removes a disease allows a creature’s hit point maximum to return to normal before that time
+            passes.
+
+            Force Potency: If you cast this power using a force slot of 7th level or higher, the power deals an extra
+            2d6 damage for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>14d6</roll>
+        <roll>16d6</roll>
+        <roll>18d6</roll>
+        <roll>20d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Force Immunity (Universal Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>Self (15-foot radius)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Force Immunity
+
+            An immobile, faintly shimmering barrier springs into existence in a 15-foot radius around you and remains
+            for the duration. The barrier moves with you.
+
+            Any force power of 5th level or lower cast from outside the barrier can’t affect creatures or objects within
+            it, even if the power is cast using a higher level force slot. Such a power can target creatures and objects
+            within the barrier, but the power has no effect on them. Similarly, the area within the barrier is excluded
+            from the areas affected by such powers.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, the barrier blocks powers
+            of one level higher for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Heal (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>A creature you touch regains a number of hit points equal to 1d8 + your forcecasting ability modifier.
+            This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the healing increases by
+            1d8 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8+%5</roll>
+        <roll>2d8+%5</roll>
+        <roll>3d8+%5</roll>
+        <roll>4d8+%5</roll>
+        <roll>5d8+%5</roll>
+        <roll>6d8+%5</roll>
+        <roll>7d8+%5</roll>
+        <roll>8d8+%5</roll>
+        <roll>9d8+%5</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Greater Feedback (Dark Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Improved Feedback
+
+            You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius
+            sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score
+            of 2 or lower can’t be affected by this power. A target takes 8d6 psychic damage on a failed save, or half
+            as much damage on a successful one.
+
+            After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a d6 and
+            subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving
+            throws to maintain concentration. The target can make a Wisdom saving throw at the end of each of its turns,
+            ending the effect on itself on a success.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Beast Trick (Light Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>24 hours</duration>
+        <text>This power lets you distract a beast. Choose a beast that you can see within range. If the beast’s
+            Intelligence is 4 or higher, the power fails. Otherwise, the beast must succeed on a Wisdom saving throw or
+            be charmed by you for the power’s duration. If you or one of your companions harms the target, the power
+            ends.
+
+            Force Potency - When you cast this power using a force slot of 2nd level or higher, you can affect one
+            additional beast for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Mind Trap (Universal Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Force Confusion
+
+            You attempt to trap the mind of your target in a psychic cage. The target must make a Charisma saving throw.
+            On a failed save, the creature’s mind is trapped. It can think, but it can’t have any contact with or
+            perceive the outside world. If the creature takes damage, it makes another Charisma save. On a success, the
+            power ends. This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 6th level or higher, after 1 minute of
+            concentration the power’s duration becomes 24 hours and it no longer requires your concentration.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Whirlwind (Universal Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>300 feet</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a
+            10-foot-radius, 30-foot-high cylinder centered on that point. Until the power ends, you can use your action
+            to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or
+            smaller objects that aren’t secured to anything and that aren’t worn or carried by anyone.
+
+            A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that
+            the whirlwind enters its space, including when the whirlwind first appears. A creature takes 10d6 kinetic
+            damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller
+            creature that fails the save must succeed on a Strength saving throw or become restrained in the whirlwind
+            until the power ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5
+            feet higher inside it, unless the creature is at the top. A restrained creature moves with the whirlwind and
+            falls when the power ends, unless the creature has some means to stay aloft.
+
+            A restrained creature can use an action to make a Strength or Dexterity check against your force save DC. If
+            successful, the creature is no longer restrained by the whirlwind and is hurled 3d6x10 feet away from it in
+            a random direction.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Shocking Shield (Dark Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>10 minutes</duration>
+        <text>Prerequisite: Shock
+
+            Lightning courses in a sphere surrounding your body, shedding bright light in a 10-foot radius and dim light
+            for an additional 10 feet. You can use your action to end the power early.
+
+            Whenever a creature within 5 feet of you hits you with a melee attack, it takes 2d8 lightning damage.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Mind Spike (Dark Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Up tp 1 hour, Concentration</duration>
+        <text>Choose one creature you can see. The target must make a Wisdom saving throw. A creature takes 3d8 psychic
+            damage on a failed save, or half as much damage on a successful one. Additionally, on a failed save, you
+            always know the target’s location, but only while the two of you are on the same planet. The target can’t
+            become hidden from you, and if it’s invisible, it gains no benefits from this condition against you. This
+            power has no effect on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Restoration (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>You touch a creature and end either one disease or one condition afflicting it. The condition can be
+            blinded, deafened, paralyzed, or poisoned.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sense Emotion (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>You attune your senses to pick up the emotions of others for the duration. When you cast the power, and as
+            your action on each turn until the power ends, you can focus your senses on one humanoid you can see within
+            30 feet of you. You instantly learn the target’s prevailing emotion, whether it’s love, anger, pain, fear,
+            calm, or something else. If the target isn’t actually humanoid or it is immune to being charmed, you sense
+            that it is calm.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Repulse (Universal Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (20-foot radius)</range>
+        <duration>Instantaneous</duration>
+        <text>You release an omnidirectional telekinetic burst. Each creature within 20 feet must make a Dexterity
+            saving throw. On a failed save, a creature takes 8d6 force damage and is pushed back 5 feet. On a successful
+            save, a creature takes half damage and isn’t pushed.
+
+            All small objects that are not worn or carried are also pushed 5 feet back.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the damage increases by
+            1d6 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <roll>10d6</roll>
+        <roll>11d6</roll>
+        <roll>12d6</roll>
+        <roll>13d6</roll>
+        <roll>14d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Telekinetic Storm (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (15-foot radius)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Turbulence
+
+            You stir the force around you, creating a turbulent field of telekinetic energy that buffets enemies around
+            you. The field extends out to a distance of 15 feet around you for the duration.
+
+            When you cast this power, you can designate any number of creatures you can see to be unaffected by it. An
+            affected creature’s speed is halved in the area, and when the creature enters the area for the first time on
+            a turn or starts its turn there, it must make a Constitution saving throw. On a failed save, the creature
+            takes 3d8 force damage. On a successful save, the creature takes half as much damage.
+
+            Force Potency: When you cast this power using a force power slot of 4th level or higher, the damage
+            increases by 1d8 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <roll>6d8</roll>
+        <roll>7d8</roll>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Aura of Vigor (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (30-foot radius)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Valor
+
+            Envigorating energy radiates from you in a 30-foot radius. Until the power ends, the aura moves with you,
+            centered on you. Each nonhostile creature in the aura (including you) deals an extra 1d4 damage with weapon
+            attacks.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Horror (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (30-foot cone)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Fear
+
+            You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on
+            a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. This power has
+            no effect on constructs or droids.
+
+            While frightened by this power, a creature must take the Dash action and move away from you by the safest
+            available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a
+            location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a
+            successful save, the power ends for that creature.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Skill Empowerment (Light Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Up to 1 hour, Concentration</duration>
+        <text>Your power with the Force deepens a creature’s understanding of its own talent. You touch one willing
+            creature and give it expertise in one skill of your choice; until the power ends, the creature doubles its
+            proficiency bonus for ability checks it makes that use the chosen skill.
+
+            You must choose a skill in which the target is proficient and that isn’t already benefiting from an effect,
+            such as Expertise, that doubles its proficiency bonus.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Project (Universal Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to one day, concentration</duration>
+        <text>You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location
+            that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but
+            is intangible. If the illusion takes any damage, it disappears, and the power ends.
+
+            You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave
+            in whatever way you choose. It mimics your mannerisms perfectly.
+
+            You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus
+            action, you can switch from using its senses to using your own, or back again. While you are using its
+            senses, you are blinded and deafened in regard to your own surroundings.
+
+            Physical interaction with the image reveals it to be an illusion, because things can pass through it. A
+            creature that uses its action to examine the image can determine that it is an illusion with a successful
+            Intelligence (Investigation) check against your force save DC. If a creature discerns the illusion for what
+            it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Mind Trick (Universal Force)</name>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Choose a target within range that isn’t hostile toward you. The target must make a Wisdom saving throw. On
+            a failed save, the target has disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks.
+
+            On a successful save, the creature realizes that you tried to use the Force to influence its awareness and
+            becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek
+            retribution in other ways (at the GM’s discretion), depending on the nature of your interaction with it.
+            This power has no effect on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Remove Curse (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>At your touch, all curses affecting one creature or object end. If the object is a cursed enhanced item,
+            its curse remains, but the power breaks its owner’s attunement to the object so it can be removed or
+            discarded.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Denounce (Dark Force)</name>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, concentration</duration>
+        <text>A target of your choice within range must make a Charisma saving throw. On a failed save, when the target
+            makes their next attack roll or saving throw they must roll a d4 and subtract the number from it. The power
+            then ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Zzz (Light Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>Prerequisite:
+
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Saber Ward (Universal Force)</name>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Instantaneous</duration>
+        <text>You take a defensive stance. Until the end of your next turn, you have resistance against kinetic and
+            energy damage dealt by weapons.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Lightning (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Self (100-foot line)</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Shock
+
+            A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you
+            choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage
+            on a failed save, or half as much damage on a successful one.
+
+            The lightning ignites flammable objects in the area that aren’t being worn or carried.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the damage increases by
+            1d6 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <roll>10d6</roll>
+        <roll>11d6</roll>
+        <roll>12d6</roll>
+        <roll>13d6</roll>
+        <roll>14d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Saber Throw (Universal Force)</name>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>Instantaneous</duration>
+        <text>As a part of the action used to cast this power, you must make a ranged force attack with a lightweapon or
+            vibroweapon against one target within the power’s range, otherwise the power fails. On a hit, the target
+            takes 1d8 damage of the same type as the weapon’s damage. The weapon then immediately returns to your hand.
+
+            This power can hit multiple targets when you reach higher levels: two targets at 5th level, three targets at
+            11th level, and four targets at 17th level. Each target must be within 30 feet of the previous target, you
+            must make a separate attack roll for each target, and the last target must be no further than 30 feet away
+            from you. You can not hit the same target twice in succession.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Scourge (Dark Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Plague
+
+            For the power’s duration, your eyes become an inky void imbued with dread power. One creature of your choice
+            within 60 feet of you that you can see must succeed on a Constitution saving throw or be affected by one of
+            the following effects of your choice for the duration. On each of your turns until the power ends, you can
+            use your action to target another creature but can’t target a creature again if it has succeeded on a saving
+            throw against this casting of scourge.
+
+            Asleep: The target falls unconscious. It wakes up if it takes any damage or if another creature uses its
+            action to shake the sleeper awake.
+
+            Panicked: The target is frightened of you. On each of its turns, the frightened creature must take the Dash
+            action and move away from you by the safest and shortest available route, unless there is nowhere to move.
+            If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect
+            ends.
+
+            Sickened: The target has disadvantage on attack rolls and ability checks. At the end of each of its turns,
+            it can make another Wisdom saving throw. If it succeeds, the effect ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Disarm (Universal Force)</name>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>minute</duration>
+        <text>You select a weapon being worn or carried by a Large or smaller creature within range. The creature must
+            make a Strength or Dexterity saving throw (the creature chooses the ability to use). If the item is being
+            worn, this save is made with disadvantage. On a failed save, the creature takes 1d4 force damage and the
+            item is pulled directly to you. If you have a free hand, you catch the weapon. Otherwise, it lands at your
+            feet.
+
+            This power’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d4</roll>
+        <roll>2d4</roll>
+        <roll>3d4</roll>
+        <roll>4d4</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Dark Side Tendrils (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>150 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Dark Side Tendrils
+
+            You summon a 20-foot-radius sphere of inky blackness at a point within range. No light, enhanced or
+            otherwise, can illuminate the area, creatures fully within the area are blinded, and the area is difficult
+            terrain. Any creature that starts its turn in the area takes 2d6 necrotic damage. Any creature that ends its
+            turn in the area must succeed on a Strength saving throw or take 2d6 poison damage as tendrils of dark
+            energy caress it.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Feedback (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Feedback
+
+            You unleash a blast of psychic energy at a target within range. If the target can hear you (though it need
+            not understand you), it must succeed on an Intelligence saving throw. On a failed save, it takes 3d6 psychic
+            damage and must immediately use its reaction, if available, to move as far as its speed allows away from
+            you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful
+            save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically
+            succeeds on the save.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the damage increases by
+            1d6 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <roll>5d6</roll>
+        <roll>6d6</roll>
+        <roll>7d6</roll>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <roll>10d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Dominate Mind (Dark Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Dominate Beast
+
+            You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or
+            be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has
+            advantage on the saving throw.
+
+            While the target is charmed, you have a telepathic link with it as long as you are within 1 mile of it. You
+            can use this telepathic link to issue commands to the creature while you are conscious (no action required),
+            which it does its best to obey. You can specify a simple and general course of action, such as “Attack that
+            creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive
+            further direction from you, it defends and preserves itself to the best of its ability.
+
+            You can use your action to take total and precise control of the target. Until the end of your next turn,
+            the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do.
+            During this time you can also cause the creature to use a reaction, but this requires you to use your own
+            reaction as well.
+
+            Each time the target takes damage, it makes a new Wisdom saving throw against the power. If the saving throw
+            succeeds, the power ends. This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a 6th-level force slot, the duration is 10 minutes. When you
+            use a 7th-level force slot, the duration is 1 hour. When you use a force slot of 8th level or higher, the
+            duration is 8 hours.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Fear (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You awaken the sense of mortality in one creature you can see within range. The target must succeed on a
+            Wisdom saving throw or become frightened for the duration. A target with 25 hit points or fewer makes the
+            saving throw with disadvantage. This power has no effect on constructs or droids.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Stun (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be
+            paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving
+            throw. On a success, the power ends on the target.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Dark Shear (Dark Force)</name>
+        <level>2</level>
+        <time>1 bonus action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You create a weapon of imperceptible Force energy that lasts until the power ends. It counts as a simple
+            lightweapon with which you are proficient. It deals 2d6 psychic damage, and has the finesse, light, and
+            thrown properties (range 20/60). When you attack while within dim light or darkness, you have advantage.
+
+            If you drop the weapon or throw it, it disappears at the end of the turn. While the power lasts, you can use
+            a bonus action to make the weapon reappear in your hand.
+
+            Force Potency: When you cast this power using a 3rd or 4th level force slot, the damage increases by 1d6
+            (3d6). At 5th or 6th level, the damage increases by 2d6 (4d6). At 7th level or higher, the damage increases
+            by 3d6 (5d6).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <roll>5d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sonic Charge (Universal Force)</name>
+        <time>1 action</time>
+        <range>Varies</range>
+        <duration>1 round</duration>
+        <text>As part of the action used to cast this power, you must make a melee attack with a weapon against one
+            creature within your weapon’s reach, otherwise the power fails. On a hit, the target suffers the attack’s
+            normal effects, and you begin to emanate a disturbing hum until the start of your next turn. If a hostile
+            creature ends its turn within 5 feet of you, it takes 1d4 sonic damage.
+
+            This power’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra
+            1d8 sonic damage to the target, and the secondary damage increases by 1d4. Both damage rolls increase by 1d8
+            and 1d4, respectively, at 11th level and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d4</roll>
+        <roll>1d8</roll>
+        <roll>2d4</roll>
+        <roll>2d8</roll>
+        <roll>3d4</roll>
+        <roll>3d8</roll>
+        <roll>4d4</roll>
+        <roll>4d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Locate Creature (Universal Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Locate Object
+
+            Describe or name a creature familiar to you. You sense the direction to the creature’s location, as long as
+            its within 1000 feet of you. If the creature is in motion, you know the direction of its movement. The power
+            can locate a specific creature known to you or the nearest of a specific kind, as long as you have seen it
+            while within 30 feet of it. If the creature is in a different form, the power doesn’t work. This power can’t
+            locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Enlightenment (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Up to 1 hour, Concentration</duration>
+        <text>Prerequisite: Guidance
+
+            You touch a creature and enhance it with the Force. Choose one of the following effects; the target gains
+            that effect until the power ends.
+
+            Endurance: The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which
+            are lost when the power ends.
+
+            Strength: The target has advantage on Strength checks, and his or her carrying capacity doubles.
+
+            Dexterity: The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or
+            less if it isn’t incapacitated.
+
+            Splendor: The target has advantage on Charisma checks.
+
+            Cunning: The target has advantage on Intelligence checks.
+
+            Wisdom: The target has advantage on Wisdom checks.
+
+            Force Potency: When you cast this power using a force slot of 3rd level or higher, you can target one
+            additional creature for each slot level above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Feedback (Dark Force)</name>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>minute</duration>
+        <text>You unleash a burst of psychic energy at a target within range. If the target can hear you (though it need
+            not understand you), it must succeed on an Intelligence saving throw or take 1d4 psychic damage and have
+            disadvantage on the next attack roll it makes before the end of its next turn.
+
+            This power’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d4</roll>
+        <roll>2d4</roll>
+        <roll>3d4</roll>
+        <roll>4d4</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Confusion (Universal Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become
+            charmed by you for the duration. The charmed target must use its action before moving on each of its turns
+            to make a melee attack against a creature other than itself that you mentally choose.
+
+            The target can act normally on its turn if you choose no creature or if none are within its reach.
+
+            On your subsequent turns, you must use your action to maintain control over the target, or the power ends.
+            Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the power
+            ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Hex (Dark Force)</name>
+        <level>1</level>
+        <time>1 bonus action</time>
+        <range>90 feet</range>
+        <duration>Up to one hour, concentration</duration>
+        <text>You curse an opponent within range. Until the power ends, you deal an extra 1d6 necrotic damage to the
+            target whenever you hit it with an attack. Also, choose one ability when you cast the power. The target has
+            disadvantage on ability checks made with the chosen ability.
+
+            If the target drops to 0 hit points before this power ends, you can use a bonus action on a subsequent turn
+            of yours to curse a new creature.
+
+            Force Potency: When you cast this power using a force slot of 3rd or 4th level, you can maintain your
+            concentration on the power for up to 8 hours. When you use a force slot of 5th level or higher, you can
+            maintain your concentration on the power for up to 24 hours.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <classes>Sorcerer, Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Guidance (Light Force)</name>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You touch one willing creature. Once before the power ends, the target can roll a d4 and add the number
+            rolled to one ability check of its choice. It can roll the die before or after making the ability check. The
+            power then ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Battle Meditation (Universal Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Self (5-foot raduis)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You exude an aura out to 5 feet that boosts the morale and overall battle prowess you and your allies
+            while simultaneously reducing the opposition’s combat-effectiveness by eroding their will to fight.
+
+            Whenever you or a friendly creature within your meditation makes an attack roll or a saving throw, they can
+            roll a d4 and add the number rolled to the attack roll or saving throw.
+
+            Whenever a hostile creature starts enters your meditation or starts its turn there, it must make a Charisma
+            saving throw. On a failed save, it must roll a d4 and subtract the number rolled from each attack roll or
+            saving throw it makes before the end of your next turn. On a successful save, it is immune to this power for
+            1 day.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Phasestrike (Universal Force)</name>
+        <level>1</level>
+        <time>1 bonus action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Until the power ends, your movement doesn’t provoke opportunity attacks.
+
+            Once before the power ends, you can give yourself advantage on one weapon attack roll on your turn. That
+            attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30
+            feet until the end of that turn.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Lightning Cone (Dark Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>Self (60-foot cone)</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Force Chain Lightning
+
+            Lightning arcs from your hands. Each creature in a 60-foot cone must make a Dexterity saving throw. A
+            creatures takes 12d6 lightning damage on a failed save, or half as much on a successful one.
+
+            Force Potency: When you cast this power using a force slot of 8th level or higher, the damage increases by
+            2d6 for each slot level above 7th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>12d6</roll>
+        <roll>14d6</roll>
+        <roll>16d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Dominate Monster (Dark Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Up to 1 hour, Concentration</duration>
+        <text>Prerequisite: Dominate Mind
+
+            You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or
+            be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has
+            advantage on the saving throw.
+
+            While the creature is charmed, you have a telepathic link with it as long as you are within 1 mile of it.
+            You can use this telepathic link to issue commands to the creature while you are conscious (no action
+            required), which it does its best to obey. You can specify a simple and general course of action, such as
+            “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and
+            doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
+
+            You can use your action to take total and precise control of the target. Until the end of your next turn,
+            the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do.
+            During this time, you can also cause the creature to use a reaction, but this requires you to use your own
+            reaction as well.
+
+            Each time the target takes damage, it makes a new Wisdom saving throw against the power. If the saving throw
+            succeeds, the power ends.
+
+            Force Potency: When you cast this power with a 9th-level force slot, the duration is concentration, up to 8
+            hours.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Battle Precognition (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>8 Hours</duration>
+        <text>Your attunement to the Force warns you when you are about to enter danger. Until the power ends, your base
+            AC becomes 13 + your Dexterity modifier. This power has no effect if you are wearing armor.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>13+%2</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Danger Sense (Universal Force)</name>
+        <level>2</level>
+        <time>1 bonus action</time>
+        <range>Self</range>
+        <duration>Instantaneous</duration>
+        <text>You put your faith in the Force, feeling out the future and seeing whether your actions will lead to
+            fortune or ruin. The GM chooses from the following possible omens:
+
+            • Peace, for results which are not dangerous
+            • Danger, for results which are dangerous but perhaps still worth the danger
+            • Ruin, for results which are certain to end in death or tragedy
+
+            The power doesn’t take into account any possible circumstances that might change the outcome, such as the
+            use of additional powers or the loss or gain of a companion.
+
+            If you use this power two or more times before completing your next long rest, there is a cumulative 25
+            percent chance for each casting after the first that you get a neutral result regardless of the actual
+            outcome.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Psychic Charge (Dark Force)</name>
+        <time>1 action</time>
+        <range>Varies</range>
+        <duration>1 round</duration>
+        <text>As part of the action used to cast this power, you must make a melee attack with a weapon against one
+            creature within your weapon’s reach, otherwise the power fails. On a hit, the target suffers the attack’s
+            normal effects, and its mouth is covered by a violet veil until the start of your next turn. If the target
+            willingly speaks before then, it immediately takes 1d8 psychic damage, and the power ends.
+
+            This power’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra
+            1d8 psychic damage to the target, and the damage the target takes for speaking increases to 2d8. Both damage
+            rolls increase by 1d8 at 11th level and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Calm Emotions (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere
+            centered on a point you choose within range must make a Charisma saving throw a creature can choose to fail
+            this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two
+            effects.
+
+            • You can suppress any effect causing a target to be charmed or frightened. When this power ends, any
+            suppressed effect resumes, provided that its duration has not expired in the meantime.
+            • You can make a target indifferent about creatures of your choice that it is hostile toward. This
+            indifference ends if the target is attacked or harmed by a power or if it witnesses any of its friends being
+            harmed.
+
+            When the power ends, the creature becomes hostile again, unless the GM rules otherwise.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Hysteria (Dark Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Hallucination
+
+            You tap into the nightmares of a creature you can see within range and create an illusory manifestation of
+            its deepest fears, visible only to that creature. The target becomes frightened for the duration. At the end
+            of each of the target’s turns before the power ends, the target must succeed on a Wisdom saving throw or
+            take 4d10 psychic damage. On a successful save, the power ends. This power has no effect on droids or
+            constructs.
+
+            Force Potency: When you cast this power using a force power slot of 5th level or higher, the damage
+            increases by 1d10 for each slot level above 4th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>4d10</roll>
+        <roll>5d10</roll>
+        <roll>6d10</roll>
+        <roll>7d10</roll>
+        <roll>8d10</roll>
+        <roll>9d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Blind/Deafen (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute</duration>
+        <text>You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution
+            saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the
+            end of each of its turns, the target can make a Constitution saving throw. On a success, the power ends.
+
+            Force Potency: When you cast this power using a force slot of 3rd level or higher, you can target one
+            additional creature for each slot level above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Suppression (Universal Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Choose one creature, object, or force effect within range. Any force power of 3rd level or lower on the
+            target ends. For each force power of 4th level or higher on the target, make an ability check using your
+            forcecasting ability. The DC equals 10 + the power’s level. On a success, the power ends.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, you automatically end the
+            effects of a force power on the target if the power’s level is equal to or less than the level of the force
+            slot you used.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Telekinesis (Universal Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>Prerequisite: Force Throw
+
+            You gain the ability to move or manipulate creatures and objects with the Force. When you cast this power,
+            and as your action each round for the duration, you can exert your will on one creature or object that you
+            can see within range, causing the appropriate effect below. You can affect the same target round after
+            round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the
+            power.
+
+            Creature: You can try to move a Huge or smaller creature. The target must make a Strength saving throw. On a
+            failed save, you move the creature up to 30 feet in any direction, including upward but not beyond the range
+            of this power. Until the end of your next turn, the creature is restrained in your telekinetic grip. A
+            creature lifted upward is suspended in mid-air.
+
+            On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature
+            by repeating the contest.
+
+            Object: You move an object that isn’t being worn or carried and weighs up to 1,000 lbs up to 30 feet in any
+            direction, but not beyond the range of this power.
+
+            You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool,
+            opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents
+            from a vial.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Share Life (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and
+            one creature of your choice that you can see within range regains a number of hit points equal to twice the
+            necrotic damage you take. This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the damage increases by
+            1d8 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <roll>6d8</roll>
+        <roll>7d8</roll>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <roll>10d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Trance (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>10 minutes</duration>
+        <text>You make a calming gesture, and up to three willing creatures of your choice that you can see within range
+            fall unconscious for the power’s duration. The power ends on a target early if it takes damage or someone
+            uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target
+            gains the benefit of a short rest, and it can’t be affected by this power again until it finishes a long
+            rest.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, you can target one
+            additional willing creature for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Throw (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Force Push/Pull
+
+            Choose one or more creatures or objects within 60 feet that weigh up to 15 pounds. The object immediately
+            moves 60 feet in a direction of your choice. If the object ends this movement in the air, it immediately
+            falls to the ground. If the object collides with anything during its travel, both the object and the target
+            take 3d8 kinetic damage. If the target is a creature, it must make a Dexterity saving throw. On a failed
+            save, it takes 3d8 kinetic damage, or half as much on a successful one.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the maximum weight
+            increases by 15 pounds and the damage increases by 1d8 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <roll>6d8</roll>
+        <roll>7d8</roll>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <roll>10d8</roll>
+        <roll>11d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Rage (Dark Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can’t
+            cast powers, and you gain the following benefits:
+
+            • You gain 50 temporary hit points. If any of these remain when the power ends, they are lost.
+            • You have advantage on attack rolls that you make with lightweapons and vibroweapons.
+            • When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
+            • You have proficiency with all armor, lightweapons, and vibroweapons.
+            • You have proficiency in Strength and Constitution saving throws.
+            • You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this
+            benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+
+            Immediately after the power ends, you must succeed on a DC 15 Constitution saving throw or suffer one level
+            of exhaustion.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Revitalize (Light Force)</name>
+        <level>5</level>
+        <time>1 minute</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Spare the Dying
+
+            You return a dead creature you touch to life, provided that it has been dead no longer than 10 minutes. If
+            the creature’s soul is both willing and at liberty to rejoin the body, the creature returns to life with 1
+            hit point.
+
+            This power also neutralizes any poisons and cures diseases that affected the creature at the time it died.
+
+            This power closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking
+            body parts or organs integral for its survival – its head, for instance – the power automatically fails.
+
+            Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws,
+            and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it
+            disappears.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Slow (Dark Force)</name>
+        <time>1 action</time>
+        <range>15 feet</range>
+        <duration>1 hour</duration>
+        <text>A hostile creature of your choice must make a Constitution saving throw. On a failed save, the target’s
+            speed decreases by 10 feet until the power ends.
+
+            The target’s speed decreases by 5 more feet when you reach 5th level (15 feet), 11th level (20 feet), and
+            17th level (25 feet).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Give Life (Light Force)</name>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>Placing your hand on another creature you can transfer your own life force to them. You spend and roll one
+            of your hit dice and the creature regains that many hit points. This power has no effect on droids or
+            constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Master Speed (Universal Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>Prerequisite: Knight Speed
+
+            Choose up to two willing creatures that you can see within range. Until the power ends, each targets’ speed
+            is doubled, they gain a +2 bonus to AC, they have advantage on Dexterity saving throws, and they gain an
+            additional action on each of their turns. That action can be used only to take the Attack (one weapon attack
+            only), Dash, Disengage, Hide, or the Use an Object Action.
+
+            When the power ends, each target can’t move or take actions until after its next turn, as a wave of lethargy
+            sweeps over it.
+
+            Force Potency: When you cast this power using a force slot of 8th-level or higher, you can target one
+            additional creature for each slot level above 7th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Dominate Beast (Dark Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>A beast you can see must succeed on a Wisdom save or be charmed. If you or your companions are fighting
+            it, it has advantage on this saving throw.
+
+            While it’s charmed, you have a telepathic link to it if you’re on the same planet. You can use this link to
+            issue commands while you are conscious, no action required, which it does its best to obey. You can specify
+            a simple and general course of action. If it completes the order and doesn’t receive further orders, it
+            focuses on defending itself.
+
+            You can use your action to take total control of the target. Until the end of your next turn, the beast
+            takes only the actions you decide and nothing you don’t allow it to. You can also have the beast use a
+            reaction, but this takes your reaction as well.
+
+            If the beast takes damage, it makes another Wisdom save. On a success, the power ends.
+
+            Force Potency: When you cast this power using a 5th-level force slot, the duration is up to 10 minutes. At a
+            6th-level slot, the duration is up to 1 hour. At a slot of 7th or higher, the duration is up to 8 hours.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Heal (Light Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Heal
+
+            A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in
+            a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your
+            forcecasting ability modifier. This power has no effect on droids or constructs.
+
+            Force Potency: When you cast this power using a force slot of 6th level or higher, the healing increases by
+            1d8 for each slot level above 5th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3d8+%6</roll>
+        <roll>4d8+%6</roll>
+        <roll>5d8+%6</roll>
+        <roll>6d8+%6</roll>
+        <roll>7d8+%6</roll>
+        <roll>3d8+%5</roll>
+        <roll>4d8+%5</roll>
+        <roll>5d8+%5</roll>
+        <roll>6d8+%5</roll>
+        <roll>7d8+%5</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Force Barrier (Light Force)</name>
+        <level>5</level>
+        <time>10 minutes</time>
+        <range>30 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Force Barrier
+
+            This power further bolsters your allies with toughness and resolve. Choose up to twelve creatures within
+            range. Each target gains the following benefits:
+
+            • The becomes immune to poison and disease. Any currently existing poison or diseases still exist.
+            • The creature becomes immune to being frightened by powers.
+            • The creature’s hit point maximum and current hit points increase by 2d10 for the duration.
+
+            These benefits last for 24 hours or until the end of your next long rest, whichever happens first.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Mask (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 hour</duration>
+        <text>Prerequisite: Mind Trick
+
+            Until the power ends or you use an action to dismiss it, you can disguise yourself through use of the Force
+            in many ways. You can appear to be shorter or taller by about a foot and change the appearance of your body
+            and weight, but you cannot change the basic structure of your body. This effect can include your clothes,
+            weapons, and other belongings on your person.
+
+            This effect is only visual, so any sort of physical contact will only interact with the real size and shape
+            of you. A creature that uses its action to examine you can identify this effect with a successful
+            Intelligence (Investigation) check against your force save DC. This power has no effect on droids or
+            constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Link (Universal Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>Unlimited</range>
+        <duration>24 hours</duration>
+        <text>You create a telepathic link between yourself and a willing creature with which you are familiar. Until
+            the power ends, you and the target can instantaneously share words, images, sounds, and other sensory
+            messages with one another through the link, and the target recognizes you as the creature it is
+            communicating with. The power enables a creature with an Intelligence score of at least 1 to understand the
+            meaning of your words and take in the scope of any sensory messages you send to it.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Master Force Barrier (Light Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>Prerequisite: Improved Force Barrier
+
+            This power massively bolsters your allies with toughness and resolve. Creatures of your choice in a 30-foot
+            radius around you when you cast this power gain the following benefits:
+
+            • The creature sheds dim light in a 5-foot radius.
+            • The creature has advantage on all saving throws
+            • Other creatures have disadvantage on attack rolls against them.
+            • When a dark side creature hits them with a melee attack, that creature must make a Constitution saving
+            throw or be blinded until the power ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Chain Lightning (Dark Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>150 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Force Lightning
+
+            You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three
+            bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of
+            the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
+
+            A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or
+            half as much damage on a successful one.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, one additional bolt leaps
+            from the first target to another target for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>10d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Destroy Droid (Light Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>120 feet (30-foot cube)</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>Prerequisite: Disable Droid
+
+            Choose a point that you can see within range. Each droid must succeed on a Constitution saving throw or be
+            paralyzed for the duration. At the beginning of each of its turns, the droid takes energy damage equal to
+            twice your forcecasting ability modifier and then repeats this saving throw. On a success, the power ends on
+            the target.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Beacon of Hope (Light Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Heroism
+
+            This power bestows hope and vitality. Choose any number of creatures within range. For the duration, each
+            target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit
+            points possible from any healing.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Earthquake (Universal Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>500 feet</range>
+        <duration>Up to 1 minute, Concentration</duration>
+        <text>Prerequisite: Eruption
+
+            You create a seismic disturbance at a point on the ground that you can see within range. For the duration,
+            an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes
+            creatures and structures in contact with the ground in that area.
+
+            The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must
+            make a Constitution saving throw. On a failed save, the creature’s concentration is broken.
+
+            When you cast this power and at the end of each turn you spend concentrating on it, each creature on the
+            ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked prone.
+
+            This power can have additional effects depending on the terrain in the area, as determined by the GM.
+
+            Fissures: Fissures open throughout the power’s area at the start of your next turn after you cast the power.
+            A total of 1d6 such fissures open in locations chosen by the GM. Each is 1d10 x 10 feet deep, 10 feet wide,
+            and extends from one edge of the power’s area to the opposite side. A creature standing on a spot where a
+            fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves
+            with the fissure’s edge as it opens.
+
+            A fissure that opens beneath a structure causes it to automatically collapse (see below).
+
+            Structures: The tremor deals 50 kinetic damage to any structure in contact with the ground in the area when
+            you cast the power and at the start of each of your turns until the power ends. If a structure drops to 0
+            hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a
+            structure’s height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 kinetic
+            damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an
+            action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a
+            successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <roll>5d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sanctuary (Light Force)</name>
+        <level>1</level>
+        <time>1 bonus action</time>
+        <range>30 feet</range>
+        <duration>1 minute</duration>
+        <text>Until the power ends, any creature who targets the warded creature with an attack, a harmful power, or a
+            hostile action must first make a Wisdom saving throw. On a failed save, the creature must choose a new
+            target or lose the attack or power. This power doesn’t protect the warded creature from area effects.
+
+            If the warded creature makes an attack, casts a power that affects an enemy creature, or takes a hostile
+            action this power ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Force Camouflage (Universal Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Force Camouflage
+
+            A willing creature you touch becomes invisible until the power ends. Anything the target is wearing or
+            carrying is invisible as long as it is on the target’s person.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Resistance (Universal Force)</name>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 minute, Concentration</duration>
+        <text>You touch one willing creature. Once before the power ends, the target can roll a d4 and add the number
+            rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The power
+            then ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Affect Mind (Universal Force)</name>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, concentration</duration>
+        <text>Choose a target within range that isn’t hostile toward you. The target must make a Wisdom saving throw. On
+            a failed save, you have advantage on all Charisma checks directed at that target.
+
+            On a successful save, the creature realizes that you tried to use the Force to influence its mood and
+            becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek
+            retribution in other ways (at the DM’s discretion), depending on the nature of your interaction with it.
+            This power has no effect on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sap Vitality (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>Make a melee force attack against a creature you can reach. On a hit, the target takes 3d10 necrotic
+            damage.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the damage increases by
+            1d10 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3d10</roll>
+        <roll>4d10</roll>
+        <roll>5d10</roll>
+        <roll>6d10</roll>
+        <roll>7d10</roll>
+        <roll>8d10</roll>
+        <roll>9d10</roll>
+        <roll>10d10</roll>
+        <roll>11d10</roll>
+        <roll>12d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Dark Side Tendrils (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self (10 foot radius)</range>
+        <duration>Instantaneous</duration>
+        <text>Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in
+            that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t
+            take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no
+            other effect.
+
+            Force Potency: When you cast this power using a power slot of 2nd level or higher, the damage increases by
+            1d6 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <roll>5d6</roll>
+        <roll>6d6</roll>
+        <roll>7d6</roll>
+        <roll>8d6</roll>
+        <roll>9d6</roll>
+        <roll>10d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Battle Meditation (Universal Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>Self (15-foot radius)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Battle Meditation
+
+            You exude an aura out to 15 feet that boosts the morale and overall battle prowess you and your allies while
+            simultaneously reducing the opposition’s combat-effectiveness by eroding their will to fight.
+
+            Whenever you or a friendly creature within your meditation makes an attack roll or a saving throw, they can
+            roll a d6 and add the number rolled to the attack roll or saving throw.
+
+            Whenever a hostile creature starts enters your meditation or starts its turn there, it must make a Charisma
+            saving throw. On a failed save, it must roll a d6 and subtract the number rolled from each attack roll or
+            saving throw it makes before the end of your next turn. On a successful save, it is immune to this power for
+            1 day.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Restoration (Light Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Restoration
+
+            You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the
+            target’s exhaustion level by one, or end one of the following effects on the target:
+
+            • One effect that charmed the target.
+            • One curse, including the target’s attunement to a cursed item.
+            • Any reduction to one of the target’s ability scores.
+            • One effect reducing the target’s hit point maximum.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Body (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 hour</duration>
+        <text>This power enables you to use your health to fuel your force powers. For the duration, when you cast a
+            force power, half the cost is paid by your force points (rounded up) and half the cost is paid by your hit
+            points (rounded down). Additionally, your maximum hit points are decreased by this amount while the power is
+            active.
+
+            You may end this effect at any time. If you cast a force power that would reduce your hit points to 0, the
+            power automatically fails and this effect ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Saber Reflect (Universal Force)</name>
+        <time>1 reaction*</time>
+        <range>Self</range>
+        <duration>Instantaneous</duration>
+        <text>*which you take in response to being hit by a ranged attack.
+
+            In response to being attacked, you raise your weapon to attempt to deflect. When you you use this power, the
+            damage you take from the attack is reduced by 1d6. If you reduce the damage to 0, you’re wielding a
+            lightweapon or vibroweapon, and the damage is energy or ion, you can reflect the attack at a target within
+            range as part of the same reaction. Make a ranged force attack at a target you can see. The attack has a
+            normal range of 20 feet and a long range of 60 feet. On a hit, the target takes the triggering attack’s
+            normal damage.
+
+            The power’s damage reduction increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th
+            level (4d6).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Immunity (Universal Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>An immobile, faintly shimmering barrier springs into existence around you and remains for the duration.
+            The barrier moves with you.
+
+            Any force power of 3rd level or lower cast from outside the barrier can’t affect you, even if the power is
+            cast using a higher level force slot. Such a power can target you, but the power has no effect on you.
+            Similarly, the area within the barrier is excluded from the areas affected by such powers.
+
+            Force Potency: When you cast this power using a force slot of 5th level or higher, the barrier blocks powers
+            of one level higher for each slot level above 4th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Force Scream (Dark Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>Self (30-foot radius)</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Force Scream
+
+            You emit a violent scream imbued with the power of the Force. Each creature you choose within 30 feet of you
+            must succeed on a Constitution saving throw. On a failed save, a creature take 5d6 psychic damage, 5d6 sonic
+            damage, is deafened, and is knocked prone. On a successful save, it takes half as much damage and isn’t
+            deafened or knocked prone.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>5d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Affliction (Dark Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Slow
+
+            Choose a creature that you can see within range. That creature must make a Constitution saving throw. On a
+            failed save, the target’s speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it
+            can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the
+            creature’s abilities or items, it can’t make more than one melee or ranged attack during its turn.
+
+            If the creature attempts to cast a power with a casting time of 1 action, roll a d20. On an 11 or higher,
+            the power doesn’t take effect until the creature’s next turn, and the creature must use its action on that
+            turn to complete the power. If it can’t, the power is wasted.
+
+            The creatures makes another Wisdom saving throw at the end of its turn. On a successful save, the effect
+            ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Disperse Force (Universal Force)</name>
+        <level>1</level>
+        <time>1 reaction*</time>
+        <range>Self</range>
+        <duration>1 round</duration>
+        <text>Prerequisite: Saber Ward
+
+            * which you take when you take cold, energy, fire, ion, lightning, or sonic damage
+
+            This power absorbs damage from incoming energy attacks, lessening its effect on you and distributing it
+            throughout your body. You have resistance to the triggering damage type until the start of your next turn.
+            Also, you gain 5 temporary hit points to potentially absorb the attack. These temporary hit points last
+            until the start of your next turn.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the temporary hit points
+            increases by 5 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Stasis (Light Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Stun
+
+            Choose up to 3 creatures that you can see within range. Each target must succeed on a Wisdom saving throw or
+            be paralyzed for the duration. This power has no effect on droids or constructs. At the end of each of its
+            turns, a target can make another Wisdom saving throw. On a success, the power ends on the target.
+
+            Force Potency: When you cast this power using a force slot of 6th level or higher, you can target an
+            additional creature for each slot level above 5th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Shock (Dark Force)</name>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You hurl a bolt of lightning at a target within range, making a ranged power attack. On a hit, the target
+            takes 1d10 lightning damage. The lightning ignites flammable objects in the area that aren’t being worn or
+            carried.
+
+            This power’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level
+            (4d10).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d10</roll>
+        <roll>2d10</roll>
+        <roll>3d10</roll>
+        <roll>4d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Eruption (Universal Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Convulsion
+
+            You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each
+            pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar
+            appears must be wide enough for its diameter, and you can target the ground under a creature if that
+            creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a
+            pillar crumbles into rubble, which creates an area of difficult terrain with a 10 - foot radius that lasts
+            until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by
+            hand.
+
+            If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted
+            by the pillar. A creature can choose to fail the save.
+
+            If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on
+            the pillar takes 6d6 kinetic damage and is restrained, pinched between the pillar and the obstacle. The
+            restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against
+            the power’s save DC. On a success, the creature is no longer restrained and must either move off the pillar
+            or fall off it.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, you can create two
+            additional pillars for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>6d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Convulsion (Universal Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Tremor
+
+            Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a
+            20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A
+            creature takes 3d12 kinetic damage on a failed save, or half as much damage on a successful one.
+            Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of
+            the area requires at least 1 minute to clear by hand.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the damage increases by
+            1d12 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>3n12</roll>
+        <roll>4n12</roll>
+        <roll>5n12</roll>
+        <roll>6n12</roll>
+        <roll>7n12</roll>
+        <roll>8n12</roll>
+        <roll>9n12</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Coerce Mind (Universal Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>Up to 8 hours, Concentration</duration>
+        <text>Prerequisite: Affect Mind
+
+            You suggest a course of activity (limited to a sentence or two) and influence with the Force a creature you
+            can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this
+            effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable.
+            Asking the creature to harm itself automatically negates the effect of the power.
+
+            The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described
+            to the best of its ability. The suggested course of action can continue for the entire duration. If the
+            suggested activity can be completed in a shorter time, the power ends when the subject finishes what it was
+            asked to do.
+
+            You can also specify conditions that will trigger a special activity during the duration. For example, you
+            might suggest that a soldier give her speeder to the first vagrant she meets. If the condition isn’t met
+            before the power expires, the activity isn’t performed.
+
+            If you or any of your companions damage the target, the power ends. This power has no effect on droids or
+            constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Freedom of Movement (Universal Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 hour</duration>
+        <text>You touch a willing creature. Its movement is unaffected by difficult terrain, and powers and enhanced
+            effects can’t reduce its speed or cause it to be paralyzed or restrained.
+
+            The target can spend 5 feet of movement to automatically escape from unenhanced restraints. Additionally,
+            being underwater imposes no penalties on its movement or attacks.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Animate Weapon (Universal Force)</name>
+        <level>2</level>
+        <time>1 bonus action</time>
+        <range>60 feet</range>
+        <duration>1 minute</duration>
+        <text>Prerequisite: Force Disarm
+
+            You select a melee weapon you wield, or one melee weapon within range that is not worn or carried by a
+            conscious creature, and use the Force to cause it to levitate, acting as an extension of your will for the
+            duration or until you cast this power again. When you use this power, you can cause the weapon to move up to
+            20 feet and make a melee force attack against a creature within 5 feet of it. On a hit, the target takes 1d8
+            + your forcecasting ability modifier damage. The type is of the normal damage dealt by the weapon.
+
+            While the weapon is animated, on each of your turns you can use a bonus action to move the weapon up to 20
+            feet and repeat the attack against a creature within 5 feet of it. At any time, you can end this force power
+            to return the animated weapon to your hand.
+
+            An enemy can attempt to gain control of the weapon by making a Strength (Athletics) check against your force
+            save DC. On a success, the creature gains control of the weapon and the power ends.
+
+            Force Potency: When you cast this power using a force slot of 3rd level or higher, the weapon’s damage
+            increases by 1d8 for every two slot levels above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Darkness (Dark Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>Darkness spreads from a point you choose within range to fill a 15-foot-radius sphere until the power
+            ends. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and
+            unenhanced light can’t illuminate it.
+
+            If the point you choose is on an object you are holding or one that isn’t being worn or carried, the
+            darkness comes from the object and moves with it. Completely covering the source of the darkness with an
+            opaque object blocks the darkness.
+
+            If this power’s area overlaps with light created by a 2nd-level power or lower, this power and the light are
+            dispelled.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Burst of Speed (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 hour</duration>
+        <text>You touch a creature. The target’s speed increases by 10 feet until the power ends.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you can target one
+            additional creature for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Guardian, Sentinel, Consular</classes>
+    </spell>
+    <spell>
+        <name>Curse (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Denounce
+
+            Up to three creatures of your choice that you can see within range must make Charisma saving throws.
+            Whenever a target that fails this saving throw makes an attack roll or a saving throw before the power ends,
+            the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, you can target one
+            additional creature for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Choke (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You make a constricting gesture at a creature within range. The target must make a Constitution saving
+            throw. On a failed save target takes 5d8 force damage and is restrained until the end of your next turn. On
+            a successful save, the target takes half as much damage and is not restrained.
+
+            You can use a bonus action while the target is restrained to move the target up to 5 feet in any direction.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the damage increases by
+            1d8 for each slot level above 3rd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Plant Surge (Light Force)</name>
+        <level>3</level>
+        <time>1 action or 8 hours</time>
+        <range>150 feet</range>
+        <duration>Instantaneous</duration>
+        <text>If you cast this power using 1 action, all normal plants in a 100-foot radius centered on a point become
+            overgrown. Moving through the area spends 4 feet of movement for every 1 foot moved. You can exclude areas
+            of any size within the power’s area from being affected.
+
+            If you cast this power over 8 hours, all plants in a half-mile radius centered on a point yield twice the
+            normal amount of food when harvested for 1 year.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Wound (Dark Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You make a piercing gesture at a creature within range. Make a ranged force attack against the target. On
+            a hit, the target takes 2d8 necrotic damage and must make a Constitution saving throw. On a failed save, it
+            is also poisoned until the end of your next turn.
+
+            Force Potency: When you cast this power using a force slot of 2nd level or higher, the damage increases by
+            1d8 for each slot level above 1st.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <roll>6d8</roll>
+        <roll>7d8</roll>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <roll>10d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Death Field (Dark Force)</name>
+        <level>8</level>
+        <time>1 action</time>
+        <range>90 feet (30-foot cube)</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Siphon Life
+
+            You draw the life force from every creature in a 30-foot cube centered on a point you choose within range.
+            Each creature in that area must make a Constitution saving throw. A creature takes 10d8 necrotic damage on a
+            failed save, or half as much damage on a successful one. If you reduce a hostile creature to 0, you gain
+            temporary hit points equal to half the damage dealt. This power has no effect on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>10d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Shroud of Darkness (Dark Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Darkness
+
+            You become heavily obscured to others. Dim light within 10 feet of you becomes darkness, and bright light
+            becomes dim light.
+
+            Until the power ends, you have resistance to force damage. In addition, whenever a creature within 10 feet
+            of you hits you with an attack, it takes 2d8 necrotic damage.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Wall of Light (Light Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>90 feet</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>You conjure an immense manifestation of destructive light side Force energy. The wall appears within range
+            and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet
+            thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides
+            three-quarters cover and its space is difficult terrain.
+
+            When a creature enters the wall’s area for the first time on a turn or starts its turn there, it must make a
+            Dexterity saving throw. On a failed save, the creature takes 6d10 force damage, or half as much on a
+            success.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>6d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Turbulence (Light Force)</name>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Choose one creature, or choose two creatures that are within 5 feet of each other, within range. A target
+            must succeed on a Dexterity saving throw or take 1d6 force damage.
+
+            This power’s damage increases by 1d6 when you reach 5th, 11th, and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Crush (Dark Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Choke
+
+            You make a crushing gesture at a creature within range. The target must make a Constitution saving throw. On
+            a failed save target takes 10d8 force damage and is paralyzed until the end of your next turn. On a
+            successful save, the target takes half as much damage and is not paralyzed.
+
+            You can use a bonus action while the target is paralyzed to move the target up to 10 feet in any direction.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, the damage increases by
+            1d8 for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>10d8</roll>
+        <roll>11d8</roll>
+        <roll>12d8</roll>
+        <roll>13d8</roll>
+        <roll>14d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Breach (Universal Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>120 feet (20-foot cube)</range>
+        <duration>Instantaneous</duration>
+        <text>Choose a spot within range. All force powers of 5th level or lower in the area end. For each force power
+            of 6th level or higher in the area, make an ability check using your forcecasting ability. The DC equals 10
+            + the power’s level. On a successful check, the force power ends.
+
+            Force Potency: When you cast this power using a force slot of 6th level or higher, you automatically end the
+            effects of a force power on the target if the power’s level is equal to or less than the level of the force
+            slot you used.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Breath Control (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>10 minutes</duration>
+        <text>You are able to slow your metabolism in such a way that you can stop breathing and resist the effect of
+            toxins in your body. If you are poisoned, you neutralize the poison. If more than one poison afflicts you,
+            you neutralize one poison that you know is present, or you neutralize one at random.
+
+            For the duration, you have advantage on saving throws against being poisoned, resistance to poison damage,
+            and you no longer need to breathe.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Mass Animation (Universal Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>120 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Animate Weapon
+
+            You snag several objects using the force and whip them into the air around you, controlling them to attack
+            at your command. Choose up to ten unenhanced objects within range that are not being worn or carried. Medium
+            targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You
+            can’t control any object larger than Huge. Each object animates and hovers near you, remaining within 100
+            feet of you for the duration. An animated object behaves as though it is was a construct, with AC, hit
+            points, and attacks determined by its size, and a flying speed of 30 feet.
+
+            As a bonus action, you can mentally direct any object controlled by this power. If you control multiple
+            objects, you can command any or all of them at the same time. You decide what action the object will take
+            and where it will move. The objects act at the end of your turn. If you command an object to attack, it can
+            make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack
+            bonus and kinetic damage determined by its size.
+
+            Tiny 20 16 +6 to hit, 1d4 + 3 damage
+            Small 25 15 +6 to hit, 1d8 + 2 damage
+            Medium 40 13 +5 to hit, 2d6 + 1 damage
+            Large 50 10 +6 to hit, 2d10 + 2 damage
+            Huge 80 10 +8 to hit, 2d12 + 4 damage
+
+            Force Potency: If you cast this power using a force slot of 6th level or higher, you can animate two
+            additional objects for each slot level above 5th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Telekinetic Burst (Light Force)</name>
+        <level>6</level>
+        <time>1 action</time>
+        <range>Self (60-foot line)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Telekinetic Storm
+
+            A beam of Force energy flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the
+            line must make a Constitution saving throw. On a failed save, a creature takes 8d6 force damage and is
+            knocked prone. On a successful save, it takes half as much damage and isn’t knocked prone.
+
+            You can create a new telekinetic gust as your action on your turn until the power ends.
+
+            Force Potency: When you cast this power using a force slot of 7th level or higher, the damage increases by
+            2d6 for each slot level above 6th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>8d6</roll>
+        <roll>10d6</roll>
+        <roll>12d6</roll>
+        <roll>14d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Phasestrike (Universal Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Phasestrike
+
+            Choose up to five creatures you can see within range. Make a melee force attack against each one. On hit, a
+            target takes 6d10 force damage. You can then teleport to an unoccupied space you can see within 5 feet of
+            one of the creatures you chose.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>6d10</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Spare the Dying (Light Force)</name>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>You touch a living creature that has 0 hit points. The creature becomes stable. This power has no effect
+            on droids or constructs.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Lightning Charge (Dark Force)</name>
+        <time>1 action</time>
+        <range>Varies</range>
+        <duration>1 round</duration>
+        <text>You imbue your weapon with debilitating force lightning. As part of the action used to cast this power,
+            you must make a melee attack with a weapon against one creature within your weapon’s reach, otherwise the
+            power fails. On a hit, the target suffers the attack’s normal effects, and the lightning leaps from the
+            target to a different creature of your choice that you can see within 5 feet of it. The second creature
+            takes lightning damage equal to your forcecasting ability modifier.
+
+            This power’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra
+            1d8 lightning damage to the target, and the lightning damage to the second creature increases to 1d8 + your
+            forcecasting ability modifier. Both damage rolls increase by 1d8 at 11th level and 17th level.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+        <roll>3d8</roll>
+        <roll>4d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Bestow Curse (Dark Force)</name>
+        <level>3</level>
+        <time>1 action</time>
+        <range>Touch</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Curse
+
+            You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the
+            duration of the power. When you cast this power, choose the nature of the curse from the following options:
+
+            • Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws
+            made with that ability score.
+            • While cursed, the target has disadvantage on attack rolls against you.
+            • While cursed, the target must make a Wisdom saving throw at the start of each of its turns. lf it fails,
+            it wastes its action that turn doing nothing.
+            • While the target is cursed, your attacks and powers deal an extra 1d8 necrotic damage to the target.
+
+            A remove curse power ends this effect. At the GM’s discretion, you may choose an alternative curse effect,
+            but it should be no more powerful than those described above. The GM has final say on such a curse’s effect.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sever Force (Universal Force)</name>
+        <level>3</level>
+        <time>1 reaction</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You attempt to interrupt a creature in the process of casting a force power. If the creature is casting a
+            power of 3rd level or lower, its power fails and has no effect. If it is casting a power of 4th level or
+            higher, make an ability check using your forcecasting ability. The DC equals 10 + the power’s level. On a
+            success, the creature’s power fails and has no effect.
+
+            Force Potency: When you cast this power using a force slot of 4th level or higher, the interrupted power has
+            no effect if its level is less than or equal to the level of the force slot you used.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Sense Force (Universal Force)</name>
+        <level>1</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>For the duration, you sense the use of the Force, or its presence in an inanimate object within 30 feet of
+            you. If you sense the Force in this way, you can use your action to determine the direction from which it
+            originates and, if it’s in line of sight, you see a faint aura around the person or object from which the
+            Force emanates.
+
+            Force Potency: When you cast this power using a 3rd-level force slot, the range increases to 60 feet. When
+            you use a 5th-level force slot, the range increases to 500 feet. When you use a 7th-level force slot, the
+            range increases to 1 mile. When you use a 9th-level force slot, the range increases to 10 miles.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Phasewalk (Universal Force)</name>
+        <level>5</level>
+        <time>1 bonus action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Phasewalk
+
+            You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the power ends,
+            you can use a bonus action to teleport in this way again.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Siphon Life (Dark Force)</name>
+        <level>5</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Drain Life
+
+            A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life
+            from it. The target must make a Dexterity saving throw. On a successful save, the target takes 2d8 necrotic
+            damage, and the power ends. On a failed save, the target takes 4d8 necrotic damage, and until the power
+            ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target.
+            The power ends if you use your action to do anything else, if the target is ever outside the power’s range,
+            or if the target has total cover from you.
+
+            Whenever the power deals damage to a target, you regain hit points equal to half the amount of necrotic
+            damage the target takes.
+
+            Force Potency: When you cast this power using a force slot of 6th level or higher, the damage increases by
+            1d8 for each slot level above 5th.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>2d8</roll>
+        <roll>4d8</roll>
+        <roll>5d8</roll>
+        <roll>7d8</roll>
+        <roll>8d8</roll>
+        <roll>9d8</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Phasewalk (Universal Force)</name>
+        <level>2</level>
+        <time>1 bonus action</time>
+        <range>Self</range>
+        <duration>Instantaneous</duration>
+        <text>You teleport up to 30 feet to an unoccupied space that you can see.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Improved Revitalize (Light Force)</name>
+        <level>7</level>
+        <time>10 minutes</time>
+        <range>Touch</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Revitalize
+
+            You return a dead creature you touch to life, provided that it has been dead no longer than 1 hour. If the
+            creature’s soul is both willing and at liberty to rejoin the body, the creature returns to life with all its
+            hit points.
+
+            This power also neutralizes any poisons and cures diseases that affected the creature at the time it died.
+
+            This power closes all mortal wounds and restores any missing body parts.
+
+            Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws,
+            and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it
+            disappears.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Grasping Vine (Light Force)</name>
+        <level>4</level>
+        <time>1 bonus action</time>
+        <range>30 feet</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Plant Surge
+
+            You make a vine sprout from the ground in an unoccupied space you can see. When you cast this power, you can
+            make the vine whip a creature up to 30 feet from it, if you can see the target. The creature must pass a
+            Dexterity save or be pulled 20 feet directly toward the vine.
+
+            Until the power ends, you can use your bonus action to have the vine lash out again.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Technique (Light Force)</name>
+        <time>1 action</time>
+        <range>Varies</range>
+        <duration>1 round</duration>
+        <text>You select a weapon being worn or carried by a Large or smaller creature within range. The creature must
+            make a Strength or Dexterity saving throw (the creature chooses the ability to use). If the item is being
+            worn, this save is made with disadvantage. On a failed save, the creature takes 1d4 force damage and the
+            item is pulled directly to you. If you have a free hand, you catch the weapon. Otherwise, it lands at your
+            feet.
+
+            This power’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Disable Droid (Light Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>90 feet (15-foot cube)</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Prerequisite: Stun Droid
+
+            Choose a point that you can see within range. Each droid must succeed on a Constitution saving throw or be
+            paralyzed for the duration. At the beginning of each of its turns, the droid takes energy damage equal to
+            your forcecasting ability modifier and then repeats this saving throw. On a success, the power ends on the
+            target.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Burst (Universal Force)</name>
+        <time>1 action</time>
+        <range>Self (5-foot sphere)</range>
+        <duration>Instantaneous</duration>
+        <text>You cause the earth to burst from beneath your feet. Each creature within range, other than you, must
+            succeed on a Dexterity saving throw or take 1d6 kinetic damage.
+
+            This power’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <roll>2d6</roll>
+        <roll>4d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Barrier (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>30 feet</range>
+        <duration>8 hours</duration>
+        <text>This power bolsters your allies with toughness and resolve. Choose up to three creatures within range.
+            Each target’s hit point maximum and current hit points increase by 5 for the duration.
+
+            Force Potency: When you cast this power using a force slot of 3rd level or higher, a target’s hit points
+            increase by an additional 5 for each slot level above 2nd.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Push/Pull (Universal Force)</name>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>You gain the minor ability to move or manipulate creatures and objects with the Force. When you cast this
+            power, you can exert your will on one creature or object that you can see within range, causing the
+            appropriate effect below.
+
+            Creature. You use the Force to push or pull on on a target. Make a ranged force attack against the target.
+            If the attack hits, the creature takes 1d6 force damage, and if the creature is Large or smaller, it must
+            make a Strength saving throw. On a failed save, you push or pull the creature up to 10 feet further or
+            closer to you. This damage increases to 2d6 at level 5, 3d6 at level 11, and 4d6 at level 17.
+
+            Object. You move an object that isn’t being worn or carried and weighs up to 10 lbs up to 30 feet in any
+            direction, but not beyond the range of this power.
+
+            You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool,
+            opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents
+            from a vial.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <roll>1d6</roll>
+        <roll>2d6</roll>
+        <roll>3d6</roll>
+        <roll>4d6</roll>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Ruin (Dark Force)</name>
+        <level>7</level>
+        <time>1 action</time>
+        <range>60 feet</range>
+        <duration>Instantaneous</duration>
+        <text>Prerequisite: Wound
+
+            You channel the dark side of the Force to desecrate a creature you can see within range, causing waves of
+            intense pain to assail it. If the target has 100 hit points or fewer, it is subject to crippling pain.
+            Otherwise, the power has no effect on it.
+
+            While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target
+            also has disadvantage on attack rolls, ability checks, and saving throws, other than Constitution saving
+            throws. Finally, if the target tries to cast a power, it must first succeed on a Constitution saving throw,
+            or the casting fails and the power is wasted.
+
+            A target suffering this pain can make a Constitution saving throw at the end of each of its turns. On a
+            successful save, the pain ends.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Aura of Purity (Light Force)</name>
+        <level>4</level>
+        <time>1 action</time>
+        <range>Self (30-foot radius)</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>Prerequisite: Restoration
+
+            Purifying energy radiates from you in a 30-foot radius. Until the power ends, the aura moves with you,
+            centered on you. Each nonhostile creature in the aura (including you) can’t become diseased, has resistance
+            to poison damage, and has advantage on saving throws against effects that cause any of the following
+            conditions: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Locate Object (Universal Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>1 minute, Concentration</duration>
+        <text>Describe or name an object. You sense the direction to the object’s location, as long as its within 1000
+            feet of you. If the object is in motion, you know the direction of its movement. The power can locate a
+            specific object known to you, as long as you have seen it while within 30 feet of it. Alternatively, the
+            power can locate the nearest object of a particular kind. This power can’t locate an object if any thickness
+            of lead blocks a direct path between you and the object.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+    <spell>
+        <name>Force Sight (Light Force)</name>
+        <level>2</level>
+        <time>1 action</time>
+        <range>Self</range>
+        <duration>Up to 10 minutes, Concentration</duration>
+        <text>You shift your vision to see through use of the Force; colors fade and inanimate objects appear as shades
+            of gray. You gain the following benefits.
+
+            • Living things glow with the power of the Force. Those with an affinity for the light side glow blue, those
+            with an affinity for the dark side glow red, and those with no attunement to either side of the Force glow
+            yellow. How bright they glow is determined by how strong their connection to the Force is.
+            • You gain blindsight to 30 feet.
+            • You have advantage on Wisdom (Perception) checks that rely on sight against living targets within 30 feet.
+
+            Source: SW5e Player&#39;s Handbook
+        </text>
+        <classes>Consular, Guardian, Sentinel</classes>
+    </spell>
+</compendium>
