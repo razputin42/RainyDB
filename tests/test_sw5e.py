@@ -1,5 +1,5 @@
 from RainyDatabase import RainyDatabase, EntryType
-from RainyCore import System, MonsterSW5e, SpellSW5e, Item
+from RainyCore import System, MonsterSW5e, PowerSW5e, ItemSW5e
 import os
 import unittest
 
@@ -15,8 +15,8 @@ class TestSW5EDatabase(unittest.TestCase):
     def test__load_system_classes(self):
         expected_classes = dict({
             EntryType.Monster: MonsterSW5e,
-            EntryType.Spell: SpellSW5e,
-            EntryType.Item: Item
+            EntryType.Spell: PowerSW5e,
+            EntryType.Item: ItemSW5e
         })
         self.assertDictEqual(expected_classes, self.db.entry_classes)
 
