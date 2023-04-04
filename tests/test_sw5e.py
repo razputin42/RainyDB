@@ -1,39 +1,28 @@
-from RainyDatabase import RainyDatabase, EntryType
-from RainyCore import System, MonsterSW5e, PowerSW5e, ItemSW5e
+from RainyDatabase import RainyDatabase, EntryType, Entry, System
 import os
 import unittest
 
 
 class TestSW5EDatabase(unittest.TestCase):
-    def setUp(self) -> None:
-        if os.getcwd().endswith("tests"):
-            path = ".."
-        else:
-            path = "."
-        self.db = RainyDatabase(path=path, system=System.SW5e)
-
-    def test__load_system_classes(self):
-        expected_classes = dict({
-            EntryType.Monster: MonsterSW5e,
-            EntryType.Spell: PowerSW5e,
-            EntryType.Item: ItemSW5e
-        })
-        self.assertDictEqual(expected_classes, self.db.entry_classes)
-
-    def test_sw5e_monsters(self):
-        self.db.validate_monsters()
-
-    def test_sw5e_spells(self):
-        self.db.validate_spells()
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.db = RainyDatabase(
+            system=System.SW5e,
+            system_entry_classes={
+                EntryType.Monster: Entry,
+                EntryType.Power: Entry,
+                EntryType.Item: Entry
+            }
+        )
 
     def test_get_monsters(self):
-        monsters = self.db.get_monsters()
-        self.assertEqual(113, len(monsters))
+        monsters = self.db.get(EntryType.Monster)
+        self.assertEqual(271, len(monsters))
 
     def test_get_spells(self):
-        spells = self.db.get_spells()
-        self.assertEqual(310, len(spells))
+        spells = self.db.get(EntryType.Power)
+        self.assertEqual(465, len(spells))
 
     def test_get_items(self):
-        items = self.db.get_items()
-        self.assertEqual(0, len(items))
+        items = self.db.get(EntryType.Item)
+        self.assertEqual(507, len(items))

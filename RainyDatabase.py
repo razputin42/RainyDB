@@ -1,8 +1,21 @@
-from enum import Enum
+import json
+import logging
 import os
 import xml.etree.ElementTree as ElementTree
-import json
+from enum import Enum
+
 import requests
+
+from sw5e import DatabaseRESTAPI
+
+
+class Entry:
+    def __init__(self, **kwargs):
+        self.attributes = kwargs
+
+class System(Enum):
+    DnD5e = "DnD5e"
+    SW5e = "SW5e"
 
 
 class EntryType(Enum):
@@ -57,33 +70,18 @@ class RainyDatabase:
 
     def __init__(
         self,
-        path,
-        system,
-        include_spells=True,
-        include_items=True,
-        include_monsters=True
-    ):
+        system: System,
+        system_entry_classes: dict,
+        path: str = None
+     ):
         self.system = system
-        monster_cls, item_cls, spell_cls = self.system.get_system_classes()
-        self.entry_classes = dict({
-            EntryType.Monster: monster_cls,
-            EntryType.Spell: spell_cls,
-            EntryType.Item: item_cls
-        })
-        self.entries = dict({
-            EntryType.Monster: dict(),
-            EntryType.Spell: dict(),
-            EntryType.Item: dict()
-        })
+        self.system_entry_classes = system_entry_classes
         self.path = path
-        self.include_spells = include_spells
-        self.include_items = include_items
-        self.include_monsters = include_monsters
-        self.create_srd_list(path)
+        self.entries = {}
         self.load_resources(path)
 
     def create_srd_list(self, path):
-        if self.system.is_DnD5e():
+        if self.system is System.DnD5e:
             path = os.path.join(path, "5", "srd_valid_DO_NOT_DELETE.json")
             if not os.path.exists(path):
                 self.srd_dict = None
@@ -101,123 +99,17 @@ class RainyDatabase:
         else:
             self.srd_dict = None
 
-    def get_monsters(self):
-        return self.entries[EntryType.Monster]
-
-    def get_spells(self):
-        return self.entries[EntryType.Spell]
-
-    def get_items(self):
-        return self.entries[EntryType.Item]
+    def get(self, entry_type):
+        return self.entries[entry_type]
 
     def load_resources(self, path):
-        if self.include_items:
-            self.load_items(path)
-        if self.include_monsters:
-            self.load_monsters(path)
-        if self.include_spells:
-            self.load_spells(path)
-
-        if self.system.is_DnD5e():
-            self.load_collections(path)
-
-    def load_items(self, path):
-        if self.system.is_DnD5e():
-            path = os.path.join(path, "5", "Items", "")
-            self.load_all("./item", path, EntryType.Item)
-        elif self.system.is_SW5e():
-            response = requests.get("https://sw5eapi.azurewebsites.net/api/equipment")
-            entries = json.loads(response.content.decode())
-            self.load_sw5e_content(EntryType.Item, entries)
-
-    def load_monsters(self, path):
-        if self.system.is_DnD5e():
-            path = os.path.join(os.path.join(path, "5", "Bestiary", ""))
-            self.load_all("./monster", path, EntryType.Monster)
-        elif self.system.is_SW5e():
-            response = requests.get("https://sw5eapi.azurewebsites.net/api/monster")
-            entries = json.loads(response.content.decode())
-            self.load_sw5e_content(EntryType.Monster, entries)
-
-    def load_spells(self, path):
-        if self.system.is_DnD5e():
-            path = os.path.join(path, "5", "Spells", "")
-            self.load_all("./spell", path, EntryType.Spell)
-        elif self.system.is_SW5e():
-            response = requests.get("https://sw5eapi.azurewebsites.net/api/power")
-            entries = json.loads(response.content.decode())
-            self.load_sw5e_content(EntryType.Spell, entries)
-
-    def load_powers(self):
-        if self.system.is_DnD5e():
-            self.load_powers()
-        else:
-            return None
-
-    def load_collections(self, path):
-        path = os.path.join(path, "5", "Collections")
-        for resource in os.listdir(path):
-            self.load_collection(path, resource)
-
-    def load_collection(self, path, resource):
-        xml = ElementTree.parse(os.path.join(path, resource))
-        root = xml.getroot()
-        if self.include_spells:
-            for itt, entry in enumerate(root.findall("./spell")):
-                self.insert_individual(
-                    self.entry_classes[EntryType.Spell](entry, itt, self.srd_dict),
-                    self.get_spells(),
-                    resource,
-                    EntryType.Spell
-                )
-
-        if self.include_monsters:
-            for itt, entry in enumerate(root.findall("./monster")):
-                self.insert_individual(
-                    self.entry_classes[EntryType.Monster](entry, itt, self.srd_dict),
-                    self.get_monsters(),
-                    resource,
-                    EntryType.Monster
-                )
-
-        if self.include_items:
-            for itt, entry in enumerate(root.findall("./item")):
-                self.insert_individual(
-                    self.entry_classes[EntryType.Item](entry, itt, self.srd_dict),
-                    self.get_items(),
-                    resource,
-                    EntryType.Item
-                )
-
-    def load_all(self, s, dir, entry_type):
-        for resource in os.listdir(dir):
-            self.load_specific(s, dir, resource, entry_type)
-
-    def load_specific(self, s, dir, resource, entry_type):
-        entry_dict = self.entries[entry_type]
-        entry_class = self.entry_classes[entry_type]
-
-        xml = ElementTree.parse(dir + resource)
-        root = xml.getroot()
-        for itt, entry in enumerate(root.findall(s)):
-            entry_instance = entry_class(entry, itt, self.srd_dict)
-            self.insert_individual(entry_instance, entry_dict, resource, entry_type)
-
-    def load_sw5e_content(self, entry_type, entries):
-        entry_class = self.entry_classes[entry_type]
-        for entry in entries:
-            entry_instance = entry_class(**entry)
-            if entry_type not in self.entries:
-                self.entries[entry_type] = {}
-            self.insert_individual(entry_instance, self.entries[entry_type], "SW5e.com", entry_type)
-
-    def insert_individual(self, entry, dictionary, resource, entry_type):
-        if entry.name not in dictionary.keys():
-            if self.system.is_DnD5e and entry_type == EntryType.Spell and "Invocation: " in entry.name:
-                return
-            dictionary[entry.name] = entry
-        else:
-            entry.handle_duplicate(dictionary[entry.name], resource)
+        for entry_type, entry_class in self.system_entry_classes.items():
+            if self.system is System.DnD5e:
+                print("Closed for renovation!")
+            if self.system is System.SW5e:
+                rest_json_entries = requests.get(DatabaseRESTAPI[entry_type.value])
+                entries = json.loads(rest_json_entries.content.decode())
+                self.entries[entry_type] = [entry_class(**entry) for entry in entries]
 
     def list(self, entry_type):
         entry_dict = self.entries[entry_type]
@@ -233,58 +125,3 @@ class RainyDatabase:
             return None
         else:
             return entry_dict[name]
-
-    def validate_monsters(self):
-        print("Validating Monsters")
-        self.validate_individual(EntryType.Monster)  # validate database fields
-        monsters = self.get_monsters()
-        print("Trialing Actions:")
-        for monster in monsters.values():
-            if not hasattr(monster, "action_list"):
-                continue
-            for action in monster.action_list:
-                if action is None:
-                    print("\t! Faulty Action -", monster.name, action.name)
-                elif not hasattr(action, "name"):
-                    print("\t! Action without name -", monster.name)
-
-    def validate_items(self):
-        entries = self.entries[EntryType.Item]
-        sources = []
-        print("Validating Items")
-        for name, entry in entries.items():
-            skip_append = False
-            if not hasattr(entry, "rarity"):
-                print("\tNo Rarity:", entry.name)
-            elif entry.rarity == "N/A":
-                print("\tUnrealised entry:", entry.name)
-            elif entry.rarity.lower() not in ["common", "uncommon", "rare", "very rare", "legendary", "artifact"]:
-                print("\tFalse Rarity:", entry.name, entry.rarity)
-            else:
-                skip_append = True
-            if not skip_append:
-                for source in entry.source:
-                    if source not in sources:
-                        sources.append(source)
-                continue
-        print("Invalid items from following sources:", sources)
-
-    def validate_spells(self):
-        print("Validating Spells")
-        self.validate_individual(EntryType.Spell)
-
-    def validate_individual(self, entry_type):
-        entries = self.entries[entry_type]
-        for name, entry in entries.items():
-            for req in entry.required_database_fields:
-                if not hasattr(entry, req) or getattr(entry, req) is None:
-                    print(f"Missing! \"{req}\" in {entry.name}")
-
-    def _get_entry_plaintext(self, entry_cls):
-        if EntryType.Monster:
-            return "monstesr"
-        elif EntryType.Item:
-            return "item"
-        elif EntryType.Power:
-            return Power
-        pass
