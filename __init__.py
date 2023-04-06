@@ -1,1 +1,2 @@
-from .RainyDatabase import EntryType, RainyDatabase
+from .entry import EntryType
+from .RainyDatabase import RainyDatabase, System

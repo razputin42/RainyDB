@@ -1,28 +1,15 @@
 import json
-import logging
 import os
-import xml.etree.ElementTree as ElementTree
 from enum import Enum
 
 import requests
 
-from sw5e import DatabaseRESTAPI
-
-
-class Entry:
-    def __init__(self, **kwargs):
-        self.attributes = kwargs
+from .sw5e import DatabaseRESTAPI
+from .entry import EntryType
 
 class System(Enum):
     DnD5e = "DnD5e"
     SW5e = "SW5e"
-
-
-class EntryType(Enum):
-    Monster = "monster"
-    Spell = "spell"
-    Item = "item"
-    Power = "power"
 
 
 class RainyDatabase:
@@ -69,11 +56,11 @@ class RainyDatabase:
     valid_monsters = None
 
     def __init__(
-        self,
-        system: System,
-        system_entry_classes: dict,
-        path: str = None
-     ):
+            self,
+            system: System,
+            system_entry_classes: dict,
+            path: str = None
+    ):
         self.system = system
         self.system_entry_classes = system_entry_classes
         self.path = path
@@ -107,9 +94,9 @@ class RainyDatabase:
             if self.system is System.DnD5e:
                 print("Closed for renovation!")
             if self.system is System.SW5e:
-                rest_json_entries = requests.get(DatabaseRESTAPI[entry_type.value])
+                rest_json_entries = requests.get(DatabaseRESTAPI[entry_type])
                 entries = json.loads(rest_json_entries.content.decode())
-                self.entries[entry_type] = [entry_class(**entry) for entry in entries]
+                self.entries[entry_type] = {entry['name']: entry_class(**entry) for entry in entries}
 
     def list(self, entry_type):
         entry_dict = self.entries[entry_type]
