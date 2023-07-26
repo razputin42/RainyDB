@@ -1,11 +1,13 @@
 import json
+import logging
 import os
 from enum import Enum
 
 import requests
 
-from .sw5e import DatabaseRESTAPI
 from .entry import EntryType
+from .sw5e import DatabaseRESTAPI
+
 
 class System(Enum):
     DnD5e = "DnD5e"
@@ -89,10 +91,10 @@ class RainyDatabase:
     def get(self, entry_type):
         return self.entries[entry_type]
 
-    def load_resources(self, path):
+    def load_resources(self, path: str):
         for entry_type, entry_class in self.system_entry_classes.items():
             if self.system is System.DnD5e:
-                print("Closed for renovation!")
+                logging.info("Closed for renovation!")
             if self.system is System.SW5e:
                 rest_json_entries = requests.get(DatabaseRESTAPI[entry_type])
                 entries = json.loads(rest_json_entries.content.decode())
