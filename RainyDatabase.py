@@ -103,7 +103,7 @@ class RainyDatabase:
     def list(self, entry_type):
         entry_dict = self.entries[entry_type]
         for name in entry_dict:
-            print(name)
+            logging.info(name)
 
     def length(self, entry_type):
         return len(self.entries[entry_type])
