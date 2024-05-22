@@ -1,7 +1,10 @@
 import json
 import logging
 import os
+import pathlib
 from enum import Enum
+
+import xml.etree.ElementTree as ET
 
 import requests
 
@@ -89,12 +92,18 @@ class RainyDatabase:
             self.srd_dict = None
 
     def get(self, entry_type):
-        return self.entries[entry_type]
+        return self.entries.get(entry_type, [])
 
-    def load_resources(self, path: str):
+    def load_resources(self, path: pathlib.Path):
         for entry_type, entry_class in self.system_entry_classes.items():
             if self.system is System.DnD5e:
-                logging.info("Closed for renovation!")
+                if entry_type is EntryType.Power:
+                    _path = path / "5" / "Spells"
+                elif entry_type is EntryType.Monster:
+                    _path = path / "5" / "Bestiary"
+                elif entry_type is EntryType.Item:
+                    _path = path / "5" / "Items"
+                self.load_xml_entries(_path, entry_type, entry_class)
             if self.system is System.SW5e:
                 rest_json_entries = requests.get(DatabaseRESTAPI[entry_type])
                 entries = json.loads(rest_json_entries.content.decode())
@@ -114,3 +123,23 @@ class RainyDatabase:
             return None
         else:
             return entry_dict[name]
+
+    def load_xml_entries(self, path, entry_type, entry_class):
+        path = pathlib.Path(path)
+        logging.info(f"Loading resources from {path}")
+        for file in path.rglob("*.xml"):
+            logging.debug(f"Loading {file}")
+            file_entries = self.parse_xml_entries(file, entry_class)
+            if entry_type not in self.entries:
+                self.entries[entry_type] = file_entries
+            else:
+                self.entries[entry_type].update(file_entries)
+
+    def parse_xml_entries(self, file: str, entry_class) -> list:
+        tree = ET.parse(file)
+        root = tree.getroot()
+        entries = {}
+        for xml_entry in root:
+            entry = entry_class(xml_entry)
+            entries[entry.get_name()] = entry
+        return entries
